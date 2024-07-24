@@ -1,0 +1,5123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>MVX</name>
+      <longname>Merveaux</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Congregation Aspirant</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Congregation Aspirant or an artifact enters the battlefield under your control, scry 1.</text>
+    </card>
+    <card>
+      <name>Operahouse Gossip</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1W/B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Operahouse Gossip enters the battlefield, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Pudding Cat</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1G/W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Food Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pudding Cat dies, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Paper Familiars</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2U/B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
+    </card>
+    <card>
+      <name>Blase Cuisinier</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dwarf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Blasé Cuisinier enters the battlefield, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Mechanical Racer</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2R/W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mechanical Racer has first strike as long as it’s attacking.</text>
+    </card>
+    <card>
+      <name>Bardic Historian</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4U/R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bardic Historian enters the battlefield, return target instant, sorcery, or Saga card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Inspirational Performer</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Bard Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Inspirational Performer enters the battlefield, put two +1/+1 counters on another target creature you control.</text>
+    </card>
+    <card>
+      <name>Skystone Seraph</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Skystone Seraph enters the battlefield, scry 1 and you gain 1 life. If you control two or more artifacts, scry 3 and you gain 3 life instead.</text>
+    </card>
+    <card>
+      <name>Colossal Puppetry</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Cat Dog Scarecrow </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Colossal Puppetry exploits a creature, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Deride</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature.
+Scry 2.</text>
+    </card>
+    <card>
+      <name>Forgefire Spray</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Forgefire Spray deals 2 damage to target attacking or blocking creature. If you control two or more artifacts, Forgefire Spray deals 4 damage to that creature instead.</text>
+    </card>
+    <card>
+      <name>Creativity</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {3}
+At the beginning of your upkeep, if you control another creature, an artifact, another enchantment, a land, and a planeswalker, you win the game.</text>
+    </card>
+    <card>
+      <name>Marquis Vaasco de Moraes</name>
+      <set rarity="mythic" splitterPath="/Marquis Vaasco de Moraes.png" >MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Zombie Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Marquis Vaasco de Moraes enters the battlefield, you may return target non-Zombie creature card from your graveyard to the battlefield.
+Legacy RWB
+---
+(Back): The Grand Revival</text>
+      <related attach="transform">The Grand Revival</related>
+    </card>
+    <card>
+      <name>The Grand Revival</name>
+      <set rarity="mythic" splitterPath="/The Grand Revival.png" >MVX</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Legendary Enchantment - Saga </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Sacrifice a creature or The Grand Revival.
+You gain 3 life.
+If The Grand Revival would be put into exile this turn, instead exile it, then return it to the battlefield. (Front face up.)
+Exile The Grand Revival, then return it to the battlefield.
+---
+(Front): Marquis Vaasco de Moraes</text>
+    </card>
+    <card>
+      <name>Pascal, Critics&apos; Favorite</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Pascal </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Put a +1/+1 counter on up to one target creature. If it’s a token, put an additional +1/+1 counter on it.
+[-1]: Create a 1/1 green Plant creature token and a Food token.
+[-4]: Creatures you control get +X/+X and trample until end of turn, where X is the number of tokens you control.</text>
+    </card>
+    <card>
+      <name>Lyon, Aged Inventor</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Lyon </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Create a 1/1 colorless Thopter artifact creature token with flying.
+[+1]: You gain 3 life. Draw a card.
+[-3]: Return target instant, sorcery or artifact card from your graveyard to your hand.
+[-7]: Search your hand and/or library for an instant, sorcery or artifact card. You may cast it without paying its mana cost. If you search your library this way, shuffle.</text>
+    </card>
+    <card>
+      <name>PROMO Back-Alley Theatre</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Back-Alley Theatre enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {B}.
+{T}, Pay 1 life: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>PROMO Sunlit Park</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Sunlit Park enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {R}.
+{T}, Pay 1 life: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>PROMO Discreet Gallery</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Discreet Gallery enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {U}.
+{T}, Pay 1 life: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>PROMO Vibrant Concourse</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Vibrant Concourse enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {W}.
+{T}, Pay 1 life: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>PROMO Delightful Patisserie</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Delightful Patisserie enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {G}.
+{T}, Pay 1 life: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Back-Alley Theatre</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Back-Alley Theatre enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {B}.
+{T}, Pay 1 life: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Sunlit Park</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Sunlit Park enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {R}.
+{T}, Pay 1 life: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Discreet Gallery</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Discreet Gallery enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {U}.
+{T}, Pay 1 life: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Vibrant Concourse</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Vibrant Concourse enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {W}.
+{T}, Pay 1 life: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Delightful Patisserie</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>As Delightful Patisserie enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {G}.
+{T}, Pay 1 life: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Serene Museum</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Serene Museum enters the battlefield tapped.
+When Serene Museum enters the battlefield, scry 1.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Hushed Library</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Hushed Library enters the battlefield tapped.
+When Hushed Library enters the battlefield, scry 1.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Charming Playhouse</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Charming Playhouse enters the battlefield tapped.
+When Charming Playhouse enters the battlefield, scry 1.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Orator&apos;s Forum</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Orator’s Forum enters the battlefield tapped.
+When Orator’s Forum enters the battlefield, scry 1.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Abundant Garden</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Abundant Garden enters the battlefield tapped.
+When Abundant Garden enters the battlefield, scry 1.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Muted Auditorium</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Muted Auditorium enters the battlefield tapped.
+When Muted Auditorium enters the battlefield, scry 1.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Seedy Kitchen</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Seedy Kitchen enters the battlefield tapped.
+When Seedy Kitchen enters the battlefield, scry 1.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Lively Tavern</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Lively Tavern enters the battlefield tapped.
+When Lively Tavern enters the battlefield, scry 1.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Artificer&apos;s Workshop</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Artificer’s Workshop enters the battlefield tapped.
+When Artificer’s Workshop enters the battlefield, scry 1.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Gorge on Snacks</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 and gains trample until end of turn.
+If {W} was spent to cast this spell, it gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Change Perspective</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard a card.
+If {G} was spent to cast this spell, you may put a land card from your hand onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Rushed Production</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 colorless Gnome artifact creature tokens.
+If {R} was spent to cast this spell, they gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Clash of Egos</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control if {G} was spent to cast this spell. Then it fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Soup Elemental</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Food Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Soup Elemental enters the battlefield, create a 1/1 green Plant creature token.
+When Soup Elemental dies, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Mechanical Strix</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+5U, Sacrifice Mechanical Strix: Draw two cards. This ability costs {1} less to activate for each other artifact you control.</text>
+    </card>
+    <card>
+      <name>Prolific Novelist</name>
+      <set rarity="common" splitterPath="/Prolific Novelist.png" >MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dwarf Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prolific Novelist enters the battlefield, you may draw a card. If you do, discard a card.
+Legacy 1U (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Enchanted Quill</text>
+      <related attach="transform">Enchanted Quill</related>
+    </card>
+    <card>
+      <name>Enchanted Quill</name>
+      <set rarity="common" splitterPath="/Enchanted Quill.png" >MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0.
+When Enchanted Quill enters the battlefield, you may draw a card. If you do, discard a card.
+Equip {1}
+---
+(Front): Prolific Novelist</text>
+    </card>
+    <card>
+      <name>Atelier Artisan</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — When Atelier Artisan enters the battlefield, look at the top three cards of your library. Put two of them into your graveyard. Then if there are four or more card types among cards in your graveyard, draw a card.</text>
+    </card>
+    <card>
+      <name>Prevent Catastrophe</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}.
+Delirium — If there are four or more card types among cards in your graveyard, instead counter that spell unless its controller pays {4}.</text>
+    </card>
+    <card>
+      <name>Annul</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target artifact or enchantment spell.</text>
+    </card>
+    <card>
+      <name>Fiendish Fromager</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warlock Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Fiendish Fromager enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Artistic Benefactor</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Artistic Benefactor enters the battlefield, you may return target creature card with mana value 2 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Motivation Sapper</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Motivation Sapper exploits a creature, target creature gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Exhausting Rehearsal</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or pay {4}.
+Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Macabre Prop</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Macabre Prop enters the battlefield, each opponent sacrifices a creature.
+2B, {T}, Sacrifice Macabre Prop: Each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Overworked</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -2/-2.
+Delirium — At the beginning of the enchanted creature’s controller’s upkeep, they lose 1 life. If there are four or more card types among cards in your graveyard, they lose 2 life instead.</text>
+    </card>
+    <card>
+      <name>Casting Call</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Casting Call enters the battlefield, return target creature card from your graveyard to your hand.
+{B}, Discard a card, Sacrifice Casting Call: Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Understudy</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”</text>
+    </card>
+    <card>
+      <name>Aspiring Performer</name>
+      <set rarity="common" splitterPath="/Aspiring Performer.png" >MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Legacy 3B (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Background Part</text>
+      <related attach="transform">Background Part</related>
+    </card>
+    <card>
+      <name>Background Part</name>
+      <set rarity="common" splitterPath="/Background Part.png" >MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Actor Warlock </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+---
+(Front): Aspiring Performer</text>
+    </card>
+    <card>
+      <name>Leading Lady</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Azra Bard Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Leading Lady enters the battlefield, target creature you control gets +1/+0 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Forge Gnome</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Forge Gnome dies, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Harbinger of Festivity</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Regale — {R}, {T}: Exile the top card of your library. You may play it until the end of your next turn. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Spit Fire</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spit Fire deals 2 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Fiery Setpiece</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if you’ve sacrificed a permanent this turn.
+Fiery Setpiece deals 4 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Dramatic Organ</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Dramatic Organ enters the battlefield, creatures you control get +1/+0 until end of turn.
+3R, Sacrifice Dramatic Organ: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Jaunty Tune</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+Discard a card.
+Draw two cards.
+​</text>
+    </card>
+    <card>
+      <name>Forgehammer</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+0.
+When Forgehammer enters the battlefield, destroy up to one target artifact.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Spoil the Broth</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a graveyard.
+• Target player gains 2 life.</text>
+    </card>
+    <card>
+      <name>Tempt with Treats</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tempt with Treats deals 4 damage to up to one target creature with flying. It loses flying until end of turn.
+Create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Inspired Reader</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Orc Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Delirium — When Inspired Reader enters the battlefield, if there are four or more card types among cards in your graveyard, draw a card.</text>
+    </card>
+    <card>
+      <name>Librarian&apos;s Assistant</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{2}, {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Cartographer&apos;s Eyes</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Cartographer’s Eyes enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Gnomestack</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Gnomestack dies, create three 1/1 Gnome artifact creature tokens.</text>
+    </card>
+    <card>
+      <name>Rancid Meal</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice Rancid Meal: You gain 3 life.
+{5}, {T}, Sacrifice Rancid Meal: It deals 3 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Prophetic Prism</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Prophetic Prism enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Rebuild from Scratch</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact or enchantment.
+• Return target artifact card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Tragic Soloist</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Regale — {T}: Tap or untap target permanent not named Tragic Soloist. Activate only outside of combat. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Fanciful Flier</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Regale — Fanciful Flier gets +1/+1. (You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Forlorn Author</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Delirium — {U/B}, {T}: You draw a card and you lose 1 life. Activate only if there are four or more card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Dancing Troupe</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Bard Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Dancing Troupe has first strike as long as it’s attacking.
+If a creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>Wandering Connoisseur</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ogre Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, trample
+At the beginning of your end step, if you’ve gained life this turn, put a +1/+1 counter on Wandering Connoisseur.</text>
+    </card>
+    <card>
+      <name>Meticulous Sculptor</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Meticulous Sculptor enters the battlefield, create a 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
+    </card>
+    <card>
+      <name>Turnip Trimmer</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Devil Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Turnip Trimmer attacks, create a 1/1 green Plant creature token and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Free-Range Foraging</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 3/2 green Boar creature token. If you’ve gained life this turn, put a +1/+1 counter on it.
+You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Valiant Versemaker</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Regale — {U/R}, {T}: Valiant Versemaker deals 2 damage to each opponent. Scry 2. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Keen Guardcog</name>
+      <set rarity="common" splitterPath="/Keen Guardcog.png" >MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Legacy 1W (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Cogwork Watch</text>
+      <related attach="transform">Cogwork Watch</related>
+    </card>
+    <card>
+      <name>Cogwork Watch</name>
+      <set rarity="common" splitterPath="/Cogwork Watch.png" >MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has vigilance.
+Equip {2}
+---
+(Front): Keen Guardcog</text>
+    </card>
+    <card>
+      <name>Merry Troubadour</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Regale — Merry Troubadour gets +1/+1. (You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Bookwyrm</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance</text>
+    </card>
+    <card>
+      <name>Cheerful Painter</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Gnome Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — {T}: Add one mana of any color. If there are four or more card types among cards in your graveyard, add two mana of different colors instead.</text>
+    </card>
+    <card>
+      <name>Candied Colossus</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Food Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Candied Colossus dies, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Colorful Rendition</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+Enchanted land has “{T}: Add two mana of different colors.”
+3GG, Sacrifice Colorful Rendition: Return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Inspiring Melody</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Inspiring Melody enters the battlefield, exile the top card of your library. You may play it until the end of your next turn.
+Enchanted creature gets +2/+1.</text>
+    </card>
+    <card>
+      <name>Highbrow Critic</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Highbrow Critic enters the battlefield, mill two cards.</text>
+    </card>
+    <card>
+      <name>Storybook Serpent</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3}
+4U: Storybook Serpent can’t be blocked until end of turn.
+1U, Discard Storybook Serpent: Draw a card.</text>
+    </card>
+    <card>
+      <name>Houndcrafter Savant</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Gnome Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Houndcrafter Savant enters the battlefield, create a 2/2 colorless Dog artifact creature token.
+Whenever an artifact creature you control deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Jacques, Harsh Conductor</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit
+If sacrificing a creature you control or a creature you control dying due to being sacrificed causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>Distracting Song</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell has flash as long as you control an enchantment.
+Enchant creature
+Enchanted creature gets -4/-0.</text>
+    </card>
+    <card>
+      <name>Blood Artist</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Artist </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Merrymaker</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Satyr Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Regale — {R}, {T}: Create a 1/1 red Bard creature token with prowess. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Skillful Landscapist</name>
+      <set rarity="uncommon" splitterPath="/Skillful Landscapist.png" >MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Mill a card: Add {C}.
+Legacy 2U (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Vibrant Vision</text>
+      <related attach="transform">Vibrant Vision</related>
+    </card>
+    <card>
+      <name>Vibrant Vision</name>
+      <set rarity="uncommon" splitterPath="/Vibrant Vision.png" >MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may look at the top card of your library any time.
+{T}, Mill a card: Add {C}. 
+---
+(Front): Skillful Landscapist</text>
+    </card>
+    <card>
+      <name>Civil Engineer</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact enters the battlefield under your control, you may tap target creature an opponent controls without a stun counter on it and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Dreamquill</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Delirium — Whenever equipped creature attacks, you may draw a card. If you do, discard a card unless there are four or more card types among cards in your graveyard.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Gnomish Tinkerer</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Gnome Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an artifact spell, you may pay {1}. If you do, create a 1/1 colorless Gnome artifact creature token.</text>
+    </card>
+    <card>
+      <name>Worksite Visionary</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Artificer Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Worksite Visionary enters the battlefield, you may search your library for a Building or basic Plains card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Bolstering Chefbot</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Preparation — Once on each of your turns, when you gain life or create a token, you may put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Distracting Charcuterie</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Distracting Charcuterie enters the battlefield, exile target creature or planeswalker until this leaves the battlefield.
+{2}, {T}, Sacrifice Distracting Charcuterie: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Sunstreet Clocktower</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+1W, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+2W, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Encore</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile any number of target creatures you control, then return them to the battlefield under their owner’s control.
+Exile Encore.</text>
+    </card>
+    <card>
+      <name>Gustatorie Tastemaker</name>
+      <set rarity="common" splitterPath="/Gustatorie Tastemaker.png" >MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gustatorie Tastemaker enters the battlefield, create a 1/1 green Plant creature token and you gain 1 life.
+Legacy 2G (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Abundant Feast</text>
+      <related attach="transform">Abundant Feast</related>
+    </card>
+    <card>
+      <name>Abundant Feast</name>
+      <set rarity="common" splitterPath="/Abundant Feast.png" >MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Abundant Feast enters the battlefield, create a 1/1 green Plant creature token and you gain 1 life.
+Enchanted creature gets +1/+1.
+---
+(Front): Gustatorie Tastemaker</text>
+    </card>
+    <card>
+      <name>Greenpark Strummer</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Regale — 1G, {T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Belligerence</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+When Belligerence enters the battlefield, enchanted creature fights up to one target creature you don’t control.
+Enchanted creature gets +1/+1 and has trample.</text>
+    </card>
+    <card>
+      <name>Natural Harmony</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Natural Harmony enters the battlefield, draw a card.
+Enchanted creature gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Farmstead Butcher</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dwarf Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Farmstead Butcher can’t be blocked by creatures with power 2 or less.
+2B: Farmstead Butcher gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Secret Ingredients</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creature tokens you control get +1/+1 and have vigilance.
+1GW, Sacrifice a noncreature token: Creatures you control get +1/+1 and gain trample until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Tavern Talesmith</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Orc Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Regale — Tavern Talesmith gets +1/+1. (You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Flamethumper</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Regale — Flamethumper gets +2/+2. (You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Opening Act</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Grand Overture</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature enters the battlefield under your control, create a token that’s a copy of that creature, except it has haste and isn’t legendary. Sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Spirit of the Opera</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Spirit of the Opera exploits a creature, return target non-Spirit creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Fine Diner</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dwarf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fine Diner enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+{1}, Sacrifice a token: Fine Diner gains indestructible until end of turn. Tap it.</text>
+    </card>
+    <card>
+      <name>Song of Creation</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>1GUR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play an additional land on each of your turns.
+Whenever you cast a spell, draw two cards.
+At the beginning of your end step, discard your hand.</text>
+    </card>
+    <card>
+      <name>Ironflow Forge</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+
+Whenever another artifact enters the battlefield under your control, Ironflow Forge deals 1 damage to each opponent, then you may put a brick counter on this. (It retains abilities.)
+ Built 2+
+RW, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+ Level 3
+​</text>
+    </card>
+    <card>
+      <name>Odette L&apos;or, Fickle Painter</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a multicolored spell, create a 2/1 blue Inkling creature token with flying.</text>
+    </card>
+    <card>
+      <name>Niels, Cogmaster</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dwarf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature artifact spell, create an X/X colorless Construct artifact creature token, where X is that spell’s mana value.
+Artifact creatures you control have haste.</text>
+    </card>
+    <card>
+      <name>Kitty Connoisseur</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Preparation — Once on each of your turns, when you gain life or create a token, you may put a +1/+1 counter on Kitty Connoisseur.</text>
+    </card>
+    <card>
+      <name>Elven Glassblower</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Elven Glassblower enters the battlefield, create a tapped Treasure token.
+1R, {T}: Target artifact you control becomes a 2/2 red Dragon creature with flying and haste in addition to its other types. (Until changing zones.)</text>
+    </card>
+    <card>
+      <name>Heartblaze Theatre</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
+{R}, {T}: Target creature gains haste until end of turn.
+ Built 1+
+{R}, {T}: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
+ Built 2+
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Audition</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature with mana value 4 or less until end of turn. Untap it. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Reptilian Rhymester</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dragon Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Reptilian Rhymester attacks, you may put a lore counter on target Saga you control.</text>
+    </card>
+    <card>
+      <name>Dragonsong</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Dragon Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Regale — {R}: Dragonsong gets +1/+0 until end of turn. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Waxcrafter</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Waxcrafter enters the battlefield, create two 1/1 red Elemental artifact creature tokens with “Sacrifice this creature: Add {R}.”</text>
+    </card>
+    <card>
+      <name>Soliloquist</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Whenever you sacrifice a nonland permanent, put a +1/+1 counter on Soliloquist.   </text>
+    </card>
+    <card>
+      <name>Cookie Snatcher</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Preparation — Whenever Cookie Snatcher deals combat damage to a player, put a +1/+1 counter on it if you’ve gained life or created a token this turn. (Lifelink works.)</text>
+    </card>
+    <card>
+      <name>Avian Auteur</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Delirium — Avian Auteur gets +1/+0 as long as there are four or more card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Operahouse Headliner</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Operahouse Headliner exploits a creature, you draw two cards and you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Discouraging Flop</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exploit (When that creature enters the battlefield, you may sacrifice a creature.)
+When Discouraging Flop enters the battlefield or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
+Whenever a creature an opponent controls dies, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Second Showing</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. If that creature entering the battlefield causes a triggered ability of a permanent you control to trigger this turn, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>Garden Guardian</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, untap Garden Guardian.</text>
+    </card>
+    <card>
+      <name>Dour Chorister</name>
+      <set rarity="uncommon" splitterPath="/Dour Chorister.png" >MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dour Chorister enters the battlefield, create two 1/1 black Vampire Actor creature tokens with lifelink.
+Legacy 4B (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Breakout Role</text>
+      <related attach="transform">Breakout Role</related>
+    </card>
+    <card>
+      <name>Breakout Role</name>
+      <set rarity="uncommon" splitterPath="/Breakout Role.png" >MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Actor Warlock </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if a creature died this turn, create a 1/1 black Vampire Actor creature token with lifelink.
+---
+(Front): Dour Chorister</text>
+    </card>
+    <card>
+      <name>Benevolent Florist</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If one or more tokens would be created until your control, those tokens plus a 1/1 green Plant creature token are created instead.
+Benevolent Florist gets +2/+0 as long as you control three or more tokens.</text>
+    </card>
+    <card>
+      <name>Wolfsong</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Wolf Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Regale — 1G: Target creature you control gets +3/+3 and gains trample until end of turn. Activate only once each turn and only as a sorcery. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Tend the Garden</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tend the Garden enters the battlefield, create a 1/1 green Plant creature token.
+Tokens you control have “{T}: Add {G}.”</text>
+    </card>
+    <card>
+      <name>The Rejection of the Monarchy</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Add RR.</text>
+    </card>
+    <card>
+      <name>Gemcrafter</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gemcrafter enters the battlefield, create a Treasure token.
+Whenever Gemcrafter attacks, if you control two or more artifacts, creatures you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Birdsong</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Bird Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Regale — 2U, {T}: Draw two cards, then discard a card. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Diego, Slam Poet</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Satyr Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever a non-final chapter ability of a Saga you control resolves, you may put a lore counter on that Saga.</text>
+    </card>
+    <card>
+      <name>Michel, Strummer of Heartstrings</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Mouse Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, haste
+Whenever Michel attacks, if you control an artifact or enchantment, put a +1/+1 counter on him. Then if you control both, draw a card.</text>
+    </card>
+    <card>
+      <name>Artist&apos;s Easel</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Delirium — 2G, Sacrifice Artist’s Easel: Mill two cards, then return another card from your graveyard to your hand. This ability costs {2} less to activate if there are four or more card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Brasio, Bardic Chronicler</name>
+      <set rarity="mythic" splitterPath="/Brasio, Bardic Chronicler.png" >MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Goblin Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Regale — {T}: Scry 1. Brasio deals 1 damage to each opponent. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)
+Legacy GUR
+---
+(Back): The Long Chant</text>
+      <related attach="transform">The Long Chant</related>
+    </card>
+    <card>
+      <name>The Long Chant</name>
+      <set rarity="mythic" splitterPath="/The Long Chant.png" >MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Legendary Enchantment - Saga </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
+You may put a +1/+1 counter on target creature.
+The Long Chant deals 1 damage to any target.
+Draw a card, then remove all lore counters from The Long Chant. (It’s not sacrificed.)
+---
+(Front): Brasio, Bardic Chronicler</text>
+    </card>
+    <card>
+      <name>Stew Stirrer</name>
+      <set rarity="uncommon" splitterPath="/Stew Stirrer.png" >MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, you may pay {2}. If you do, create a 1/1 green Plant creature token.
+Legacy 2G (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Family Recipe</text>
+      <related attach="transform">Family Recipe</related>
+    </card>
+    <card>
+      <name>Family Recipe</name>
+      <set rarity="uncommon" splitterPath="/Family Recipe.png" >MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, you may pay {2}. If you do, create a 1/1 green Plant creature token.
+---
+(Front): Stew Stirrer</text>
+    </card>
+    <card>
+      <name>Trash-eater Gnome</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Trash-eater Gnome enters the battlefield or attacks, you may exile target card from a graveyard.</text>
+    </card>
+    <card>
+      <name>Inkbottle</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice Inkbottle: Create a tapped 2/1 blue Inkling creature token with flying.</text>
+    </card>
+    <card>
+      <name>Conceptual Orrery</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once each turn, when another artifact you control’s activated ability is activated or its triggered ability triggers, if it isn’t a mana ability, you may copy it. You may choose new targets for the copy. The same is true for enchantments. (It triggers once for each type each turn.)</text>
+    </card>
+    <card>
+      <name>Retrospection</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control.
+If enchanted creature would die, instead sacrifice Retrospection and that creature gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Skilled Sous-Chef</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Parapet Percher</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2W/U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Gargoyle </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Parapet Percher enters the battlefield, scry 2.</text>
+    </card>
+    <card>
+      <name>Cogwrench</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2.
+Equip {3}
+As long as you control two or more other artifacts, Cogwrench has equip {1}.</text>
+    </card>
+    <card>
+      <name>Lunch Rush</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn. If you control two or more tokens, it gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Vamp</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target player discards two cards.
+• Create two 1/1 black Vampire Actor creature tokens with lifelink.</text>
+    </card>
+    <card>
+      <name>Fencer&apos;s Foil</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Fencer’s Foil enters the battlefield, you may attach it to target creature you control.
+Equipped creature gets +2/+0.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Forest MVX</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island MVX</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains MVX</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp MVX</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Waxbreath Youngling</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Waxbreath Youngling enters the battlefield, if it was cast, create a token that’s a copy of another target nonland permanent you control, except it’s an artifact and loses all other types.</text>
+    </card>
+    <card>
+      <name>Castleway Crane</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever another artifact enters the battlefield under your control, you may put a brick counter on a Building you control. (It retains abilities.)
+{T}: Add {W} or {U}. You can’t spend this mana on nonartifact spells.
+ Built 1+
+{T}: Untap target artifact you control not named Castleway Crane.
+ Built 3+
+Whenever you cast an artifact spell, you may draw a card.</text>
+    </card>
+    <card>
+      <name>Mountain MVX</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Hunt for Inspiration</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 2/1 blue Inkling creature tokens with flying.
+Delirium — Then if there are four or more card types among cards in your graveyard, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Painter&apos;s Studio</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Painter’s Studio enters the battlefield tapped.
+When Painter’s Studio enters the battlefield, scry 1.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Teatime Two</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>3WBG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Azra Orc Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, put a +1/+1 counter on another target creature you control. If you’ve done both, that creature fights up to one target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Grow from Instruction</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Grow from Instruction enters the battlefield, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+3GU, Sacrifice Grow from Instruction: Surveil 2, then draw two cards.</text>
+    </card>
+    <card>
+      <name>Angel of Iteration</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>2BGU</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Delirium — When Angel of Iteration enters the battlefield, if there are four or more card types among cards in your graveyard, destroy up to one target nonland permanent.</text>
+    </card>
+    <card>
+      <name>The Flourishing</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Look at the top five cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Create an X/X blue Illusion enchantment creature token with flying, where X is the number of artifacts and/or enchantments you control. (Including this card.)
+​</text>
+    </card>
+    <card>
+      <name>The Grand Festival</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Create a tapped Treasure token.
+Look at the top five cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​</text>
+    </card>
+    <card>
+      <name>Gobsmack</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand.
+If you control three or more artifacts and/or enchantments, draw a card.</text>
+    </card>
+    <card>
+      <name>Constancia, City Builder</name>
+      <set rarity="mythic" splitterPath="/Constancia, City Builder.png" >MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dwarf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Constancia, City Builder attacks, untap each artifact you control.
+Legacy 2URW
+---
+(Back): The Spire of Merveaux</text>
+      <related attach="transform">The Spire of Merveaux</related>
+    </card>
+    <card>
+      <name>The Spire of Merveaux</name>
+      <set rarity="mythic" splitterPath="/The Spire of Merveaux.png" >MVX</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Building </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, draw a card, then you may put a brick counter on each Building you control.
+Ward {4}
+ Built 2+
+Whenever you cast an artifact spell, untap each artifact you control.
+ Built 4+
+Artifacts you control have indestructible.
+---
+(Front): Constancia, City Builder</text>
+    </card>
+    <card>
+      <name>Concordia, Angel of Glass</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Angel Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+Other artifacts you control with counters on them have indestructible and ward {2}.
+As long as there are three or more counters among artifacts you control, Concordia gets +1/+1 and has vigilance.</text>
+    </card>
+    <card>
+      <name>Stunning Soprano</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Stunning Soprano exploits a creature, it deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Stormsinger</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sagas you control have base power and toughness 4/4, have indestructible, flying, and haste, and are Dragon Illusion creatures in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Arboreal Artist</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Arboreal Artist dies, mill three cards, then you may return a land card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Preserve the Moment</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Delirium — This spell costs {2} less to cast as long as there are four or more card types among cards in your graveyard.
+Take an extra turn after this one. Exile Preserve the Moment.</text>
+    </card>
+    <card>
+      <name>Inspiring Walk</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1G/U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill four cards. You may put an artifact, enchantment or land card from among the cards milled this way into your hand.</text>
+    </card>
+    <card>
+      <name>Hearthsong</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may cast target instant, sorcery or Saga card from your graveyard this turn. When a Saga enters the battlefield this way, you may trigger one of its chapter abilities.
+Exile Hearthsong.</text>
+    </card>
+    <card>
+      <name>The Bardenmoot</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Scry 3.
+Exile the top two cards of your library. You may play them until the end of your next turn.
+When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Showstopper</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Showstopper deals 6 damage to target creature or planeswalker. When it deals excess damage this way, you may return a creature with mana value less than or equal to that amount of excess damage from your graveyard to the battlefield. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Ancestral Guidance</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>1WBG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library and/or graveyard for a creature card with mana value 3 or less and put it onto the battlefield with a deathtouch counter and a  lifelink counter on it. If you search your library this way, shuffle.</text>
+    </card>
+    <card>
+      <name>Ambrosian Tower</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Ambrosian Tower enters or leaves the battlefield, create a 1/1 green Plant creature token, then put a +1/+1 counter on each creature you control.
+{2}, {T}, Sacrifice Ambrosian Tower: You gain 3 life. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Cogturn Laboratory</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Cogturn Laboratory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 2 life.
+ Built 1+
+WU, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+WU, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Festival Puppeteer</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Festival Puppeteer attacks, create a token that’s a copy of another target creature you control, except it’s 1/1 and it’s a Construct artifact in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Roland&apos;s Solo</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Roland’s Solo enters the battlefield, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Whenever one or more cards you own leave exile, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Show of Strength</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +3/+3 until end of turn. 
+You may have that creature fight up to one target creature you don’t control. When you do, repeat this process. (A defeated creature can’t continue to fight.)</text>
+    </card>
+    <card>
+      <name>Bombastic Performance</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature you control dies during your turn, create a 2/1 red Spirit Elemental creature token with haste and “This creature can’t block.”</text>
+    </card>
+    <card>
+      <name>Petite Patissier</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Petite Pâtissier enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+Once each turn, when you gain life, each opponent loses 1 life and Petite Pâtissier gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Partners in Rhyme</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>2GUR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Azra Bard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, trample
+When Partners in Rhyme enters the battlefield, you may exile target instant, sorcery, or Saga card with mana value 3 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Extravagant Channeler</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Extravagant Channeler exploits a creature, discard a card, then draw two cards.</text>
+    </card>
+    <card>
+      <name>Festival Revelry</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one. If you control two or more enchantments, you may choose both instead.
+• Festival Revelry deals 2 damage to each creature and each planeswalker.
+• Create two 1/1 red Bard creature tokens with prowess.</text>
+    </card>
+    <card>
+      <name>Haunting Lullaby</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {2} less to cast if it targets a creature with mana value 2 or less.
+Enchant creature
+When Haunting Lullaby enters the battlefield, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Moonridge Tailors</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this.
+(It retains abilities.)
+3W, {T}: Tap target creature or artifact.
+ Built 2+
+1W, {T}: Tap target creature.
+ Built 2+
+​</text>
+    </card>
+    <card>
+      <name>Skystone Gargoyle</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Gargoyle </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Skystone Gargoyle enters the battlefield, you may return target artifact card not named Skystone Gargoyle from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Rousing Read</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Rousing Read enters the battlefield, draw two cards, then discard a card.
+Enchanted creature gets +1/+1 and has flying.</text>
+    </card>
+    <card>
+      <name>Atelier Exemplar</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Orc Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Delirium — As long as there are four or more card types among cards in your graveyard, Atelier Exemplar gets +2/+2 and has trample.</text>
+    </card>
+    <card>
+      <name>Severin, Kitchen Tyrant</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dwarf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, create a 1/1 green Plant creature token if you’ve gained 3 or more life this turn. Then put a +1/+1 counter on each other creature you control if you’ve lost 3 or more life this turn.</text>
+    </card>
+    <card>
+      <name>Hymn to the Wilds</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>2GUR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill six cards. Put up to one creature card with mana value 4 or less and up to one land card from among them onto the battlefield, then you may put an enchantment card with mana value 4 or less from among them onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Sparks of Invention</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sparks of Invention deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is 2 plus the number of artifacts you control.</text>
+    </card>
+    <card>
+      <name>Stew</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may pay any amount of life.
+Destroy target nonland permanent if its mana value is X or less, where X is the life paid as you cast this spell plus the amount of life you’ve gained this turn.</text>
+    </card>
+    <card>
+      <name>Reconceptualize</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>BGU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each of up to three different card types, return target card of that type from your graveyard to your hand.
+Exile Reconceptualize.</text>
+    </card>
+    <card>
+      <name>Slinking Scribbler</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Slinking Scribbler deals combat damage to a player, draw a card.
+1B: Slinking Scribbler gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Rooftop Rapscallion</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+The first noncreature spell you cast each turn costs {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Stained Glass Sentinel</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Gargoyle </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {1}
+Whenever Stained Glass Sentinel attacks, choose up to X, where X is the number of other artifacts you control —
+• Scry 2.
+• This gets +1/+1 until end of turn.
+• Untap this.</text>
+    </card>
+    <card>
+      <name>Flamesweeper</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Flamesweeper exploits a creature, exile target instant or sorcery card with mana value less than or equal to the exploited creature’s power from your graveyard. You may cast a copy of it without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Cost of Perfection</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. If it had mana value 3 or less, surveil 2. (To surveil, look at that many cards from the top of your library. You may mill any number and reorder the rest.)</text>
+    </card>
+    <card>
+      <name>Season to Perfection</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Preparation — This spell costs {2} less to cast if you’ve gained life or created a token this turn.
+Put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Chicken Coop</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, create a 1/1 white Bird creature token with flying.
+Whenever three or more creatures you control deal combat damage to a player, put a +1/+1 counter on each of up to two target creatures you control.</text>
+    </card>
+    <card>
+      <name>Gustbrook Library</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
+{T}: Surveil 1. (Look at the top card of your library. You may mill it.)
+ Built 1+
+{U}, {T}: Draw a card, then discard a card.
+ Built 2+
+2U, {T}: Draw a card.</text>
+    </card>
+    <card>
+      <name>Deafening Duo</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elf Dwarf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Regale — 1R: Deafening Duo deals 3 damage to each opponent. Activate only once each turn. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Songcrafting</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a noncreature spell, you may have Songcrafting become a 1/1 Illusion creature with flying in addition to its other types until end of turn.
+Whenever another enchantment enters the battlefield under your control, put a +1/+1 counter on Songcrafting.</text>
+    </card>
+    <card>
+      <name>Sauce Flinger</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, you may sacrifice a token. If you do, put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Balcony Chanteur</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Balcony Chanteur exploits a creature, target creature you control gets +2/+2 and gains flying, vigilance, lifelink, and first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>La Chaconne de Soupir No 3</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+If you cast La Chaconne de Soupir No.3, exile all creatures.
+Each player returns a card they own exiled with La Chaconne de Soupir No.3 to the battlefield under their control.
+Return a card exiled with La Chaconne de Soupir No.3 to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Gustatorie Mixer</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bear Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+Whenever an opponent casts a noncreature spell, create a 1/1 green Plant creature token unless that player pays {1}.</text>
+    </card>
+    <card>
+      <name>Vicious Animancer</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Vicious Animancer exploits a creature, create two 2/1 red Spirit Elemental creature tokens with haste and “This creature can’t block.”</text>
+    </card>
+    <card>
+      <name>Keeper of the Archives</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each card type among cards in your graveyard.
+Flying</text>
+    </card>
+    <card>
+      <name>Solid Fundamentals</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a noncreature artifact spell, if Solid Fundamentals has no study counters on it, draw a card, then put a study counter on it.
+Whenever you cast an artifact creature spell, if Solid Fundamentals has a study counter on it, draw a card, then remove a study counter from it.</text>
+    </card>
+    <card>
+      <name>Sylvie, Garden Tender</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Satyr Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sylvie enters the battlefield, create a tapped colorless Forest Plains land token. (It has “{T}: Add {G} or {W}.”)
+Once each turn, if you would create one or more tokens, you may instead create that many tapped tokens that are copies of a token you control.</text>
+    </card>
+    <card>
+      <name>Swaying Smorgasbord</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Food Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a Food token. Then, you may have a noncreature Food you control become a 0/0 creature in addition to its other types. If you do, put X +1/+1 counters on it, where X is the amount of life you’ve gained this turn.</text>
+    </card>
+    <card>
+      <name>Gleeful Amateur</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Gnome Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gleeful Amateur enters the battlefield, surveil 2.
+Delirium — As long as there are four or more card types among cards in your graveyard, you may cast spells as though they had flash.</text>
+    </card>
+    <card>
+      <name>Body of Literature</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Inkling Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach, ward {3}
+Body of Literature gets +2/+2 for each card type among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Writer&apos;s Desk</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures you control deal combat damage to a player, put a page counter on Writer’s Desk.
+{U}, {T}, Remove a page counter from Writer’s Desk: Draw a card.
+1B, {T}, Remove two page counters from Writer’s Desk: Search your library for a card, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Sate the Critics</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Sate the Critics, sacrifice a creature or a Food.
+Draw two cards. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Redesign</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one. If you control two or more artifacts, you may choose two instead.
+• Counter up to one target spell.
+• Target player draws three cards, then discards two cards.
+• Return up to one target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Wicked Wordsmith</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wicked Wordsmith enters the battlefield, surveil 2.
+Delirium — As long as there are four or more card types among cards in your graveyard, Wicked Wordsmith gets +2/+0 and has menace.</text>
+    </card>
+    <card>
+      <name>Esteemed Author Davriel Cane</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Davriel </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw a card, then target opponent may pay 2 life. If they do, discard a card.
+[-2]: Return target creature to its owner’s hand, then that player discards a card.
+[-6]: You get an emblem with “Your opponents play with cards they own from outside the game revealed. You may play them and spend mana as though it were mana of any type to cast them.”</text>
+    </card>
+    <card>
+      <name>PROMO Chromatic Lantern</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lands you control have “{T}: Add one mana of any color.”
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Invocation of Creativity</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+If you control an artifact and an enchantment, add WUBRG. This mana can’t be spent to pay generic mana costs.</text>
+    </card>
+    <card>
+      <name>See the Sights</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If {U} was spent to cast this spell, scry 2.
+Exile the top two cards of your library. You may play them until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Ironstreet Welders</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Goblin Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Ironstreet Welders attacks, if you control two or more artifacts, Ironstreet Welders deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Ingenuity</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Artifact Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, ward {3}
+Once during each of your turns, you may cast a multicolored spell you own from outside the game with mana value 5 or less if you haven’t cast a spell with that name this game.
+{3}, {T}: Add WUBRG.</text>
+    </card>
+    <card>
+      <name>Antoine, Chef Extraordinaire</name>
+      <set rarity="mythic" splitterPath="/Antoine, Chef Extraordinaire.png" >MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Orc Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever one or more creatures you control deal combat damage to a player, create a Food token.
+Legacy 1WBG
+---
+(Back): Antoine&apos;s Recipe</text>
+      <related attach="transform">Antoine&apos;s Recipe</related>
+    </card>
+    <card>
+      <name>Antoine&apos;s Recipe</name>
+      <set rarity="mythic" splitterPath="/Antoine's Recipe.png" >MVX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Food </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, you may pay up to {X}, where X is the amount of life you’ve gained this turn. If you do, create that many 1/1 green Plant creature tokens.
+Whenever a token you control dies, you may pay 1 life. If you do, draw a card.
+---
+(Front): Antoine, Chef Extraordinaire</text>
+    </card>
+    <card>
+      <name>Chromatic Lantern</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lands you control have “{T}: Add one mana of any color.”
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Lyon&apos;s Contemplation</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one. If you control a Lyon planeswalker, you may choose both instead.
+• Counter target noncreature spell unless its controller pays {3}.
+• You gain 3 life. Scry 2, then draw a card.</text>
+    </card>
+    <card>
+      <name>Foundry Assistant</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Whenever an artifact enters the battlefield under your control, Foundry Assistant can attack this turn as though it didn’t have defender.</text>
+    </card>
+    <card>
+      <name>Blueprints</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Blueprints enters the battlefield, scry 1, then draw a card.
+2U, {T}, Sacrifice Blueprints: Target creature can’t be blocked this turn. Draw a card.</text>
+    </card>
+    <card>
+      <name>Plan by Committee</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Untap each nonland permanent you control. They gain indestructible until end of turn.
+• Destroy target artifact or enchantment. Target player creates a Treasure token.
+• You gain 4 life. Draw a card.
+• Search your library for an artifact card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Footlight Fiend</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Footlight Fiend dies, it deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Enraged Essayist</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dwarf Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — When Enraged Essayist enters the battlefield, you may create a 2/1 blue Inkling creature token with flying. If you do, you lose 3 life unless there are four or more card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Tear Through</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>R/G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+1 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Constructed Whelp</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{2}: Constructed Whelp gets +1/+0 until end of turn.
+When Constructed Whelp dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Stage Double</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+You may pay {R}. If you do, create a token that’s a copy of that creature except it has haste. Sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Parkland Flautist</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dryad Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an enchantment spell, put a +1/+1 counter on Parkland Flautist.
+When Parkland Flautist dies, you may return target Aura or Saga card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Distracted Apprentice</name>
+      <set rarity="uncommon" splitterPath="/Distracted Apprentice.png" >MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Distracted Apprentice enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.
+Legacy 3W (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Thopter Workshop</text>
+      <related attach="transform">Thopter Workshop</related>
+    </card>
+    <card>
+      <name>Thopter Workshop</name>
+      <set rarity="uncommon" splitterPath="/Thopter Workshop.png" >MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
+---
+(Front): Distracted Apprentice</text>
+    </card>
+    <card>
+      <name>Gastronomical Hubris</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Gastronomical Hubris enters the battlefield with up to three hunger counters on it.
+At the beginning of your upkeep, you lose X life and choose up to X, where X is the number of hunger counters on this —
+• Target creature gets -1/-1 until end of turn.
+• Create a 1/1 green Plant creature token.
+• Create a Food token.</text>
+    </card>
+    <card>
+      <name>Elaphia, Full of Wonder</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Elaphia </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you’ve put a counter on a Saga this turn, create two of those tokens instead.
+[-4]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase.</text>
+    </card>
+    <card>
+      <name>Nicola, Inspired Artist</name>
+      <set rarity="mythic" splitterPath="/Nicola, Inspired Artist.png" >MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Artist Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Nicola, Inspired Artist attacks, you may draw a card. If you do, discard a card.
+Legacy 1BGU
+---
+(Back): Night Upon the Cosmos</text>
+      <related attach="transform">Night Upon the Cosmos</related>
+    </card>
+    <card>
+      <name>Night Upon the Cosmos</name>
+      <set rarity="mythic" splitterPath="/Night Upon the Cosmos.png" >MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Enchantment Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Delirium — At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, you may sacrifice Night Upon the Cosmos. If you do, put two cards you own from outside the game into your hand.
+{T}: Draw a card, then discard a card.
+---
+(Front): Nicola, Inspired Artist</text>
+    </card>
+    <card>
+      <name>Dramatis Personae</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Dramatis Personae enters the battlefield, repeat the following process four times. You may sacrifice a creature. If you do, each opponent sacrifices a creature. Otherwise, create a 1/1 black Vampire Actor creature token with lifelink. </text>
+    </card>
+    <card>
+      <name>Chorus Machine</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken, nonland permanent enters the battlefield under your control, if it wasn’t cast from your hand, put a harmony counter on Chorus Machine.
+{B}, {T}, Remove X harmony counters from Chorus Machine and sacrifice it: Draw X cards and you lose X life.</text>
+    </card>
+    <card>
+      <name>Enraptured Watcher</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Enraptured Watcher dies, create a 1/1 black Vampire Actor creature token with lifelink.</text>
+    </card>
+    <card>
+      <name>Tavern Reveler</name>
+      <set rarity="common" splitterPath="/Tavern Reveler.png" >MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Satyr Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tavern Reveler can’t block.
+Legacy 2R (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Euphoric Stupor</text>
+      <related attach="transform">Euphoric Stupor</related>
+    </card>
+    <card>
+      <name>Euphoric Stupor</name>
+      <set rarity="common" splitterPath="/Euphoric Stupor.png" >MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/+1 and can’t block.
+---
+(Front): Tavern Reveler</text>
+    </card>
+    <card>
+      <name>Belphegor, Infernal Publisher</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Demon Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Belphegor enters the battlefield or attacks, draw two cards unless target opponent pays X life, where X is the number of card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>The Founding of the City</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature next enters the battlefield under your control this turn, put a +1/+1 counter on it.
+​</text>
+    </card>
+    <card>
+      <name>Green-Thumbed Growth</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Preparation — As long as you’ve gained life or created a token this turn, Green-Thumbed Growth has flashback {G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Serenade</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card for each enchantment you control.</text>
+    </card>
+    <card>
+      <name>Inkblot Familiar</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Inkling Beast </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Inkblot Familiar and other multicolored permanents you control have ward {X}, where X is the number of colors they are.
+Inkblot Familiar gets +1/+1 for each color among permanents you control.</text>
+    </card>
+    <card>
+      <name>Gustatorie Explorateur</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Orc Druid </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Preparation — At the beginning of your end step, if you gained life or created a token this turn, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Criticize</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
+Delirium — Then if there are four or more card types among cards in your graveyard, that player loses 3 life unless they discard a card or sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Avian Augmenteers</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Avian Augmenteers enters the battlefield, create a 3/3 colorless Vehicle artifact token with crew 2.
+Whenever an artifact enters the battlefield under your control, you may put your choice of a vigilance, trample, haste or menace counter on target artifact you control.</text>
+    </card>
+    <card>
+      <name>Skilled Animancy</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once each turn, when you sacrifice a creature, the following occurs based on its power.
+1+ | Exile the top card of your library. You may play it this turn.
+2+ | Add {R}.
+3+ | Create a 2/1 red Spirit Elemental creature token with haste and “This creature can’t block.”
+4+ | Skilled Animancy deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Diviner of the Dessert</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Diviner of the Dessert enters the battlefield, create two Food tokens.
+At the beginning of each end step, each opponent loses X life unless they discard a card or sacrifice a nonland permanent, where X is the amount of life you’ve gained this turn.</text>
+    </card>
+    <card>
+      <name>Lament</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Lament deals 2 damage to any target.
+• Target opponent sacrifices an artifact or enchantment.
+• Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Parts Picker</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, if you control two or more other artifacts, Parts Picker gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Moment of Craving</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until end of turn. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Alabaster Guardian</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Dog Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Vigilance, trample, reach
+You and other artifacts you control have hexproof.</text>
+    </card>
+    <card>
+      <name>Tidy Up</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XWW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tidy Up enters the battlefield, if it was cast, exile each other artifact or enchantment with mana value X or less until Tidy Up leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Witch of Forbidden Treats</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Preparation — When Witch of Forbidden Treats enters the battlefield, if you’ve gained life or created a token this turn, up to one target creature gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Velda, Opera Diva</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Vampire Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Other creatures you control have exploit.
+Whenever a creature you control exploits, put a +1/+1 counter on Velda and each other creature that exploited. She gains flying and haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Roland, Second Fiddle</name>
+      <set rarity="mythic" splitterPath="/Roland, Second Fiddle.png" >MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Azra Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Roland, Second Fiddle enters the battlefield, target creature gains lifelink, trample, and haste until end of turn.
+Legacy 2BR
+---
+(Back): Roland, Stunning Soloist</text>
+      <related attach="transform">Roland, Stunning Soloist</related>
+    </card>
+    <card>
+      <name>Roland, Stunning Soloist</name>
+      <set rarity="mythic" splitterPath="/Roland, Stunning Soloist.png" >MVX</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Roland </type>
+        <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control that entered the battlefield this turn have lifelink, trample, and haste.
+[+1]: Exile the top card of your library. Until the end of your next turn, you may play it.
+[-X]: Exile target creature with mana value X or less.
+---
+(Front): Roland, Second Fiddle</text>
+    </card>
+    <card>
+      <name>PROMO Swamp</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Mountain</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Plains</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Forest</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Island</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Stonework Behemoth</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each artifact and/or enchantment you control.
+Ward {2}</text>
+    </card>
+    <card>
+      <name>Diligent Architect</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Orc Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+6U, {T}: Scry 3.</text>
+    </card>
+    <card>
+      <name>Skystone Sculptory</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
+{T}: Target artifact creature you control gains indestructible until end of turn. Activate only as a sorcery.
+ Built 1+
+1W, {T}: Put a double strike counter on target artifact creature you control. Activate only as a sorcery.
+ Built 2+
+2W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
+    </card>
+    <card>
+      <name>Monument to Ascension</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another artifact you control becomes tapped, you may put your choice of a +1/+1, flying, brick, or charge counter on it.</text>
+    </card>
+    <card>
+      <name>Starlit Horizons</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may look at the top card of your library any time, and you may play lands from the top of your library.
+Delirium — {G/U}, {T}: You may cast spells from the top of your library this turn. Activate only if there are four or more card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Scrapsmelt Foundry</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Scrapsmelt Foundry becomes tapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Food Flood</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Preparation — This spell costs {2} less to cast if you’ve gained life or created a token this turn.
+Creatures you control get +2/+2 and gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Davriel&apos;s Bargain</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of those piles, then put that pile into your hand and the other into your graveyard. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Break from Stress</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UBB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature or planeswalker.
+Delirium — If there are four or more card types among cards in your graveyard, search the battlefield and its controller’s graveyard, hand, and library for any number of nonland cards with the same name as that permanent and exile them. They shuffle, then draw a card for each card exiled from their hand this way.</text>
+    </card>
+    <card>
+      <name>Inkshaping</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a multicolored spell, you may copy that spell. You may choose new targets for the copy. (Copies of permanent spells enter as tokens.)
+1U, Discard Inkshaping: Create a 2/1 blue Inkling creature token with flying. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Stage Fright</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Stage Fright enters the battlefield, exile target creature until Stage Fright leaves the battlefield. At the beginning of the next end step, sacrifice a creature or Stage Fright.</text>
+    </card>
+    <card>
+      <name>Dishearten</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. You lose 1 life. If the creature was an artifact or enchantment, you lose 4 life instead.</text>
+    </card>
+    <card>
+      <name>Vivid Expression</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Delirium — At the beginning of your end step, untap up to two target lands. Then if there are four or more card types in your graveyard, you may have a land you control become a 4/4 Elemental creature with vigilance until the beginning of your next end step. It’s still a land.</text>
+    </card>
+    <card>
+      <name>Gallery Curator</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Gallery Curator deals combat damage to a player, you may mill two cards.
+Delirium — At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Songweaver Adept</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Regale — {U}, {T}: Exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it. (You still pay its costs. Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Soup Serpent</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Food Snake </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Soup Serpent enters the battlefield with X +1/+1 counters and your choice of a vigilance, deathtouch or trample counter on it.
+When Soup Serpent dies, create a Food token.
+You may cast Soup Serpent from your graveyard by sacrificing two tokens in addition to its other costs.</text>
+    </card>
+    <card>
+      <name>First Chair Violinist</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Bard Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit, exploit (Exploits trigger sequentially.)
+Whenever First Chair Violinist exploits a creature, for each creature that died under your control this turn, exile the top card of target opponent’s library face down. You may look at and play that card for as long as it remains exiled, and mana of any type can be spent to cast it.</text>
+    </card>
+    <card>
+      <name>Phoenixsong</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Phoenix Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Phoenixsong can’t block.
+Regale — 2R: Return Phoenixsong from your graveyard to the battlefield. Activate only on your turn. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+    </card>
+    <card>
+      <name>Far-off Places</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>2BGU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.
+{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that’s a copy of it. Activate only during your turn.</text>
+    </card>
+    <card>
+      <name>Pompous Thespian</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Actor Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pompous Thespian enters the battlefield, each opponent loses 1 life and you gain 1 life.
+2W, Exile Pompous Thespian from your graveyard: Exile target creature you control, then return it to the battlefield. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Profane Performer</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Bard Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Profane Performer exploits a creature, destroy target creature. Its controller gains life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Frymaster&apos;s Pan</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Preparation — Whenever you gain life or create a token, put an oil counter on Frymaster’s Pan.
+{T}, Remove an oil counter from Frymaster’s Pan: Add {B} or {G}.
+{T}, Remove an oil counter from Frymaster’s Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Ode to the Classics</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Ode to the Classics or another enchantment enters the battlefield under your control, exile the top card of your library. You may play it this turn.</text>
+    </card>
+    <card>
+      <name>Flute of Harmony</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, put a music counter on Flute of Harmony.
+Remove two music counters from Flute of Harmony: Draw a card.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Impassioned Singer</name>
+      <set rarity="uncommon" splitterPath="/Impassioned Singer.png" >MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, target creature can’t block this turn.
+Legacy 3R (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
+---
+(Back): Impassioned Performance</text>
+      <related attach="transform">Impassioned Performance</related>
+    </card>
+    <card>
+      <name>Impassioned Performance</name>
+      <set rarity="uncommon" splitterPath="/Impassioned Performance.png" >MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Target creature you control gets +3/+2 until end of turn.
+Target creature can’t block this turn.
+---
+(Front): Impassioned Singer</text>
+    </card>
+    <card>
+      <name>Spectral Scribe</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit Artist </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Spectral Scribe can’t be blocked by creatures with power 3 or less.
+Delirium — As long as there are four or more card types among cards in your graveyard, Spectral Scribe gets +1/+1 and has flying.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>MVX DRAFT ARCHETYPES</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>RWU ARTIFACTS 
+     RW GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
+     WU BUILDINGS Develop your buildings to generate value nobody can compete with.
+URG SAGAS/REGALE
+     UR CONTROL Accrue long-term advantage by consistently casting noncreature spells.
+     RG AGGRO Regale your prowess to your opponent’s face by singing and slinging spells!
+GUB DELIRIUM 
+     GU RAMP Fill your graveyard to help paint more mana into casting powerful spells!
+     UB TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
+BGW PREPARATION
+     BG LIFEGAIN Feast on food with your creatures by paying off lifegain synergies.
+     GW TOKENS Prepare your opponent a twenty-course meal of plants and pain!
+WBR EXPLOIT
+     WB ENTERS-THE-BATTLEFIELD Blink and reanimate your actors to give their ETBs an encore.
+     BR SACRIFICE The show must go on, even if it means sacrificing a few friends.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bard</name>
+      <set>MVX</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+      <token>1</token>
+      <reverse-related>Elaphia, Full of Wonder</reverse-related>
+      <reverse-related>Merrymaker</reverse-related>
+      <reverse-related>Opening Act</reverse-related>
+      <reverse-related count="2">Festival Revelry</reverse-related>
+    </card>
+    <card>
+      <name>Boar</name>
+      <set>MVX</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Boar </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Free-Range Foraging</reverse-related>
+    </card>
+    <card>
+      <name>Dog</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Houndcrafter Savant</reverse-related>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set>MVX</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Artifact Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice this creature: Add {R}.</text>
+      <token>1</token>
+      <reverse-related count="2">Waxcrafter</reverse-related>
+    </card>
+    <card>
+      <name>Food</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Candied Colossus</reverse-related>
+      <reverse-related>Fiendish Fromager</reverse-related>
+      <reverse-related>Pudding Cat</reverse-related>
+      <reverse-related>Soup Elemental</reverse-related>
+      <reverse-related>Tempt with Treats</reverse-related>
+      <reverse-related>Antoine, Chef Extraordinaire</reverse-related>
+      <reverse-related>Pascal, Critics&apos; Favorite</reverse-related>
+      <reverse-related>Soup Serpent</reverse-related>
+      <reverse-related>Swaying Smorgasbord</reverse-related>
+      <reverse-related>Vegetable Chopper</reverse-related>
+      <reverse-related>Fine Diner</reverse-related>
+      <reverse-related>Petite Patissier</reverse-related>
+      <reverse-related>Diviner of the Dessert</reverse-related>
+      <reverse-related>Gastronomical Hubris</reverse-related>
+    </card>
+    <card>
+      <name>Gnome</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="3">Gnomestack</reverse-related>
+      <reverse-related count="2">Rushed Production</reverse-related>
+      <reverse-related>Reprocessing Foundry</reverse-related>
+      <reverse-related>Gnomish Tinkerer</reverse-related>
+      <reverse-related>Ironflow Forge</reverse-related>
+      <reverse-related>Scrapsmelt Foundry</reverse-related>
+    </card>
+    <card>
+      <name>Illusion</name>
+      <set>MVX</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Enchantment Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>The Flourishing</reverse-related>
+    </card>
+    <card>
+      <name>Inkling</name>
+      <set>MVX</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Inkling </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Odette L&apos;or, Fickle Painter</reverse-related>
+      <reverse-related>Enraged Essayist</reverse-related>
+      <reverse-related count="2">Hunt for Inspiration</reverse-related>
+      <reverse-related>Inkbottle</reverse-related>
+      <reverse-related>Inkshape</reverse-related>
+    </card>
+    <card>
+      <name>Plant</name>
+      <set>MVX</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Gustatorie Tastemaker</reverse-related>
+      <reverse-related>Abundant Feast</reverse-related>
+      <reverse-related>Soup Elemental</reverse-related>
+      <reverse-related>Antoine&apos;s Recipe</reverse-related>
+      <reverse-related>Pascal, Critics&apos; Favorite</reverse-related>
+      <reverse-related>Ambrosian Tower</reverse-related>
+      <reverse-related>Gustatorie Mixer</reverse-related>
+      <reverse-related>Severin, Kitchen Tyrant</reverse-related>
+      <reverse-related>Benevolent Florist</reverse-related>
+      <reverse-related>Stew Stirrer</reverse-related>
+      <reverse-related>Family Recipe</reverse-related>
+      <reverse-related>Tend the Garden</reverse-related>
+      <reverse-related>Turnip Trimmer</reverse-related>
+      <reverse-related>Gastronomical Hubris</reverse-related>
+    </card>
+    <card>
+      <name>Sculpture</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature gets +1/+1 for each artifact you control.</text>
+      <token>1</token>
+      <reverse-related>Meticulous Sculptor</reverse-related>
+      <reverse-related>Skystone Sculptory</reverse-related>
+    </card>
+    <card>
+      <name>Thopter</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Lyon, Aged Inventor</reverse-related>
+      <reverse-related>Distracted Apprentice</reverse-related>
+      <reverse-related>Thopter Workshop</reverse-related>
+      <reverse-related>Sunstreet Clocktower</reverse-related>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Forge Gnome</reverse-related>
+      <reverse-related>Elven Glassblower</reverse-related>
+      <reverse-related>The Grand Festival</reverse-related>
+      <reverse-related>Gemcrafter</reverse-related>
+      <reverse-related>Plan by Committee</reverse-related>
+      <reverse-related>Scrapsmelt Foundry</reverse-related>
+    </card>
+    <card>
+      <name>Vampire Actor</name>
+      <set>MVX</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Vampire Actor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related count="2">Vamp</reverse-related>
+      <reverse-related>Enraptured Watcher</reverse-related>
+      <reverse-related count="2">Dour Chorister</reverse-related>
+      <reverse-related>Breakout Role</reverse-related>
+      <reverse-related>Dramatis Personae</reverse-related>
+    </card>
+    <card>
+      <name>Copy</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Stage Double</reverse-related>
+      <reverse-related>Waxbreath Youngling</reverse-related>
+      <reverse-related>Grand Overture</reverse-related>
+      <reverse-related>Festival Puppeteer</reverse-related>
+      <reverse-related>Cogturn Laboratory</reverse-related>
+      <reverse-related>The Bardenmoot</reverse-related>
+    </card>
+    <card>
+      <name>Forest Plains</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land - Forest Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)</text>
+      <token>1</token>
+      <reverse-related>Sylvie, Garden Tender</reverse-related>
+    </card>
+    <card>
+      <name>Vehicle</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+      <token>1</token>
+      <reverse-related>Avian Augmenteers</reverse-related>
+    </card>
+    <card>
+      <name>Bird</name>
+      <set>MVX</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Chicken Coop</reverse-related>
+    </card>
+    <card>
+      <name>Spirit Elemental</name>
+      <set>MVX</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Spirit Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+This creature can’t block.</text>
+      <token>1</token>
+      <reverse-related>Bombastic Performance</reverse-related>
+      <reverse-related count="2">Rude Animancer</reverse-related>
+      <reverse-related>Skilled Animancy</reverse-related>
+    </card>
+    <card>
+      <name>Construct</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Reprocessing Foundry</reverse-related>
+      <reverse-related>Niels, Cogmaster</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

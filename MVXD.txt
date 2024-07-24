@@ -1,0 +1,3377 @@
+[CustomCards]
+	[    {
+	        "name": "Congregation Aspirant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Congregation Aspirant.png"
+	        }
+	    },
+	    {
+	        "name": "Operahouse Gossip",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W/B}",
+	        "type": "Creature — Vampire Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Operahouse Gossip.png"
+	        }
+	    },
+	    {
+	        "name": "Pudding Cat",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G/W}",
+	        "type": "Artifact Creature — Food Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Pudding Cat.png"
+	        }
+	    },
+	    {
+	        "name": "Paper Familiars",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U/B}",
+	        "type": "Artifact Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Paper Familiars.png"
+	        }
+	    },
+	    {
+	        "name": "Blase Cuisinier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/G}",
+	        "type": "Creature — Dwarf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Blase Cuisinier.png"
+	        }
+	    },
+	    {
+	        "name": "Mechanical Racer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R/W}",
+	        "type": "Artifact Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Mechanical Racer.png"
+	        }
+	    },
+	    {
+	        "name": "Bardic Historian",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U/R}",
+	        "type": "Creature — Elf Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bardic Historian.png"
+	        }
+	    },
+	    {
+	        "name": "MVX DRAFT ARCHETYPES",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/MVX DRAFT ARCHETYPES.png"
+	        }
+	    },
+	    {
+	        "name": "Inspirational Performer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elf Bard Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inspirational Performer.png"
+	        }
+	    },
+	    {
+	        "name": "Skystone Seraph",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Angel Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Skystone Seraph.png"
+	        }
+	    },
+	    {
+	        "name": "Colossal Puppetry",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Artifact Creature — Cat Dog Scarecrow ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Colossal Puppetry.png"
+	        }
+	    },
+	    {
+	        "name": "Deride",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Deride.png"
+	        }
+	    },
+	    {
+	        "name": "Forgefire Spray",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Forgefire Spray.png"
+	        }
+	    },
+	    {
+	        "name": "Creativity",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}{R}{G}",
+	        "type": "Legendary Enchantment Creature — Incarnation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Creativity.png"
+	        }
+	    },
+	    {
+	        "name": "Marquis Vaasco de Moraes",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Legendary Creature — Zombie Warlock ",
+	        "image_uris": {
+	            "en": "Marquis Vaasco de Moraes.png"
+	        },
+	        "printed names": {
+	            "en": "Marquis Vaasco de Moraes"
+	        },
+	        "back": {
+	            "name": "The Grand Revival",
+	            "printed_names": {
+	                "en": "The Grand Revival"
+	            },
+	            "image_uris": {
+	                "en": "The Grand Revival.png"
+	            },
+	            "type": "Legendary Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Pascal, Critics' Favorite",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Planeswalker — Pascal ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Pascal, Critics' Favorite.png"
+	        }
+	    },
+	    {
+	        "name": "Lyon, Aged Inventor",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Legendary Planeswalker — Lyon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Lyon, Aged Inventor.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Back-Alley Theatre",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Back-Alley Theatre.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Sunlit Park",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Sunlit Park.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Discreet Gallery",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Discreet Gallery.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Vibrant Concourse",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Vibrant Concourse.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Delightful Patisserie",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Delightful Patisserie.png"
+	        }
+	    },
+	    {
+	        "name": "Back-Alley Theatre",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Back-Alley Theatre.png"
+	        }
+	    },
+	    {
+	        "name": "Sunlit Park",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Sunlit Park.png"
+	        }
+	    },
+	    {
+	        "name": "Discreet Gallery",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Discreet Gallery.png"
+	        }
+	    },
+	    {
+	        "name": "Vibrant Concourse",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Vibrant Concourse.png"
+	        }
+	    },
+	    {
+	        "name": "Delightful Patisserie",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Delightful Patisserie.png"
+	        }
+	    },
+	    {
+	        "name": "Serene Museum",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Serene Museum.png"
+	        }
+	    },
+	    {
+	        "name": "Hushed Library",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Hushed Library.png"
+	        }
+	    },
+	    {
+	        "name": "Charming Playhouse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Charming Playhouse.png"
+	        }
+	    },
+	    {
+	        "name": "Orator's Forum",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Orator's Forum.png"
+	        }
+	    },
+	    {
+	        "name": "Abundant Garden",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Abundant Garden.png"
+	        }
+	    },
+	    {
+	        "name": "Muted Auditorium",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Muted Auditorium.png"
+	        }
+	    },
+	    {
+	        "name": "Seedy Kitchen",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Seedy Kitchen.png"
+	        }
+	    },
+	    {
+	        "name": "Lively Tavern",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Lively Tavern.png"
+	        }
+	    },
+	    {
+	        "name": "Artificer's Workshop",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Artificer's Workshop.png"
+	        }
+	    },
+	    {
+	        "name": "Gorge on Snacks",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gorge on Snacks.png"
+	        }
+	    },
+	    {
+	        "name": "Change Perspective",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Change Perspective.png"
+	        }
+	    },
+	    {
+	        "name": "Rushed Production",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Rushed Production.png"
+	        }
+	    },
+	    {
+	        "name": "Clash of Egos",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Clash of Egos.png"
+	        }
+	    },
+	    {
+	        "name": "Soup Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact Creature — Food Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Soup Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "Mechanical Strix",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Artifact Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Mechanical Strix.png"
+	        }
+	    },
+	    {
+	        "name": "Prolific Novelist",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Dwarf Artist Wizard ",
+	        "image_uris": {
+	            "en": "Prolific Novelist.png"
+	        },
+	        "printed names": {
+	            "en": "Prolific Novelist"
+	        },
+	        "back": {
+	            "name": "Enchanted Quill",
+	            "printed_names": {
+	                "en": "Enchanted Quill"
+	            },
+	            "image_uris": {
+	                "en": "Enchanted Quill.png"
+	            },
+	            "type": "Artifact — Equipment "
+	        }
+	    },
+	    {
+	        "name": "Atelier Artisan",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Atelier Artisan.png"
+	        }
+	    },
+	    {
+	        "name": "Prevent Catastrophe",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Prevent Catastrophe.png"
+	        }
+	    },
+	    {
+	        "name": "Annul",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Annul.png"
+	        }
+	    },
+	    {
+	        "name": "Fiendish Fromager",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Warlock Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Fiendish Fromager.png"
+	        }
+	    },
+	    {
+	        "name": "Artistic Benefactor",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Vampire Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Artistic Benefactor.png"
+	        }
+	    },
+	    {
+	        "name": "Motivation Sapper",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Motivation Sapper.png"
+	        }
+	    },
+	    {
+	        "name": "Exhausting Rehearsal",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Exhausting Rehearsal.png"
+	        }
+	    },
+	    {
+	        "name": "Macabre Prop",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Macabre Prop.png"
+	        }
+	    },
+	    {
+	        "name": "Overworked",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Overworked.png"
+	        }
+	    },
+	    {
+	        "name": "Casting Call",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Casting Call.png"
+	        }
+	    },
+	    {
+	        "name": "Understudy",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Understudy.png"
+	        }
+	    },
+	    {
+	        "name": "Aspiring Performer",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Actor Warlock ",
+	        "image_uris": {
+	            "en": "Aspiring Performer.png"
+	        },
+	        "printed names": {
+	            "en": "Aspiring Performer"
+	        },
+	        "back": {
+	            "name": "Background Part",
+	            "printed_names": {
+	                "en": "Background Part"
+	            },
+	            "image_uris": {
+	                "en": "Background Part.png"
+	            },
+	            "type": "Creature — Human Actor Warlock "
+	        }
+	    },
+	    {
+	        "name": "Leading Lady",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Azra Bard Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Leading Lady.png"
+	        }
+	    },
+	    {
+	        "name": "Forge Gnome",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact Creature — Gnome ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Forge Gnome.png"
+	        }
+	    },
+	    {
+	        "name": "Harbinger of Festivity",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Harbinger of Festivity.png"
+	        }
+	    },
+	    {
+	        "name": "Spit Fire",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Spit Fire.png"
+	        }
+	    },
+	    {
+	        "name": "Fiery Setpiece",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Fiery Setpiece.png"
+	        }
+	    },
+	    {
+	        "name": "Dramatic Organ",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dramatic Organ.png"
+	        }
+	    },
+	    {
+	        "name": "Jaunty Tune",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Jaunty Tune.png"
+	        }
+	    },
+	    {
+	        "name": "Forgehammer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Forgehammer.png"
+	        }
+	    },
+	    {
+	        "name": "Spoil the Broth",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Spoil the Broth.png"
+	        }
+	    },
+	    {
+	        "name": "Tempt with Treats",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tempt with Treats.png"
+	        }
+	    },
+	    {
+	        "name": "Inspired Reader",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Orc Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inspired Reader.png"
+	        }
+	    },
+	    {
+	        "name": "Librarian's Assistant",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Librarian's Assistant.png"
+	        }
+	    },
+	    {
+	        "name": "Cartographer's Eyes",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Cartographer's Eyes.png"
+	        }
+	    },
+	    {
+	        "name": "Gnomestack",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Gnome ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gnomestack.png"
+	        }
+	    },
+	    {
+	        "name": "Rancid Meal",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Food ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Rancid Meal.png"
+	        }
+	    },
+	    {
+	        "name": "Prophetic Prism",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Prophetic Prism.png"
+	        }
+	    },
+	    {
+	        "name": "Rebuild from Scratch",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Rebuild from Scratch.png"
+	        }
+	    },
+	    {
+	        "name": "Tragic Soloist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Azra Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tragic Soloist.png"
+	        }
+	    },
+	    {
+	        "name": "Fanciful Flier",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Fanciful Flier.png"
+	        }
+	    },
+	    {
+	        "name": "Forlorn Author",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Creature — Human Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Forlorn Author.png"
+	        }
+	    },
+	    {
+	        "name": "Dancing Troupe",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Azra Bard Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dancing Troupe.png"
+	        }
+	    },
+	    {
+	        "name": "Wandering Connoisseur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Ogre Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Wandering Connoisseur.png"
+	        }
+	    },
+	    {
+	        "name": "Meticulous Sculptor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Meticulous Sculptor.png"
+	        }
+	    },
+	    {
+	        "name": "Turnip Trimmer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Devil Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Turnip Trimmer.png"
+	        }
+	    },
+	    {
+	        "name": "Free-Range Foraging",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Free-Range Foraging.png"
+	        }
+	    },
+	    {
+	        "name": "Valiant Versemaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Azra Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Valiant Versemaker.png"
+	        }
+	    },
+	    {
+	        "name": "Keen Guardcog",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact Creature — Dog ",
+	        "image_uris": {
+	            "en": "Keen Guardcog.png"
+	        },
+	        "printed names": {
+	            "en": "Keen Guardcog"
+	        },
+	        "back": {
+	            "name": "Cogwork Watch",
+	            "printed_names": {
+	                "en": "Cogwork Watch"
+	            },
+	            "image_uris": {
+	                "en": "Cogwork Watch.png"
+	            },
+	            "type": "Artifact — Equipment "
+	        }
+	    },
+	    {
+	        "name": "Merry Troubadour",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Merry Troubadour.png"
+	        }
+	    },
+	    {
+	        "name": "Bookwyrm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bookwyrm.png"
+	        }
+	    },
+	    {
+	        "name": "Cheerful Painter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Gnome Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Cheerful Painter.png"
+	        }
+	    },
+	    {
+	        "name": "Candied Colossus",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Artifact Creature — Food Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Candied Colossus.png"
+	        }
+	    },
+	    {
+	        "name": "Colorful Rendition",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Colorful Rendition.png"
+	        }
+	    },
+	    {
+	        "name": "Inspiring Melody",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inspiring Melody.png"
+	        }
+	    },
+	    {
+	        "name": "Highbrow Critic",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Azra Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Highbrow Critic.png"
+	        }
+	    },
+	    {
+	        "name": "Storybook Serpent",
+	        "rarity": "common",
+	        "mana_cost": "{6}{U}",
+	        "type": "Artifact Creature — Serpent ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Storybook Serpent.png"
+	        }
+	    },
+	    {
+	        "name": "Houndcrafter Savant",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Gnome Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Houndcrafter Savant.png"
+	        }
+	    },
+	    {
+	        "name": "Jacques, Harsh Conductor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Legendary Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Jacques, Harsh Conductor.png"
+	        }
+	    },
+	    {
+	        "name": "Distracting Song",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Distracting Song.png"
+	        }
+	    },
+	    {
+	        "name": "Blood Artist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Blood Artist.png"
+	        }
+	    },
+	    {
+	        "name": "Merrymaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Satyr Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Merrymaker.png"
+	        }
+	    },
+	    {
+	        "name": "Skillful Landscapist",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artist Wizard ",
+	        "image_uris": {
+	            "en": "Skillful Landscapist.png"
+	        },
+	        "printed names": {
+	            "en": "Skillful Landscapist"
+	        },
+	        "back": {
+	            "name": "Vibrant Vision",
+	            "printed_names": {
+	                "en": "Vibrant Vision"
+	            },
+	            "image_uris": {
+	                "en": "Vibrant Vision.png"
+	            },
+	            "type": "Enchantment Artifact"
+	        }
+	    },
+	    {
+	        "name": "Civil Engineer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Civil Engineer.png"
+	        }
+	    },
+	    {
+	        "name": "Dreamquill",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dreamquill.png"
+	        }
+	    },
+	    {
+	        "name": "Gnomish Tinkerer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Gnome Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gnomish Tinkerer.png"
+	        }
+	    },
+	    {
+	        "name": "Worksite Visionary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elf Artificer Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Worksite Visionary.png"
+	        }
+	    },
+	    {
+	        "name": "Bolstering Chefbot",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Artifact Creature — Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bolstering Chefbot.png"
+	        }
+	    },
+	    {
+	        "name": "Distracting Charcuterie",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Artifact — Food ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Distracting Charcuterie.png"
+	        }
+	    },
+	    {
+	        "name": "Sunstreet Clocktower",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Sunstreet Clocktower.png"
+	        }
+	    },
+	    {
+	        "name": "Encore",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Encore.png"
+	        }
+	    },
+	    {
+	        "name": "Gustatorie Tastemaker",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "Gustatorie Tastemaker.png"
+	        },
+	        "printed names": {
+	            "en": "Gustatorie Tastemaker"
+	        },
+	        "back": {
+	            "name": "Abundant Feast",
+	            "printed_names": {
+	                "en": "Abundant Feast"
+	            },
+	            "image_uris": {
+	                "en": "Abundant Feast.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Greenpark Strummer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Cat Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Greenpark Strummer.png"
+	        }
+	    },
+	    {
+	        "name": "Belligerence",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Belligerence.png"
+	        }
+	    },
+	    {
+	        "name": "Natural Harmony",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Natural Harmony.png"
+	        }
+	    },
+	    {
+	        "name": "Farmstead Butcher",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Dwarf Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Farmstead Butcher.png"
+	        }
+	    },
+	    {
+	        "name": "Secret Ingredients",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Secret Ingredients.png"
+	        }
+	    },
+	    {
+	        "name": "Tavern Talesmith",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Orc Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tavern Talesmith.png"
+	        }
+	    },
+	    {
+	        "name": "Flamethumper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Dragon Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Flamethumper.png"
+	        }
+	    },
+	    {
+	        "name": "Opening Act",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Opening Act.png"
+	        }
+	    },
+	    {
+	        "name": "Grand Overture",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Grand Overture.png"
+	        }
+	    },
+	    {
+	        "name": "Spirit of the Opera",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Spirit of the Opera.png"
+	        }
+	    },
+	    {
+	        "name": "Fine Diner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Dwarf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Fine Diner.png"
+	        }
+	    },
+	    {
+	        "name": "Song of Creation",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Song of Creation.png"
+	        }
+	    },
+	    {
+	        "name": "Ironflow Forge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Ironflow Forge.png"
+	        }
+	    },
+	    {
+	        "name": "Odette L'or, Fickle Painter",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}",
+	        "type": "Legendary Creature — Human Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Odette L'or, Fickle Painter.png"
+	        }
+	    },
+	    {
+	        "name": "Niels, Cogmaster",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Legendary Creature — Dwarf Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Niels, Cogmaster.png"
+	        }
+	    },
+	    {
+	        "name": "Kitty Connoisseur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Kitty Connoisseur.png"
+	        }
+	    },
+	    {
+	        "name": "Elven Glassblower",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elf Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Elven Glassblower.png"
+	        }
+	    },
+	    {
+	        "name": "Heartblaze Theatre",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Heartblaze Theatre.png"
+	        }
+	    },
+	    {
+	        "name": "Audition",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Audition.png"
+	        }
+	    },
+	    {
+	        "name": "Reptilian Rhymester",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Dragon Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Reptilian Rhymester.png"
+	        }
+	    },
+	    {
+	        "name": "Dragonsong",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Enchantment Creature — Dragon Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dragonsong.png"
+	        }
+	    },
+	    {
+	        "name": "Waxcrafter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Waxcrafter.png"
+	        }
+	    },
+	    {
+	        "name": "Soliloquist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Elf Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Soliloquist.png"
+	        }
+	    },
+	    {
+	        "name": "Cookie Snatcher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Cookie Snatcher.png"
+	        }
+	    },
+	    {
+	        "name": "Avian Auteur",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Bird Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Avian Auteur.png"
+	        }
+	    },
+	    {
+	        "name": "Operahouse Headliner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Azra Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Operahouse Headliner.png"
+	        }
+	    },
+	    {
+	        "name": "Discouraging Flop",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Discouraging Flop.png"
+	        }
+	    },
+	    {
+	        "name": "Second Showing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Second Showing.png"
+	        }
+	    },
+	    {
+	        "name": "Garden Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Treefolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Garden Guardian.png"
+	        }
+	    },
+	    {
+	        "name": "Dour Chorister",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Vampire Actor Warlock ",
+	        "image_uris": {
+	            "en": "Dour Chorister.png"
+	        },
+	        "printed names": {
+	            "en": "Dour Chorister"
+	        },
+	        "back": {
+	            "name": "Breakout Role",
+	            "printed_names": {
+	                "en": "Breakout Role"
+	            },
+	            "image_uris": {
+	                "en": "Breakout Role.png"
+	            },
+	            "type": "Creature — Vampire Actor Warlock "
+	        }
+	    },
+	    {
+	        "name": "Benevolent Florist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Azra Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Benevolent Florist.png"
+	        }
+	    },
+	    {
+	        "name": "Wolfsong",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment Creature — Wolf Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Wolfsong.png"
+	        }
+	    },
+	    {
+	        "name": "Tend the Garden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tend the Garden.png"
+	        }
+	    },
+	    {
+	        "name": "The Rejection of the Monarchy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Rejection of the Monarchy.png"
+	        }
+	    },
+	    {
+	        "name": "Gemcrafter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Dwarf Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gemcrafter.png"
+	        }
+	    },
+	    {
+	        "name": "Birdsong",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment Creature — Bird Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Birdsong.png"
+	        }
+	    },
+	    {
+	        "name": "Diego, Slam Poet",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Legendary Creature — Satyr Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Diego, Slam Poet.png"
+	        }
+	    },
+	    {
+	        "name": "Michel, Strummer of Heartstrings",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Legendary Creature — Mouse Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Michel, Strummer of Heartstrings.png"
+	        }
+	    },
+	    {
+	        "name": "Bard",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bard.png"
+	        }
+	    },
+	    {
+	        "name": "Boar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Boar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Boar.png"
+	        }
+	    },
+	    {
+	        "name": "Dog",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dog.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "Food",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Food ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Food.png"
+	        }
+	    },
+	    {
+	        "name": "Gnome",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Gnome ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gnome.png"
+	        }
+	    },
+	    {
+	        "name": "Illusion",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Enchantment Creature — Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Illusion.png"
+	        }
+	    },
+	    {
+	        "name": "Inkling",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Inkling ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inkling.png"
+	        }
+	    },
+	    {
+	        "name": "Plant",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Plant.png"
+	        }
+	    },
+	    {
+	        "name": "Sculpture",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Sculpture.png"
+	        }
+	    },
+	    {
+	        "name": "Thopter",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Thopter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Thopter.png"
+	        }
+	    },
+	    {
+	        "name": "Treasure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Treasure ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Treasure.png"
+	        }
+	    },
+	    {
+	        "name": "Vampire Actor",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Vampire Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Vampire Actor.png"
+	        }
+	    },
+	    {
+	        "name": "Artist's Easel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Artist's Easel.png"
+	        }
+	    },
+	    {
+	        "name": "Brasio, Bardic Chronicler",
+	        "mana_cost": "{R}",
+	        "type": "Legendary Creature — Goblin Bard ",
+	        "image_uris": {
+	            "en": "Brasio, Bardic Chronicler.png"
+	        },
+	        "printed names": {
+	            "en": "Brasio, Bardic Chronicler"
+	        },
+	        "back": {
+	            "name": "The Long Chant",
+	            "printed_names": {
+	                "en": "The Long Chant"
+	            },
+	            "image_uris": {
+	                "en": "The Long Chant.png"
+	            },
+	            "type": "Legendary Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Stew Stirrer",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "Stew Stirrer.png"
+	        },
+	        "printed names": {
+	            "en": "Stew Stirrer"
+	        },
+	        "back": {
+	            "name": "Family Recipe",
+	            "printed_names": {
+	                "en": "Family Recipe"
+	            },
+	            "image_uris": {
+	                "en": "Family Recipe.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Trash-eater Gnome",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Gnome ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Trash-eater Gnome.png"
+	        }
+	    },
+	    {
+	        "name": "Inkbottle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inkbottle.png"
+	        }
+	    },
+	    {
+	        "name": "Conceptual Orrery",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Conceptual Orrery.png"
+	        }
+	    },
+	    {
+	        "name": "Retrospection",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Retrospection.png"
+	        }
+	    },
+	    {
+	        "name": "Skilled Sous-Chef",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Skilled Sous-Chef.png"
+	        }
+	    },
+	    {
+	        "name": "Parapet Percher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W/U}",
+	        "type": "Artifact Creature — Gargoyle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Parapet Percher.png"
+	        }
+	    },
+	    {
+	        "name": "Cogwrench",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Cogwrench.png"
+	        }
+	    },
+	    {
+	        "name": "Lunch Rush",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Lunch Rush.png"
+	        }
+	    },
+	    {
+	        "name": "Vamp",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Vamp.png"
+	        }
+	    },
+	    {
+	        "name": "Fencer's Foil",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Fencer's Foil.png"
+	        }
+	    },
+	    {
+	        "name": "Copy",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Copy.png"
+	        }
+	    },
+	    {
+	        "name": "Forest MVX",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Forest MVX.png"
+	        }
+	    },
+	    {
+	        "name": "Island MVX",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Island MVX.png"
+	        }
+	    },
+	    {
+	        "name": "Plains MVX",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Plains MVX.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp MVX",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Swamp MVX.png"
+	        }
+	    },
+	    {
+	        "name": "Waxbreath Youngling",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Dragon Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Waxbreath Youngling.png"
+	        }
+	    },
+	    {
+	        "name": "Castleway Crane",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Castleway Crane.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain MVX",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Mountain MVX.png"
+	        }
+	    },
+	    {
+	        "name": "Hunt for Inspiration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Hunt for Inspiration.png"
+	        }
+	    },
+	    {
+	        "name": "Painter's Studio",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Painter's Studio.png"
+	        }
+	    },
+	    {
+	        "name": "Teatime Two",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{B}{G}",
+	        "type": "Creature — Azra Orc Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Teatime Two.png"
+	        }
+	    },
+	    {
+	        "name": "Grow from Instruction",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Grow from Instruction.png"
+	        }
+	    },
+	    {
+	        "name": "Angel of Iteration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}{U}",
+	        "type": "Artifact Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Angel of Iteration.png"
+	        }
+	    },
+	    {
+	        "name": "The Flourishing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Flourishing.png"
+	        }
+	    },
+	    {
+	        "name": "The Grand Festival",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Grand Festival.png"
+	        }
+	    },
+	    {
+	        "name": "Gobsmack",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gobsmack.png"
+	        }
+	    },
+	    {
+	        "name": "Constancia, City Builder",
+	        "mana_cost": "{3}{W}",
+	        "type": "Legendary Creature — Dwarf Artificer ",
+	        "image_uris": {
+	            "en": "Constancia, City Builder.png"
+	        },
+	        "printed names": {
+	            "en": "Constancia, City Builder"
+	        },
+	        "back": {
+	            "name": "The Spire of Merveaux",
+	            "printed_names": {
+	                "en": "The Spire of Merveaux"
+	            },
+	            "image_uris": {
+	                "en": "The Spire of Merveaux.png"
+	            },
+	            "type": "Legendary Artifact — Building "
+	        }
+	    },
+	    {
+	        "name": "Concordia, Angel of Glass",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Legendary Creature — Angel Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Concordia, Angel of Glass.png"
+	        }
+	    },
+	    {
+	        "name": "Stunning Soprano",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Vampire Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stunning Soprano.png"
+	        }
+	    },
+	    {
+	        "name": "Stormsinger",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{R}",
+	        "type": "Creature — Elf Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stormsinger.png"
+	        }
+	    },
+	    {
+	        "name": "Arboreal Artist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Arboreal Artist.png"
+	        }
+	    },
+	    {
+	        "name": "Preserve the Moment",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Preserve the Moment.png"
+	        }
+	    },
+	    {
+	        "name": "Inspiring Walk",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G/U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inspiring Walk.png"
+	        }
+	    },
+	    {
+	        "name": "Hearthsong",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Hearthsong.png"
+	        }
+	    },
+	    {
+	        "name": "The Bardenmoot",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Bardenmoot.png"
+	        }
+	    },
+	    {
+	        "name": "Showstopper",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Showstopper.png"
+	        }
+	    },
+	    {
+	        "name": "Ancestral Guidance",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Ancestral Guidance.png"
+	        }
+	    },
+	    {
+	        "name": "Ambrosian Tower",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}{G}",
+	        "type": "Artifact — Food ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Ambrosian Tower.png"
+	        }
+	    },
+	    {
+	        "name": "Cogturn Laboratory",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Cogturn Laboratory.png"
+	        }
+	    },
+	    {
+	        "name": "Festival Puppeteer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Human Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Festival Puppeteer.png"
+	        }
+	    },
+	    {
+	        "name": "Roland's Solo",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Roland's Solo.png"
+	        }
+	    },
+	    {
+	        "name": "Show of Strength",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Show of Strength.png"
+	        }
+	    },
+	    {
+	        "name": "Bombastic Performance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bombastic Performance.png"
+	        }
+	    },
+	    {
+	        "name": "Petite Patissier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Rat Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Petite Patissier.png"
+	        }
+	    },
+	    {
+	        "name": "Partners in Rhyme",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{U}{R}",
+	        "type": "Creature — Azra Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Partners in Rhyme.png"
+	        }
+	    },
+	    {
+	        "name": "Extravagant Channeler",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Vampire Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Extravagant Channeler.png"
+	        }
+	    },
+	    {
+	        "name": "Festival Revelry",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Festival Revelry.png"
+	        }
+	    },
+	    {
+	        "name": "Haunting Lullaby",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Haunting Lullaby.png"
+	        }
+	    },
+	    {
+	        "name": "Moonridge Tailors",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Moonridge Tailors.png"
+	        }
+	    },
+	    {
+	        "name": "Skystone Gargoyle",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Artifact Creature — Gargoyle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Skystone Gargoyle.png"
+	        }
+	    },
+	    {
+	        "name": "Rousing Read",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Rousing Read.png"
+	        }
+	    },
+	    {
+	        "name": "Atelier Exemplar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Orc Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Atelier Exemplar.png"
+	        }
+	    },
+	    {
+	        "name": "Forest Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Land — Forest Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Forest Plains.png"
+	        }
+	    },
+	    {
+	        "name": "Severin, Kitchen Tyrant",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Legendary Creature — Dwarf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Severin, Kitchen Tyrant.png"
+	        }
+	    },
+	    {
+	        "name": "Hymn to the Wilds",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Hymn to the Wilds.png"
+	        }
+	    },
+	    {
+	        "name": "Sparks of Invention",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Sparks of Invention.png"
+	        }
+	    },
+	    {
+	        "name": "Vehicle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Vehicle.png"
+	        }
+	    },
+	    {
+	        "name": "Stew",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stew.png"
+	        }
+	    },
+	    {
+	        "name": "Reconceptualize",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Reconceptualize.png"
+	        }
+	    },
+	    {
+	        "name": "Slinking Scribbler",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Slinking Scribbler.png"
+	        }
+	    },
+	    {
+	        "name": "Rooftop Rapscallion",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Rooftop Rapscallion.png"
+	        }
+	    },
+	    {
+	        "name": "Stained Glass Sentinel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}{W}",
+	        "type": "Artifact Creature — Gargoyle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stained Glass Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Flamesweeper",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Flamesweeper.png"
+	        }
+	    },
+	    {
+	        "name": "Cost of Perfection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Cost of Perfection.png"
+	        }
+	    },
+	    {
+	        "name": "Season to Perfection",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Season to Perfection.png"
+	        }
+	    },
+	    {
+	        "name": "Bird",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bird.png"
+	        }
+	    },
+	    {
+	        "name": "Chicken Coop",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Chicken Coop.png"
+	        }
+	    },
+	    {
+	        "name": "Gustbrook Library",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gustbrook Library.png"
+	        }
+	    },
+	    {
+	        "name": "Deafening Duo",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Elf Dwarf Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Deafening Duo.png"
+	        }
+	    },
+	    {
+	        "name": "Songcrafting",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Songcrafting.png"
+	        }
+	    },
+	    {
+	        "name": "Sauce Flinger",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Sauce Flinger.png"
+	        }
+	    },
+	    {
+	        "name": "Balcony Chanteur",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Spirit Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Balcony Chanteur.png"
+	        }
+	    },
+	    {
+	        "name": "La Chaconne de Soupir No 3",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/La Chaconne de Soupir No 3.png"
+	        }
+	    },
+	    {
+	        "name": "Gustatorie Mixer",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Bear Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gustatorie Mixer.png"
+	        }
+	    },
+	    {
+	        "name": "Spirit Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Spirit Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "Vicious Animancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}{B}",
+	        "type": "Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Vicious Animancer.png"
+	        }
+	    },
+	    {
+	        "name": "Keeper of the Archives",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{U}",
+	        "type": "Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Keeper of the Archives.png"
+	        }
+	    },
+	    {
+	        "name": "Construct",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Construct.png"
+	        }
+	    },
+	    {
+	        "name": "Solid Fundamentals",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Solid Fundamentals.png"
+	        }
+	    },
+	    {
+	        "name": "Sylvie, Garden Tender",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Creature — Satyr Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Sylvie, Garden Tender.png"
+	        }
+	    },
+	    {
+	        "name": "Swaying Smorgasbord",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Artifact Creature — Food Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Swaying Smorgasbord.png"
+	        }
+	    },
+	    {
+	        "name": "Gleeful Amateur",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Gnome Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gleeful Amateur.png"
+	        }
+	    },
+	    {
+	        "name": "Body of Literature",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Inkling Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Body of Literature.png"
+	        }
+	    },
+	    {
+	        "name": "Writer's Desk",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Writer's Desk.png"
+	        }
+	    },
+	    {
+	        "name": "Sate the Critics",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Sate the Critics.png"
+	        }
+	    },
+	    {
+	        "name": "Redesign",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Redesign.png"
+	        }
+	    },
+	    {
+	        "name": "Wicked Wordsmith",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Human Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Wicked Wordsmith.png"
+	        }
+	    },
+	    {
+	        "name": "Esteemed Author Davriel Cane",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Legendary Planeswalker — Davriel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Esteemed Author Davriel Cane.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Chromatic Lantern",
+	        "rarity": "special",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Chromatic Lantern.png"
+	        }
+	    },
+	    {
+	        "name": "Invocation of Creativity",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Invocation of Creativity.png"
+	        }
+	    },
+	    {
+	        "name": "See the Sights",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/See the Sights.png"
+	        }
+	    },
+	    {
+	        "name": "Ironstreet Welders",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Goblin Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Ironstreet Welders.png"
+	        }
+	    },
+	    {
+	        "name": "Ingenuity",
+	        "rarity": "mythic",
+	        "mana_cost": "{6}",
+	        "type": "Legendary Artifact Creature — Incarnation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Ingenuity.png"
+	        }
+	    },
+	    {
+	        "name": "Antoine, Chef Extraordinaire",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Orc Druid ",
+	        "image_uris": {
+	            "en": "Antoine, Chef Extraordinaire.png"
+	        },
+	        "printed names": {
+	            "en": "Antoine, Chef Extraordinaire"
+	        },
+	        "back": {
+	            "name": "Antoine's Recipe",
+	            "printed_names": {
+	                "en": "Antoine's Recipe"
+	            },
+	            "image_uris": {
+	                "en": "Antoine's Recipe.png"
+	            },
+	            "type": "Legendary Artifact — Food "
+	        }
+	    },
+	    {
+	        "name": "Chromatic Lantern",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Chromatic Lantern.png"
+	        }
+	    },
+	    {
+	        "name": "Lyon's Contemplation",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Lyon's Contemplation.png"
+	        }
+	    },
+	    {
+	        "name": "Foundry Assistant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Foundry Assistant.png"
+	        }
+	    },
+	    {
+	        "name": "Blueprints",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Blueprints.png"
+	        }
+	    },
+	    {
+	        "name": "Plan by Committee",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Plan by Committee.png"
+	        }
+	    },
+	    {
+	        "name": "Footlight Fiend",
+	        "rarity": "common",
+	        "mana_cost": "{B/R}",
+	        "type": "Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Footlight Fiend.png"
+	        }
+	    },
+	    {
+	        "name": "Enraged Essayist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Dwarf Artist Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Enraged Essayist.png"
+	        }
+	    },
+	    {
+	        "name": "Tear Through",
+	        "rarity": "common",
+	        "mana_cost": "{R/G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tear Through.png"
+	        }
+	    },
+	    {
+	        "name": "Constructed Whelp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Constructed Whelp.png"
+	        }
+	    },
+	    {
+	        "name": "Stage Double",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stage Double.png"
+	        }
+	    },
+	    {
+	        "name": "Parkland Flautist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dryad Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Parkland Flautist.png"
+	        }
+	    },
+	    {
+	        "name": "Distracted Apprentice",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "Distracted Apprentice.png"
+	        },
+	        "printed names": {
+	            "en": "Distracted Apprentice"
+	        },
+	        "back": {
+	            "name": "Thopter Workshop",
+	            "printed_names": {
+	                "en": "Thopter Workshop"
+	            },
+	            "image_uris": {
+	                "en": "Thopter Workshop.png"
+	            },
+	            "type": "Artifact"
+	        }
+	    },
+	    {
+	        "name": "Gastronomical Hubris",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gastronomical Hubris.png"
+	        }
+	    },
+	    {
+	        "name": "Elaphia, Full of Wonder",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Legendary Planeswalker — Elaphia ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Elaphia, Full of Wonder.png"
+	        }
+	    },
+	    {
+	        "name": "Nicola, Inspired Artist",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Human Artist Wizard ",
+	        "image_uris": {
+	            "en": "Nicola, Inspired Artist.png"
+	        },
+	        "printed names": {
+	            "en": "Nicola, Inspired Artist"
+	        },
+	        "back": {
+	            "name": "Night Upon the Cosmos",
+	            "printed_names": {
+	                "en": "Night Upon the Cosmos"
+	            },
+	            "image_uris": {
+	                "en": "Night Upon the Cosmos.png"
+	            },
+	            "type": "Legendary Enchantment Artifact"
+	        }
+	    },
+	    {
+	        "name": "Dramatis Personae",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dramatis Personae.png"
+	        }
+	    },
+	    {
+	        "name": "Chorus Machine",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Chorus Machine.png"
+	        }
+	    },
+	    {
+	        "name": "Enraptured Watcher",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Enraptured Watcher.png"
+	        }
+	    },
+	    {
+	        "name": "Tavern Reveler",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Satyr Bard ",
+	        "image_uris": {
+	            "en": "Tavern Reveler.png"
+	        },
+	        "printed names": {
+	            "en": "Tavern Reveler"
+	        },
+	        "back": {
+	            "name": "Euphoric Stupor",
+	            "printed_names": {
+	                "en": "Euphoric Stupor"
+	            },
+	            "image_uris": {
+	                "en": "Euphoric Stupor.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Belphegor, Infernal Publisher",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Legendary Creature — Demon Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Belphegor, Infernal Publisher.png"
+	        }
+	    },
+	    {
+	        "name": "The Founding of the City",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Founding of the City.png"
+	        }
+	    },
+	    {
+	        "name": "Green-Thumbed Growth",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Green-Thumbed Growth.png"
+	        }
+	    },
+	    {
+	        "name": "Serenade",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Serenade.png"
+	        }
+	    },
+	    {
+	        "name": "Inkblot Familiar",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Inkling Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inkblot Familiar.png"
+	        }
+	    },
+	    {
+	        "name": "Gustatorie Explorateur",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Orc Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gustatorie Explorateur.png"
+	        }
+	    },
+	    {
+	        "name": "Criticize",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Criticize.png"
+	        }
+	    },
+	    {
+	        "name": "Avian Augmenteers",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Bird Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Avian Augmenteers.png"
+	        }
+	    },
+	    {
+	        "name": "Skilled Animancy",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Skilled Animancy.png"
+	        }
+	    },
+	    {
+	        "name": "Diviner of the Dessert",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Diviner of the Dessert.png"
+	        }
+	    },
+	    {
+	        "name": "Lament",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Lament.png"
+	        }
+	    },
+	    {
+	        "name": "Parts Picker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Artifact Creature — Gnome ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Parts Picker.png"
+	        }
+	    },
+	    {
+	        "name": "Moment of Craving",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Moment of Craving.png"
+	        }
+	    },
+	    {
+	        "name": "Alabaster Guardian",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}{W}",
+	        "type": "Artifact Creature — Dog Sculpture ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Alabaster Guardian.png"
+	        }
+	    },
+	    {
+	        "name": "Tidy Up",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tidy Up.png"
+	        }
+	    },
+	    {
+	        "name": "Witch of Forbidden Treats",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Witch of Forbidden Treats.png"
+	        }
+	    },
+	    {
+	        "name": "Velda, Opera Diva",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Legendary Creature — Vampire Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Velda, Opera Diva.png"
+	        }
+	    },
+	    {
+	        "name": "Roland, Second Fiddle",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Legendary Creature — Azra Bard ",
+	        "image_uris": {
+	            "en": "Roland, Second Fiddle.png"
+	        },
+	        "printed names": {
+	            "en": "Roland, Second Fiddle"
+	        },
+	        "back": {
+	            "name": "Roland, Stunning Soloist",
+	            "printed_names": {
+	                "en": "Roland, Stunning Soloist"
+	            },
+	            "image_uris": {
+	                "en": "Roland, Stunning Soloist.png"
+	            },
+	            "type": "Legendary Planeswalker — Roland "
+	        }
+	    },
+	    {
+	        "name": "PROMO Swamp",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Mountain",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Plains",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Plains.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Forest",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Forest.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Island",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/PROMO Island.png"
+	        }
+	    },
+	    {
+	        "name": "Stonework Behemoth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{7}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stonework Behemoth.png"
+	        }
+	    },
+	    {
+	        "name": "Diligent Architect",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Orc Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Diligent Architect.png"
+	        }
+	    },
+	    {
+	        "name": "Skystone Sculptory",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Skystone Sculptory.png"
+	        }
+	    },
+	    {
+	        "name": "Monument to Ascension",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Artifact Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Monument to Ascension.png"
+	        }
+	    },
+	    {
+	        "name": "Starlit Horizons",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Legendary Enchantment Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Starlit Horizons.png"
+	        }
+	    },
+	    {
+	        "name": "Scrapsmelt Foundry",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Artifact — Building ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Scrapsmelt Foundry.png"
+	        }
+	    },
+	    {
+	        "name": "Food Flood",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Food Flood.png"
+	        }
+	    },
+	    {
+	        "name": "Davriel's Bargain",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Davriel's Bargain.png"
+	        }
+	    },
+	    {
+	        "name": "Break from Stress",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Break from Stress.png"
+	        }
+	    },
+	    {
+	        "name": "Inkshaping",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Inkshaping.png"
+	        }
+	    },
+	    {
+	        "name": "Stage Fright",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stage Fright.png"
+	        }
+	    },
+	    {
+	        "name": "Dishearten",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dishearten.png"
+	        }
+	    },
+	    {
+	        "name": "Vivid Expression",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Vivid Expression.png"
+	        }
+	    },
+	    {
+	        "name": "Gallery Curator",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Azra Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gallery Curator.png"
+	        }
+	    },
+	    {
+	        "name": "Songweaver Adept",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Azra Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Songweaver Adept.png"
+	        }
+	    },
+	    {
+	        "name": "Soup Serpent",
+	        "rarity": "mythic",
+	        "mana_cost": "{X}{G}",
+	        "type": "Artifact Creature — Food Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Soup Serpent.png"
+	        }
+	    },
+	    {
+	        "name": "First Chair Violinist",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Elf Bard Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/First Chair Violinist.png"
+	        }
+	    },
+	    {
+	        "name": "Phoenixsong",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment Creature — Phoenix Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Phoenixsong.png"
+	        }
+	    },
+	    {
+	        "name": "Far-off Places",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{G}{U}",
+	        "type": "Legendary Enchantment Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Far-off Places.png"
+	        }
+	    },
+	    {
+	        "name": "Pompous Thespian",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Actor Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Pompous Thespian.png"
+	        }
+	    },
+	    {
+	        "name": "Profane Performer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Vampire Bard Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Profane Performer.png"
+	        }
+	    },
+	    {
+	        "name": "Frymaster's Pan",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Frymaster's Pan.png"
+	        }
+	    },
+	    {
+	        "name": "Ode to the Classics",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Ode to the Classics.png"
+	        }
+	    },
+	    {
+	        "name": "Flute of Harmony",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Flute of Harmony.png"
+	        }
+	    },
+	    {
+	        "name": "Impassioned Singer",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elf Bard ",
+	        "image_uris": {
+	            "en": "Impassioned Singer.png"
+	        },
+	        "printed names": {
+	            "en": "Impassioned Singer"
+	        },
+	        "back": {
+	            "name": "Impassioned Performance",
+	            "printed_names": {
+	                "en": "Impassioned Performance"
+	            },
+	            "image_uris": {
+	                "en": "Impassioned Performance.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Spectral Scribe",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Spirit Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Spectral Scribe.png"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Houndcrafter Savant
+		3 Jacques, Harsh Conductor
+		3 Grand Overture
+		3 Song of Creation
+		3 Odette L'or, Fickle Painter
+		3 Niels, Cogmaster
+		3 Elven Glassblower
+		3 Diego, Slam Poet
+		3 Michel, Strummer of Heartstrings
+		3 Conceptual Orrery
+		3 Retrospection
+		3 Waxbreath Youngling
+		3 Concordia, Angel of Glass
+		3 Stormsinger
+		3 The Bardenmoot
+		3 Showstopper
+		3 Ancestral Guidance
+		3 Ambrosian Tower
+		3 Cogturn Laboratory
+		3 Festival Puppeteer
+		3 Roland's Solo
+		3 Show of Strength
+		3 Festival Revelry
+		3 Severin, Kitchen Tyrant
+		3 Hymn to the Wilds
+		3 Stew
+		3 Reconceptualize
+		3 Flamesweeper
+		3 Chicken Coop
+		3 Sauce Flinger
+		3 Balcony Chanteur
+		3 La Chaconne de Soupir No 3
+		3 Gustatorie Mixer
+		3 Solid Fundamentals
+		3 Sylvie, Garden Tender
+		3 Swaying Smorgasbord
+		3 Gleeful Amateur
+		3 Body of Literature
+		3 Writer's Desk
+		3 Invocation of Creativity
+		3 Chromatic Lantern
+		3 Lyon's Contemplation
+		3 Plan by Committee
+		3 Parkland Flautist
+		3 Gastronomical Hubris
+		3 Chorus Machine
+		3 Belphegor, Infernal Publisher
+		3 Serenade
+		3 Inkblot Familiar
+		3 Avian Augmenteers
+		3 Skilled Animancy
+		3 Diviner of the Dessert
+		3 Lament
+		3 Alabaster Guardian
+		3 Tidy Up
+		3 Velda, Opera Diva
+		3 Skystone Sculptory
+		3 Starlit Horizons
+		3 Scrapsmelt Foundry
+		3 Food Flood
+		3 Davriel's Bargain
+		3 Break from Stress
+		3 Inkshaping
+		3 Stage Fright
+		3 Vivid Expression
+		3 Gallery Curator
+		3 Songweaver Adept
+		3 First Chair Violinist
+		3 Phoenixsong
+		3 Far-off Places
+		3 Frymaster's Pan
+		3 Ode to the Classics
+		1 Creativity
+		1 Marquis Vaasco de Moraes
+		1 Pascal, Critics' Favorite
+		1 Lyon, Aged Inventor
+		1 Brasio, Bardic Chronicler
+		1 Constancia, City Builder
+		1 Preserve the Moment
+		1 Hearthsong
+		1 Esteemed Author Davriel Cane
+		1 Ingenuity
+		1 Antoine, Chef Extraordinaire
+		1 Elaphia, Full of Wonder
+		1 Nicola, Inspired Artist
+		1 Dramatis Personae
+		1 Roland, Second Fiddle
+		1 Monument to Ascension
+		1 Soup Serpent
+	[UncommonSlot(3)]
+		5 Forlorn Author
+		5 Dancing Troupe
+		5 Wandering Connoisseur
+		5 Meticulous Sculptor
+		5 Turnip Trimmer
+		5 Free-Range Foraging
+		5 Valiant Versemaker
+		5 Blood Artist
+		5 Merrymaker
+		5 Skillful Landscapist
+		5 Civil Engineer
+		5 Dreamquill
+		5 Gnomish Tinkerer
+		5 Worksite Visionary
+		5 Bolstering Chefbot
+		5 Distracting Charcuterie
+		5 Sunstreet Clocktower
+		5 Encore
+		5 Secret Ingredients
+		5 Flamethumper
+		5 Opening Act
+		5 Spirit of the Opera
+		5 Fine Diner
+		5 Ironflow Forge
+		5 Kitty Connoisseur
+		5 Heartblaze Theatre
+		5 Audition
+		5 Reptilian Rhymester
+		5 Dragonsong
+		5 Waxcrafter
+		5 Soliloquist
+		5 Operahouse Headliner
+		5 Discouraging Flop
+		5 Second Showing
+		5 Dour Chorister
+		5 Benevolent Florist
+		5 Wolfsong
+		5 Tend the Garden
+		5 The Rejection of the Monarchy
+		5 Gemcrafter
+		5 Birdsong
+		5 Artist's Easel
+		5 Stew Stirrer
+		5 Trash-eater Gnome
+		5 Inkbottle
+		5 Skilled Sous-Chef
+		5 Castleway Crane
+		5 Hunt for Inspiration
+		5 Teatime Two
+		5 Grow from Instruction
+		5 Angel of Iteration
+		5 The Flourishing
+		5 The Grand Festival
+		5 Stunning Soprano
+		5 Bombastic Performance
+		5 Petite Patissier
+		5 Partners in Rhyme
+		5 Atelier Exemplar
+		5 Sparks of Invention
+		5 Stained Glass Sentinel
+		5 Cost of Perfection
+		5 Gustbrook Library
+		5 Songcrafting
+		5 Vicious Animancer
+		5 Keeper of the Archives
+		5 Redesign
+		5 Wicked Wordsmith
+		5 Enraged Essayist
+		5 Constructed Whelp
+		5 Distracted Apprentice
+		5 The Founding of the City
+		5 Criticize
+		5 Parts Picker
+		5 Witch of Forbidden Treats
+		5 Stonework Behemoth
+		5 Dishearten
+		5 Profane Performer
+		5 Flute of Harmony
+		5 Impassioned Singer
+		5 Spectral Scribe
+	[CommonSlot(10)]
+		12 Congregation Aspirant
+		12 Operahouse Gossip
+		12 Pudding Cat
+		12 Paper Familiars
+		12 Blase Cuisinier
+		12 Mechanical Racer
+		12 Bardic Historian
+		12 Inspirational Performer
+		12 Skystone Seraph
+		12 Colossal Puppetry
+		12 Deride
+		12 Forgefire Spray
+		12 Gorge on Snacks
+		12 Change Perspective
+		12 Rushed Production
+		12 Clash of Egos
+		12 Soup Elemental
+		12 Mechanical Strix
+		12 Prolific Novelist
+		12 Atelier Artisan
+		12 Prevent Catastrophe
+		12 Annul
+		12 Fiendish Fromager
+		12 Artistic Benefactor
+		12 Motivation Sapper
+		12 Exhausting Rehearsal
+		12 Macabre Prop
+		12 Overworked
+		12 Casting Call
+		12 Understudy
+		12 Aspiring Performer
+		12 Leading Lady
+		12 Forge Gnome
+		12 Harbinger of Festivity
+		12 Spit Fire
+		12 Fiery Setpiece
+		12 Dramatic Organ
+		12 Jaunty Tune
+		12 Forgehammer
+		12 Spoil the Broth
+		12 Tempt with Treats
+		12 Inspired Reader
+		12 Librarian's Assistant
+		12 Cartographer's Eyes
+		12 Gnomestack
+		12 Rancid Meal
+		12 Prophetic Prism
+		12 Rebuild from Scratch
+		12 Tragic Soloist
+		12 Fanciful Flier
+		12 Keen Guardcog
+		12 Merry Troubadour
+		12 Bookwyrm
+		12 Cheerful Painter
+		12 Candied Colossus
+		12 Colorful Rendition
+		12 Inspiring Melody
+		12 Highbrow Critic
+		12 Storybook Serpent
+		12 Distracting Song
+		12 Gustatorie Tastemaker
+		12 Greenpark Strummer
+		12 Belligerence
+		12 Natural Harmony
+		12 Farmstead Butcher
+		12 Tavern Talesmith
+		12 Cookie Snatcher
+		12 Avian Auteur
+		12 Garden Guardian
+		12 Parapet Percher
+		12 Cogwrench
+		12 Lunch Rush
+		12 Vamp
+		12 Fencer's Foil
+		12 Gobsmack
+		12 Arboreal Artist
+		12 Inspiring Walk
+		12 Extravagant Channeler
+		12 Haunting Lullaby
+		12 Moonridge Tailors
+		12 Skystone Gargoyle
+		12 Rousing Read
+		12 Slinking Scribbler
+		12 Rooftop Rapscallion
+		12 Season to Perfection
+		12 Deafening Duo
+		12 Sate the Critics
+		12 See the Sights
+		12 Ironstreet Welders
+		12 Foundry Assistant
+		12 Blueprints
+		12 Footlight Fiend
+		12 Tear Through
+		12 Stage Double
+		12 Enraptured Watcher
+		12 Tavern Reveler
+		12 Green-Thumbed Growth
+		12 Gustatorie Explorateur
+		12 Moment of Craving
+		12 Diligent Architect
+		12 Pompous Thespian
+	[LandSlot(1)]
+		10 Serene Museum
+		10 Hushed Library
+		10 Charming Playhouse
+		10 Orator's Forum
+		10 Abundant Garden
+		10 Muted Auditorium
+		10 Seedy Kitchen
+		10 Painter's Studio
+		10 Lively Tavern
+		10 Artificer's Workshop
+		2 Back-Alley Theatre
+		2 Sunlit Park
+		2 Discreet Gallery
+		2 Vibrant Concourse
+		2 Delightful Patisserie
+		1 PROMO Back-Alley Theatre
+		1 PROMO Sunlit Park
+		1 PROMO Discreet Gallery
+		1 PROMO Vibrant Concourse
+		1 PROMO Delightful Patisserie
