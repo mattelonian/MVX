@@ -130,7 +130,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Legendary Creature — Zombie Warlock ",
 	        "image_uris": {
-	            "en": "Marquis Vaasco de Moraes.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Marquis Vaasco de Moraes.png"
 	        },
 	        "printed names": {
 	            "en": "Marquis Vaasco de Moraes"
@@ -141,7 +141,7 @@
 	                "en": "The Grand Revival"
 	            },
 	            "image_uris": {
-	                "en": "The Grand Revival.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Grand Revival.png"
 	            },
 	            "type": "Legendary Enchantment — Saga "
 	        }
@@ -394,7 +394,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Dwarf Artist Wizard ",
 	        "image_uris": {
-	            "en": "Prolific Novelist.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Prolific Novelist.png"
 	        },
 	        "printed names": {
 	            "en": "Prolific Novelist"
@@ -405,7 +405,7 @@
 	                "en": "Enchanted Quill"
 	            },
 	            "image_uris": {
-	                "en": "Enchanted Quill.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Enchanted Quill.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -514,7 +514,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Actor Warlock ",
 	        "image_uris": {
-	            "en": "Aspiring Performer.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Aspiring Performer.png"
 	        },
 	        "printed names": {
 	            "en": "Aspiring Performer"
@@ -525,7 +525,7 @@
 	                "en": "Background Part"
 	            },
 	            "image_uris": {
-	                "en": "Background Part.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Background Part.png"
 	            },
 	            "type": "Creature — Human Actor Warlock "
 	        }
@@ -769,7 +769,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact Creature — Dog ",
 	        "image_uris": {
-	            "en": "Keen Guardcog.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Keen Guardcog.png"
 	        },
 	        "printed names": {
 	            "en": "Keen Guardcog"
@@ -780,7 +780,7 @@
 	                "en": "Cogwork Watch"
 	            },
 	            "image_uris": {
-	                "en": "Cogwork Watch.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Cogwork Watch.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -907,7 +907,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Artist Wizard ",
 	        "image_uris": {
-	            "en": "Skillful Landscapist.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Skillful Landscapist.png"
 	        },
 	        "printed names": {
 	            "en": "Skillful Landscapist"
@@ -918,7 +918,7 @@
 	                "en": "Vibrant Vision"
 	            },
 	            "image_uris": {
-	                "en": "Vibrant Vision.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Vibrant Vision.png"
 	            },
 	            "type": "Enchantment Artifact"
 	        }
@@ -1000,7 +1000,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Elf Druid ",
 	        "image_uris": {
-	            "en": "Gustatorie Tastemaker.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Gustatorie Tastemaker.png"
 	        },
 	        "printed names": {
 	            "en": "Gustatorie Tastemaker"
@@ -1011,7 +1011,7 @@
 	                "en": "Abundant Feast"
 	            },
 	            "image_uris": {
-	                "en": "Abundant Feast.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Abundant Feast.png"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -1282,7 +1282,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Vampire Actor Warlock ",
 	        "image_uris": {
-	            "en": "Dour Chorister.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Dour Chorister.png"
 	        },
 	        "printed names": {
 	            "en": "Dour Chorister"
@@ -1293,7 +1293,7 @@
 	                "en": "Breakout Role"
 	            },
 	            "image_uris": {
-	                "en": "Breakout Role.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Breakout Role.png"
 	            },
 	            "type": "Creature — Vampire Actor Warlock "
 	        }
@@ -1501,7 +1501,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Legendary Creature — Goblin Bard ",
 	        "image_uris": {
-	            "en": "Brasio, Bardic Chronicler.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Brasio, Bardic Chronicler.png"
 	        },
 	        "printed names": {
 	            "en": "Brasio, Bardic Chronicler"
@@ -1512,7 +1512,7 @@
 	                "en": "The Long Chant"
 	            },
 	            "image_uris": {
-	                "en": "The Long Chant.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Long Chant.png"
 	            },
 	            "type": "Legendary Enchantment — Saga "
 	        }
@@ -1522,7 +1522,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "Stew Stirrer.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Stew Stirrer.png"
 	        },
 	        "printed names": {
 	            "en": "Stew Stirrer"
@@ -1533,7 +1533,7 @@
 	                "en": "Family Recipe"
 	            },
 	            "image_uris": {
-	                "en": "Family Recipe.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Family Recipe.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -1777,7 +1777,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Dwarf Artificer ",
 	        "image_uris": {
-	            "en": "Constancia, City Builder.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Constancia, City Builder.png"
 	        },
 	        "printed names": {
 	            "en": "Constancia, City Builder"
@@ -1788,7 +1788,7 @@
 	                "en": "The Spire of Merveaux"
 	            },
 	            "image_uris": {
-	                "en": "The Spire of Merveaux.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Spire of Merveaux.png"
 	            },
 	            "type": "Legendary Artifact — Building "
 	        }
@@ -2392,7 +2392,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Legendary Creature — Orc Druid ",
 	        "image_uris": {
-	            "en": "Antoine, Chef Extraordinaire.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Antoine, Chef Extraordinaire.png"
 	        },
 	        "printed names": {
 	            "en": "Antoine, Chef Extraordinaire"
@@ -2403,7 +2403,7 @@
 	                "en": "Antoine's Recipe"
 	            },
 	            "image_uris": {
-	                "en": "Antoine's Recipe.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Antoine's Recipe.png"
 	            },
 	            "type": "Legendary Artifact — Food "
 	        }
@@ -2512,7 +2512,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "Distracted Apprentice.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Distracted Apprentice.png"
 	        },
 	        "printed names": {
 	            "en": "Distracted Apprentice"
@@ -2523,7 +2523,7 @@
 	                "en": "Thopter Workshop"
 	            },
 	            "image_uris": {
-	                "en": "Thopter Workshop.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Thopter Workshop.png"
 	            },
 	            "type": "Artifact"
 	        }
@@ -2551,7 +2551,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Legendary Creature — Human Artist Wizard ",
 	        "image_uris": {
-	            "en": "Nicola, Inspired Artist.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Nicola, Inspired Artist.png"
 	        },
 	        "printed names": {
 	            "en": "Nicola, Inspired Artist"
@@ -2562,7 +2562,7 @@
 	                "en": "Night Upon the Cosmos"
 	            },
 	            "image_uris": {
-	                "en": "Night Upon the Cosmos.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Night Upon the Cosmos.png"
 	            },
 	            "type": "Legendary Enchantment Artifact"
 	        }
@@ -2599,7 +2599,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Satyr Bard ",
 	        "image_uris": {
-	            "en": "Tavern Reveler.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tavern Reveler.png"
 	        },
 	        "printed names": {
 	            "en": "Tavern Reveler"
@@ -2610,7 +2610,7 @@
 	                "en": "Euphoric Stupor"
 	            },
 	            "image_uris": {
-	                "en": "Euphoric Stupor.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Euphoric Stupor.png"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -2773,7 +2773,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Legendary Creature — Azra Bard ",
 	        "image_uris": {
-	            "en": "Roland, Second Fiddle.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Roland, Second Fiddle.png"
 	        },
 	        "printed names": {
 	            "en": "Roland, Second Fiddle"
@@ -2784,7 +2784,7 @@
 	                "en": "Roland, Stunning Soloist"
 	            },
 	            "image_uris": {
-	                "en": "Roland, Stunning Soloist.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Roland, Stunning Soloist.png"
 	            },
 	            "type": "Legendary Planeswalker — Roland "
 	        }
@@ -3055,7 +3055,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Elf Bard ",
 	        "image_uris": {
-	            "en": "Impassioned Singer.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Impassioned Singer.png"
 	        },
 	        "printed names": {
 	            "en": "Impassioned Singer"
@@ -3066,7 +3066,7 @@
 	                "en": "Impassioned Performance"
 	            },
 	            "image_uris": {
-	                "en": "Impassioned Performance.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Impassioned Performance.png"
 	            },
 	            "type": "Enchantment — Saga "
 	        }
@@ -3172,6 +3172,11 @@
 		1 Monument to Ascension
 		1 Soup Serpent
 	[UncommonSlot(3)]
+		5 Back-Alley Theatre
+		5 Sunlit Park
+		5 Discreet Gallery
+		5 Vibrant Concourse
+		5 Delightful Patisserie
 		5 Forlorn Author
 		5 Dancing Troupe
 		5 Wandering Connoisseur
@@ -3265,6 +3270,15 @@
 		12 Colossal Puppetry
 		12 Deride
 		12 Forgefire Spray
+		12 Serene Museum
+		12 Hushed Library
+		12 Charming Playhouse
+		12 Orator's Forum
+		12 Abundant Garden
+		12 Muted Auditorium
+		12 Seedy Kitchen
+		12 Lively Tavern
+		12 Artificer's Workshop
 		12 Gorge on Snacks
 		12 Change Perspective
 		12 Rushed Production
@@ -3327,6 +3341,7 @@
 		12 Lunch Rush
 		12 Vamp
 		12 Fencer's Foil
+		12 Painter's Studio
 		12 Gobsmack
 		12 Arboreal Artist
 		12 Inspiring Walk
@@ -3354,24 +3369,4 @@
 		12 Moment of Craving
 		12 Diligent Architect
 		12 Pompous Thespian
-	[LandSlot(1)]
-		10 Serene Museum
-		10 Hushed Library
-		10 Charming Playhouse
-		10 Orator's Forum
-		10 Abundant Garden
-		10 Muted Auditorium
-		10 Seedy Kitchen
-		10 Painter's Studio
-		10 Lively Tavern
-		10 Artificer's Workshop
-		2 Back-Alley Theatre
-		2 Sunlit Park
-		2 Discreet Gallery
-		2 Vibrant Concourse
-		2 Delightful Patisserie
-		1 PROMO Back-Alley Theatre
-		1 PROMO Sunlit Park
-		1 PROMO Discreet Gallery
-		1 PROMO Vibrant Concourse
-		1 PROMO Delightful Patisserie
+	[BasicSlot(1 
