@@ -3172,11 +3172,6 @@
 		1 Monument to Ascension
 		1 Soup Serpent
 	[UncommonSlot(3)]
-		5 Back-Alley Theatre
-		5 Sunlit Park
-		5 Discreet Gallery
-		5 Vibrant Concourse
-		5 Delightful Patisserie
 		5 Forlorn Author
 		5 Dancing Troupe
 		5 Wandering Connoisseur
@@ -3270,15 +3265,6 @@
 		12 Colossal Puppetry
 		12 Deride
 		12 Forgefire Spray
-		12 Serene Museum
-		12 Hushed Library
-		12 Charming Playhouse
-		12 Orator's Forum
-		12 Abundant Garden
-		12 Muted Auditorium
-		12 Seedy Kitchen
-		12 Lively Tavern
-		12 Artificer's Workshop
 		12 Gorge on Snacks
 		12 Change Perspective
 		12 Rushed Production
@@ -3341,7 +3327,6 @@
 		12 Lunch Rush
 		12 Vamp
 		12 Fencer's Foil
-		12 Painter's Studio
 		12 Gobsmack
 		12 Arboreal Artist
 		12 Inspiring Walk
@@ -3369,4 +3354,24 @@
 		12 Moment of Craving
 		12 Diligent Architect
 		12 Pompous Thespian
-	[BasicSlot(1 
+	[LandSlot(1)]
+		10 Serene Museum
+		10 Hushed Library
+		10 Charming Playhouse
+		10 Orator's Forum
+		10 Abundant Garden
+		10 Muted Auditorium
+		10 Seedy Kitchen
+		10 Painter's Studio
+		10 Lively Tavern
+		10 Artificer's Workshop
+		2 Back-Alley Theatre
+		2 Sunlit Park
+		2 Discreet Gallery
+		2 Vibrant Concourse
+		2 Delightful Patisserie
+		1 PROMO Back-Alley Theatre
+		1 PROMO Sunlit Park
+		1 PROMO Discreet Gallery
+		1 PROMO Vibrant Concourse
+		1 PROMO Delightful Patisserie
