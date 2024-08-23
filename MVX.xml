@@ -3,7 +3,7 @@
   <sets>
     <set>
       <name>MVX</name>
-      <longname>Merveaux</longname>
+      <longname>Merveaux edit</longname>
       <settype></settype>
     </set>
   </sets>
@@ -21,7 +21,7 @@
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Congregation Aspirant or an artifact enters the battlefield under your control, scry 1.</text>
+      <text>Whenever Congregation Aspirant or an artifact you control enters, scry 1.</text>
     </card>
     <card>
       <name>Operahouse Gossip</name>
@@ -35,7 +35,7 @@
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Operahouse Gossip enters the battlefield, you draw a card and you lose 1 life.</text>
+      <text>When Operahouse Gossip enters, you draw a card and you lose 1 life.</text>
     </card>
     <card>
       <name>Pudding Cat</name>
@@ -79,7 +79,7 @@ When Paper Familiars dies, surveil 1. (Look at the top card of your library. You
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-When Blasé Cuisinier enters the battlefield, you gain 2 life.</text>
+When Blasé Cuisinier enters, you gain 2 life.</text>
     </card>
     <card>
       <name>Mechanical Racer</name>
@@ -107,7 +107,7 @@ When Blasé Cuisinier enters the battlefield, you gain 2 life.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Bardic Historian enters the battlefield, return target instant, sorcery, or Saga card from your graveyard to your hand.</text>
+      <text>When Bardic Historian enters, return target instant, sorcery, or Saga card from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Inspirational Performer</name>
@@ -121,7 +121,7 @@ When Blasé Cuisinier enters the battlefield, you gain 2 life.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Inspirational Performer enters the battlefield, put two +1/+1 counters on another target creature you control.</text>
+      <text>When Inspirational Performer enters, put two +1/+1 counters on another target creature you control.</text>
     </card>
     <card>
       <name>Skystone Seraph</name>
@@ -136,7 +136,7 @@ When Blasé Cuisinier enters the battlefield, you gain 2 life.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Skystone Seraph enters the battlefield, scry 1 and you gain 1 life. If you control two or more artifacts, scry 3 and you gain 3 life instead.</text>
+When Skystone Seraph enters, scry 1 and you gain 1 life. If you control two or more artifacts, scry 3 and you gain 3 life instead.</text>
     </card>
     <card>
       <name>Colossal Puppetry</name>
@@ -208,7 +208,7 @@ At the beginning of your upkeep, if you control another creature, an artifact, a
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Marquis Vaasco de Moraes enters the battlefield, you may return target non-Zombie creature card from your graveyard to the battlefield.
+      <text>When Marquis Vaasco de Moraes enters, you may return target non-Zombie creature card from your graveyard to the battlefield.
 Legacy RWB
 ---
 (Back): The Grand Revival</text>
@@ -277,7 +277,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Back-Alley Theatre enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Back-Alley Theatre enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {B}.
 {T}, Pay 1 life: Add {R} or {W}.</text>
     </card>
@@ -293,7 +293,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Sunlit Park enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Sunlit Park enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {R}.
 {T}, Pay 1 life: Add {G} or {U}.</text>
     </card>
@@ -309,7 +309,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Discreet Gallery enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Discreet Gallery enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {U}.
 {T}, Pay 1 life: Add {B} or {G}.</text>
     </card>
@@ -325,7 +325,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Vibrant Concourse enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Vibrant Concourse enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {W}.
 {T}, Pay 1 life: Add {U} or {R}.</text>
     </card>
@@ -341,7 +341,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Delightful Patisserie enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Delightful Patisserie enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {G}.
 {T}, Pay 1 life: Add {W} or {B}.</text>
     </card>
@@ -357,7 +357,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Back-Alley Theatre enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Back-Alley Theatre enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {B}.
 {T}, Pay 1 life: Add {R} or {W}.</text>
     </card>
@@ -373,7 +373,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Sunlit Park enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Sunlit Park enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {R}.
 {T}, Pay 1 life: Add {G} or {U}.</text>
     </card>
@@ -389,7 +389,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Discreet Gallery enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Discreet Gallery enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {U}.
 {T}, Pay 1 life: Add {B} or {G}.</text>
     </card>
@@ -405,7 +405,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Vibrant Concourse enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Vibrant Concourse enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {W}.
 {T}, Pay 1 life: Add {U} or {R}.</text>
     </card>
@@ -421,7 +421,7 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>As Delightful Patisserie enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Delightful Patisserie enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {G}.
 {T}, Pay 1 life: Add {W} or {B}.</text>
     </card>
@@ -437,8 +437,8 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Serene Museum enters the battlefield tapped.
-When Serene Museum enters the battlefield, scry 1.
+      <text>Serene Museum enters tapped.
+When Serene Museum enters, scry 1.
 {T}: Add {W} or {U}.</text>
     </card>
     <card>
@@ -453,8 +453,8 @@ When Serene Museum enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Hushed Library enters the battlefield tapped.
-When Hushed Library enters the battlefield, scry 1.
+      <text>Hushed Library enters tapped.
+When Hushed Library enters, scry 1.
 {T}: Add {U} or {B}.</text>
     </card>
     <card>
@@ -469,8 +469,8 @@ When Hushed Library enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Charming Playhouse enters the battlefield tapped.
-When Charming Playhouse enters the battlefield, scry 1.
+      <text>Charming Playhouse enters tapped.
+When Charming Playhouse enters, scry 1.
 {T}: Add {B} or {R}.</text>
     </card>
     <card>
@@ -485,8 +485,8 @@ When Charming Playhouse enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Orator’s Forum enters the battlefield tapped.
-When Orator’s Forum enters the battlefield, scry 1.
+      <text>Orator’s Forum enters tapped.
+When Orator’s Forum enters, scry 1.
 {T}: Add {R} or {G}.</text>
     </card>
     <card>
@@ -501,8 +501,8 @@ When Orator’s Forum enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Abundant Garden enters the battlefield tapped.
-When Abundant Garden enters the battlefield, scry 1.
+      <text>Abundant Garden enters tapped.
+When Abundant Garden enters, scry 1.
 {T}: Add {G} or {W}.</text>
     </card>
     <card>
@@ -517,8 +517,8 @@ When Abundant Garden enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Muted Auditorium enters the battlefield tapped.
-When Muted Auditorium enters the battlefield, scry 1.
+      <text>Muted Auditorium enters tapped.
+When Muted Auditorium enters, scry 1.
 {T}: Add {W} or {B}.</text>
     </card>
     <card>
@@ -533,8 +533,8 @@ When Muted Auditorium enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Seedy Kitchen enters the battlefield tapped.
-When Seedy Kitchen enters the battlefield, scry 1.
+      <text>Seedy Kitchen enters tapped.
+When Seedy Kitchen enters, scry 1.
 {T}: Add {B} or {G}.</text>
     </card>
     <card>
@@ -549,8 +549,8 @@ When Seedy Kitchen enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Lively Tavern enters the battlefield tapped.
-When Lively Tavern enters the battlefield, scry 1.
+      <text>Lively Tavern enters tapped.
+When Lively Tavern enters, scry 1.
 {T}: Add {U} or {R}.</text>
     </card>
     <card>
@@ -565,8 +565,8 @@ When Lively Tavern enters the battlefield, scry 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Artificer’s Workshop enters the battlefield tapped.
-When Artificer’s Workshop enters the battlefield, scry 1.
+      <text>Artificer’s Workshop enters tapped.
+When Artificer’s Workshop enters, scry 1.
 {T}: Add {R} or {W}.</text>
     </card>
     <card>
@@ -636,7 +636,7 @@ If {R} was spent to cast this spell, they gain haste until end of turn.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Soup Elemental enters the battlefield, create a 1/1 green Plant creature token.
+      <text>When Soup Elemental enters, create a 1/1 green Plant creature token.
 When Soup Elemental dies, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
     </card>
     <card>
@@ -666,7 +666,7 @@ When Soup Elemental dies, create a Food token. (It’s an artifact with “{2}, 
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Prolific Novelist enters the battlefield, you may draw a card. If you do, discard a card.
+      <text>When Prolific Novelist enters, you may draw a card. If you do, discard a card.
 Legacy 1U (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
 ---
 (Back): Enchanted Quill</text>
@@ -683,7 +683,7 @@ Legacy 1U (You may cast this transformed from your graveyard for its legacy cost
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +1/+0.
-When Enchanted Quill enters the battlefield, you may draw a card. If you do, discard a card.
+When Enchanted Quill enters, you may draw a card. If you do, discard a card.
 Equip {1}
 ---
 (Front): Prolific Novelist</text>
@@ -700,7 +700,7 @@ Equip {1}
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Delirium — When Atelier Artisan enters the battlefield, look at the top three cards of your library. Put two of them into your graveyard. Then if there are four or more card types among cards in your graveyard, draw a card.</text>
+      <text>Delirium — When Atelier Artisan enters, look at the top three cards of your library. Put two of them into your graveyard. Then if there are four or more card types among cards in your graveyard, draw a card.</text>
     </card>
     <card>
       <name>Prevent Catastrophe</name>
@@ -742,7 +742,7 @@ Delirium — If there are four or more card types among cards in your graveyard,
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When Fiendish Fromager enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+When Fiendish Fromager enters, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
     </card>
     <card>
       <name>Artistic Benefactor</name>
@@ -756,7 +756,7 @@ When Fiendish Fromager enters the battlefield, create a Food token. (It’s an a
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Artistic Benefactor enters the battlefield, you may return target creature card with mana value 2 or less from your graveyard to the battlefield.</text>
+      <text>When Artistic Benefactor enters, you may return target creature card with mana value 2 or less from your graveyard to the battlefield.</text>
     </card>
     <card>
       <name>Motivation Sapper</name>
@@ -799,8 +799,8 @@ Destroy target creature or planeswalker.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Macabre Prop enters the battlefield, each opponent sacrifices a creature.
-2B, {T}, Sacrifice Macabre Prop: Each opponent loses 2 life.</text>
+      <text>When Macabre Prop enters, each opponent sacrifices a creature.
+2B, {T}, Sacrifice Macabre Prop: Each opponent loses 2 life and you gain 2 life.</text>
     </card>
     <card>
       <name>Overworked</name>
@@ -828,7 +828,7 @@ Delirium — At the beginning of the enchanted creature’s controller’s upkee
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Casting Call enters the battlefield, return target creature card from your graveyard to your hand.
+      <text>When Casting Call enters, return target creature card from your graveyard to your hand.
 {B}, Discard a card, Sacrifice Casting Call: Return target creature card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -889,7 +889,7 @@ Legacy 3B (You may cast this transformed from your graveyard for its legacy cost
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Leading Lady enters the battlefield, target creature you control gets +1/+0 and gains haste until end of turn.</text>
+      <text>When Leading Lady enters, target creature you control gets +1/+0 and gains haste until end of turn.</text>
     </card>
     <card>
       <name>Forge Gnome</name>
@@ -945,52 +945,7 @@ When Forge Gnome dies, create a Treasure token. (It’s an artifact with “{T},
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {2} less to cast if you’ve sacrificed a permanent this turn.
-Fiery Setpiece deals 4 damage to target creature or planeswalker.</text>
-    </card>
-    <card>
-      <name>Dramatic Organ</name>
-      <set rarity="common">MVX</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>When Dramatic Organ enters the battlefield, creatures you control get +1/+0 until end of turn.
-3R, Sacrifice Dramatic Organ: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.</text>
-    </card>
-    <card>
-      <name>Jaunty Tune</name>
-      <set rarity="common">MVX</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>R</manacost>
-        <cmc>1</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
-Discard a card.
-Draw two cards.
-​</text>
-    </card>
-    <card>
-      <name>Forgehammer</name>
-      <set rarity="common">MVX</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Equipped creature gets +3/+0.
-When Forgehammer enters the battlefield, destroy up to one target artifact.
-Equip {3}</text>
+Fiery Setpiece deals 4 damage to any nonplayer target.</text>
     </card>
     <card>
       <name>Spoil the Broth</name>
@@ -1006,21 +961,7 @@ Equip {3}</text>
       <text>Choose two —
 • Destroy target artifact or enchantment.
 • Exile up to two target cards from a graveyard.
-• Target player gains 2 life.</text>
-    </card>
-    <card>
-      <name>Tempt with Treats</name>
-      <set rarity="common">MVX</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Tempt with Treats deals 4 damage to up to one target creature with flying. It loses flying until end of turn.
-Create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+• Create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
     </card>
     <card>
       <name>Inspired Reader</name>
@@ -1035,7 +976,7 @@ Create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifa
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
-Delirium — When Inspired Reader enters the battlefield, if there are four or more card types among cards in your graveyard, draw a card.</text>
+Delirium — When Inspired Reader enters, if there are four or more card types among cards in your graveyard, draw a card.</text>
     </card>
     <card>
       <name>Librarian&apos;s Assistant</name>
@@ -1065,7 +1006,7 @@ Delirium — When Inspired Reader enters the battlefield, if there are four or m
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Cartographer’s Eyes enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+When Cartographer’s Eyes enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Gnomestack</name>
@@ -1094,7 +1035,7 @@ When Gnomestack dies, create three 1/1 Gnome artifact creature tokens.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>{2}, {T}, Sacrifice Rancid Meal: You gain 3 life.
-{5}, {T}, Sacrifice Rancid Meal: It deals 3 damage to target creature or planeswalker.</text>
+{4}, {T}, Sacrifice Rancid Meal: It deals 3 damage to target creature or planeswalker.</text>
     </card>
     <card>
       <name>Prophetic Prism</name>
@@ -1107,7 +1048,7 @@ When Gnomestack dies, create three 1/1 Gnome artifact creature tokens.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Prophetic Prism enters the battlefield, draw a card.
+      <text>When Prophetic Prism enters, draw a card.
 {1}, {T}: Add one mana of any color.</text>
     </card>
     <card>
@@ -1211,7 +1152,7 @@ At the beginning of your end step, if you’ve gained life this turn, put a +1/+
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Meticulous Sculptor enters the battlefield, create a 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
+      <text>When Meticulous Sculptor enters, create a 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
     </card>
     <card>
       <name>Turnip Trimmer</name>
@@ -1374,7 +1315,7 @@ Enchanted land has “{T}: Add two mana of different colors.”
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-When Inspiring Melody enters the battlefield, exile the top card of your library. You may play it until the end of your next turn.
+When Inspiring Melody enters, exile the top card of your library. You may play it until the end of your next turn.
 Enchanted creature gets +2/+1.</text>
     </card>
     <card>
@@ -1390,7 +1331,7 @@ Enchanted creature gets +2/+1.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
-When Highbrow Critic enters the battlefield, mill two cards.</text>
+When Highbrow Critic enters, mill three cards.</text>
     </card>
     <card>
       <name>Storybook Serpent</name>
@@ -1420,7 +1361,7 @@ When Highbrow Critic enters the battlefield, mill two cards.</text>
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Houndcrafter Savant enters the battlefield, create a 2/2 colorless Dog artifact creature token.
+      <text>When Houndcrafter Savant enters, create a 2/2 colorless Dog artifact creature token.
 Whenever an artifact creature you control deals combat damage to a player, draw a card.</text>
     </card>
     <card>
@@ -1526,7 +1467,7 @@ Legacy 2U (You may cast this transformed from your graveyard for its legacy cost
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever an artifact enters the battlefield under your control, you may tap target creature an opponent controls without a stun counter on it and put a stun counter on it.</text>
+      <text>Whenever an artifact you control enters, you may tap target creature an opponent controls without a stun counter on it and put a stun counter on it.</text>
     </card>
     <card>
       <name>Dreamquill</name>
@@ -1569,7 +1510,7 @@ Equip {1}</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-When Worksite Visionary enters the battlefield, you may search your library for a Building or basic Plains card, reveal it, put it into your hand, then shuffle.</text>
+When Worksite Visionary enters, you may search your library for a Building or basic Plains card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Bolstering Chefbot</name>
@@ -1598,7 +1539,7 @@ Preparation — Once on each of your turns, when you gain life or create a token
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-When Distracting Charcuterie enters the battlefield, exile target creature or planeswalker until this leaves the battlefield.
+When Distracting Charcuterie enters, exile target creature or planeswalker until it leaves the battlefield.
 {2}, {T}, Sacrifice Distracting Charcuterie: You gain 3 life.</text>
     </card>
     <card>
@@ -1645,7 +1586,7 @@ Exile Encore.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Gustatorie Tastemaker enters the battlefield, create a 1/1 green Plant creature token and you gain 1 life.
+      <text>When Gustatorie Tastemaker enters, create a 1/1 green Plant creature token and you gain 1 life.
 Legacy 2G (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
 ---
 (Back): Abundant Feast</text>
@@ -1662,7 +1603,7 @@ Legacy 2G (You may cast this transformed from your graveyard for its legacy cost
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-When Abundant Feast enters the battlefield, create a 1/1 green Plant creature token and you gain 1 life.
+When Abundant Feast enters, create a 1/1 green Plant creature token and you gain 1 life.
 Enchanted creature gets +1/+1.
 ---
 (Front): Gustatorie Tastemaker</text>
@@ -1694,7 +1635,7 @@ Regale — 1G, {T}: Put a +1/+1 counter on target creature you control. Activate
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature you control
-When Belligerence enters the battlefield, enchanted creature fights up to one target creature you don’t control.
+When Belligerence enters, enchanted creature fights up to one target creature you don’t control.
 Enchanted creature gets +1/+1 and has trample.</text>
     </card>
     <card>
@@ -1709,7 +1650,7 @@ Enchanted creature gets +1/+1 and has trample.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-When Natural Harmony enters the battlefield, draw a card.
+When Natural Harmony enters, draw a card.
 Enchanted creature gets +1/+1.</text>
     </card>
     <card>
@@ -1798,7 +1739,7 @@ Whenever a creature you control attacks this turn, it gets +1/+1 and gains tramp
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a nontoken creature enters the battlefield under your control, create a token that’s a copy of that creature, except it has haste and isn’t legendary. Sacrifice it at the beginning of the next end step.</text>
+      <text>Whenever a nontoken creature you control enters, create a token that’s a copy of that creature, except it has haste and isn’t legendary. Sacrifice it at the beginning of the next end step.</text>
     </card>
     <card>
       <name>Spirit of the Opera</name>
@@ -1829,7 +1770,7 @@ When Spirit of the Opera exploits a creature, return target non-Spirit creature 
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Fine Diner enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+      <text>When Fine Diner enters, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
 {1}, Sacrifice a token: Fine Diner gains indestructible until end of turn. Tap it.</text>
     </card>
     <card>
@@ -1860,7 +1801,7 @@ At the beginning of your end step, discard your hand.</text>
       <tablerow>1</tablerow>
       <text>
 
-Whenever another artifact enters the battlefield under your control, Ironflow Forge deals 1 damage to each opponent, then you may put a brick counter on this. (It retains abilities.)
+Whenever another artifact you control enters, Ironflow Forge deals 1 damage to each opponent, then you may put a brick counter on this. (It retains abilities.)
  Built 2+
 RW, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
  Level 3
@@ -1921,7 +1862,7 @@ Artifact creatures you control have haste.</text>
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Elven Glassblower enters the battlefield, create a tapped Treasure token.
+      <text>When Elven Glassblower enters, create a tapped Treasure token.
 1R, {T}: Target artifact you control becomes a 2/2 red Dragon creature with flying and haste in addition to its other types. (Until changing zones.)</text>
     </card>
     <card>
@@ -1997,7 +1938,7 @@ Regale — {R}: Dragonsong gets +1/+0 until end of turn. (Activate only if you�
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Waxcrafter enters the battlefield, create two 1/1 red Elemental artifact creature tokens with “Sacrifice this creature: Add {R}.”</text>
+      <text>When Waxcrafter enters, create two 1/1 red Elemental artifact creature tokens with “Sacrifice this creature: Add {R}.”</text>
     </card>
     <card>
       <name>Soliloquist</name>
@@ -2073,7 +2014,7 @@ When Operahouse Headliner exploits a creature, you draw two cards and you lose 2
       </prop>
       <tablerow>1</tablerow>
       <text>Exploit (When that creature enters the battlefield, you may sacrifice a creature.)
-When Discouraging Flop enters the battlefield or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
+When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
 Whenever a creature an opponent controls dies, you gain 1 life.</text>
     </card>
     <card>
@@ -2116,7 +2057,7 @@ Preparation — At the beginning of your end step, if you’ve gained life or cr
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Dour Chorister enters the battlefield, create two 1/1 black Vampire Actor creature tokens with lifelink.
+      <text>When Dour Chorister enters, create two 1/1 black Vampire Actor creature tokens with lifelink.
 Legacy 4B (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
 ---
 (Back): Breakout Role</text>
@@ -2149,8 +2090,7 @@ Legacy 4B (You may cast this transformed from your graveyard for its legacy cost
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>If one or more tokens would be created until your control, those tokens plus a 1/1 green Plant creature token are created instead.
-Benevolent Florist gets +2/+0 as long as you control three or more tokens.</text>
+      <text>If one or more tokens would be created until your control, those tokens plus a 1/1 green Plant creature token are created instead.</text>
     </card>
     <card>
       <name>Wolfsong</name>
@@ -2178,7 +2118,7 @@ Regale — 1G: Target creature you control gets +3/+3 and gains trample until en
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Tend the Garden enters the battlefield, create a 1/1 green Plant creature token.
+      <text>When Tend the Garden enters, create a 1/1 green Plant creature token.
 Tokens you control have “{T}: Add {G}.”</text>
     </card>
     <card>
@@ -2209,7 +2149,7 @@ Add RR.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Gemcrafter enters the battlefield, create a Treasure token.
+      <text>When Gemcrafter enters, create a Treasure token.
 Whenever Gemcrafter attacks, if you control two or more artifacts, creatures you control get +1/+0 until end of turn.</text>
     </card>
     <card>
@@ -2221,7 +2161,7 @@ Whenever Gemcrafter attacks, if you control two or more artifacts, creatures you
         <cmc>1</cmc>
         <type>Enchantment Creature - Bird Illusion </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2349,7 +2289,7 @@ Legacy 2G (You may cast this transformed from your graveyard for its legacy cost
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Trash-eater Gnome enters the battlefield or attacks, you may exile target card from a graveyard.</text>
+      <text>Whenever Trash-eater Gnome enters or attacks, you may exile target card from a graveyard.</text>
     </card>
     <card>
       <name>Inkbottle</name>
@@ -2420,7 +2360,7 @@ If enchanted creature would die, instead sacrifice Retrospection and that creatu
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Parapet Percher enters the battlefield, scry 2.</text>
+When Parapet Percher enters, scry 2.</text>
     </card>
     <card>
       <name>Cogwrench</name>
@@ -2476,7 +2416,7 @@ As long as you control two or more other artifacts, Cogwrench has equip {1}.</te
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Fencer’s Foil enters the battlefield, you may attach it to target creature you control.
+      <text>When Fencer’s Foil enters, you may attach it to target creature you control.
 Equipped creature gets +2/+0.
 Equip {2}</text>
     </card>
@@ -2545,7 +2485,7 @@ Equip {2}</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
-When Waxbreath Youngling enters the battlefield, if it was cast, create a token that’s a copy of another target nonland permanent you control, except it’s an artifact and loses all other types.</text>
+When Waxbreath Youngling enters, if it was cast, create a token that’s a copy of another target nonland permanent you control, except it’s an artifact and loses all other types.</text>
     </card>
     <card>
       <name>Castleway Crane</name>
@@ -2558,7 +2498,7 @@ When Waxbreath Youngling enters the battlefield, if it was cast, create a token 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever another artifact enters the battlefield under your control, you may put a brick counter on a Building you control. (It retains abilities.)
+      <text>Whenever another artifact you control enters, you may put a brick counter on a Building you control. (It retains abilities.)
 {T}: Add {W} or {U}. You can’t spend this mana on nonartifact spells.
  Built 1+
 {T}: Untap target artifact you control not named Castleway Crane.
@@ -2604,8 +2544,8 @@ Delirium — Then if there are four or more card types among cards in your grave
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Painter’s Studio enters the battlefield tapped.
-When Painter’s Studio enters the battlefield, scry 1.
+      <text>Painter’s Studio enters tapped.
+When Painter’s Studio enters, scry 1.
 {T}: Add {G} or {U}.</text>
     </card>
     <card>
@@ -2634,7 +2574,7 @@ When Painter’s Studio enters the battlefield, scry 1.
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-When Grow from Instruction enters the battlefield, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+When Grow from Instruction enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 3GU, Sacrifice Grow from Instruction: Surveil 2, then draw two cards.</text>
     </card>
     <card>
@@ -2650,39 +2590,7 @@ When Grow from Instruction enters the battlefield, search your library for a bas
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Delirium — When Angel of Iteration enters the battlefield, if there are four or more card types among cards in your graveyard, destroy up to one target nonland permanent.</text>
-    </card>
-    <card>
-      <name>The Flourishing</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>4U</manacost>
-        <cmc>5</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Look at the top five cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-Create an X/X blue Illusion enchantment creature token with flying, where X is the number of artifacts and/or enchantments you control. (Including this card.)
-​</text>
-    </card>
-    <card>
-      <name>The Grand Festival</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>UR</colors>
-        <manacost>1UR</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>
-Create a tapped Treasure token.
-Look at the top five cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-​</text>
+Delirium — When Angel of Iteration enters, if there are four or more card types among cards in your graveyard, destroy up to one target nonland permanent.</text>
     </card>
     <card>
       <name>Gobsmack</name>
@@ -2834,7 +2742,7 @@ Take an extra turn after this one. Exile Preserve the Moment.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You may cast target instant, sorcery or Saga card from your graveyard this turn. When a Saga enters the battlefield this way, you may trigger one of its chapter abilities.
+      <text>You may cast target instant, sorcery or Saga card from your graveyard this turn. When a Saga enters this way, you may trigger one of its chapter abilities.
 Exile Hearthsong.</text>
     </card>
     <card>
@@ -2864,7 +2772,7 @@ When you cast your next noncreature spell this turn, copy that spell. You may ch
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Showstopper deals 6 damage to target creature or planeswalker. When it deals excess damage this way, you may return a creature with mana value less than or equal to that amount of excess damage from your graveyard to the battlefield. It can’t block this turn.</text>
+      <text>Showstopper deals 6 damage to any nonplayer target. When it deals excess damage this way, you may return a creature with mana value less than or equal to that amount of excess damage from your graveyard to the battlefield. It can’t block this turn.</text>
     </card>
     <card>
       <name>Ancestral Guidance</name>
@@ -2937,7 +2845,7 @@ Whenever Festival Puppeteer attacks, create a token that’s a copy of another t
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Roland’s Solo enters the battlefield, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+      <text>When Roland’s Solo enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 Whenever one or more cards you own leave exile, each opponent loses 1 life.</text>
     </card>
     <card>
@@ -2979,7 +2887,7 @@ You may have that creature fight up to one target creature you don’t control. 
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Petite Pâtissier enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+      <text>When Petite Pâtissier enters, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
 Once each turn, when you gain life, each opponent loses 1 life and Petite Pâtissier gains deathtouch until end of turn.</text>
     </card>
     <card>
@@ -2995,7 +2903,7 @@ Once each turn, when you gain life, each opponent loses 1 life and Petite Pâtis
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, trample
-When Partners in Rhyme enters the battlefield, you may exile target instant, sorcery, or Saga card with mana value 3 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
+When Partners in Rhyme enters, you may exile target instant, sorcery, or Saga card with mana value 3 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
     </card>
     <card>
       <name>Extravagant Channeler</name>
@@ -3041,7 +2949,7 @@ When Extravagant Channeler exploits a creature, discard a card, then draw two ca
       <tablerow>1</tablerow>
       <text>This spell costs {2} less to cast if it targets a creature with mana value 2 or less.
 Enchant creature
-When Haunting Lullaby enters the battlefield, tap enchanted creature.
+When Haunting Lullaby enters, tap enchanted creature.
 Enchanted creature doesn’t untap during its controller’s untap step.</text>
     </card>
     <card>
@@ -3077,7 +2985,7 @@ Whenever you cast an artifact or noncreature spell, you may put a brick counter 
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Skystone Gargoyle enters the battlefield, you may return target artifact card not named Skystone Gargoyle from your graveyard to your hand.</text>
+When Skystone Gargoyle enters, you may return target artifact card not named Skystone Gargoyle from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Rousing Read</name>
@@ -3091,7 +2999,7 @@ When Skystone Gargoyle enters the battlefield, you may return target artifact ca
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-When Rousing Read enters the battlefield, draw two cards, then discard a card.
+When Rousing Read enters, draw two cards, then discard a card.
 Enchanted creature gets +1/+1 and has flying.</text>
     </card>
     <card>
@@ -3147,7 +3055,7 @@ Delirium — As long as there are four or more card types among cards in your gr
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Sparks of Invention deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is 2 plus the number of artifacts you control.</text>
+      <text>Sparks of Invention deals X damage divided as you choose among any number of nonplayer targets, where X is 2 plus the number of artifacts you control.</text>
     </card>
     <card>
       <name>Stew</name>
@@ -3326,7 +3234,7 @@ Regale — 1R: Deafening Duo deals 3 damage to each opponent. Activate only once
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, you may have Songcrafting become a 1/1 Illusion creature with flying in addition to its other types until end of turn.
-Whenever another enchantment enters the battlefield under your control, put a +1/+1 counter on Songcrafting.</text>
+Whenever another enchantment you control enters, you may put a +1/+1 counter on Songcrafting.</text>
     </card>
     <card>
       <name>Sauce Flinger</name>
@@ -3390,21 +3298,6 @@ Return a card exiled with La Chaconne de Soupir No.3 to the battlefield under yo
 Whenever an opponent casts a noncreature spell, create a 1/1 green Plant creature token unless that player pays {1}.</text>
     </card>
     <card>
-      <name>Vicious Animancer</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>WBR</colors>
-        <manacost>1RWB</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Vampire Warlock </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
-When Vicious Animancer exploits a creature, create two 2/1 red Spirit Elemental creature tokens with haste and “This creature can’t block.”</text>
-    </card>
-    <card>
       <name>Keeper of the Archives</name>
       <set rarity="uncommon">MVX</set>
       <prop>
@@ -3445,23 +3338,8 @@ Whenever you cast an artifact creature spell, if Solid Fundamentals has a study 
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Sylvie enters the battlefield, create a tapped colorless Forest Plains land token. (It has “{T}: Add {G} or {W}.”)
+      <text>When Sylvie enters, create a tapped colorless Forest Plains land token. (It has “{T}: Add {G} or {W}.”)
 Once each turn, if you would create one or more tokens, you may instead create that many tapped tokens that are copies of a token you control.</text>
-    </card>
-    <card>
-      <name>Swaying Smorgasbord</name>
-      <set rarity="rare">MVX</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2GG</manacost>
-        <cmc>4</cmc>
-        <type>Artifact Creature - Food Elemental </type>
-        <maintype>Creature</maintype>
-        <pt>5/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a Food token. Then, you may have a noncreature Food you control become a 0/0 creature in addition to its other types. If you do, put X +1/+1 counters on it, where X is the amount of life you’ve gained this turn.</text>
     </card>
     <card>
       <name>Gleeful Amateur</name>
@@ -3475,7 +3353,7 @@ Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a F
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Gleeful Amateur enters the battlefield, surveil 2.
+      <text>When Gleeful Amateur enters, surveil 2.
 Delirium — As long as there are four or more card types among cards in your graveyard, you may cast spells as though they had flash.</text>
     </card>
     <card>
@@ -3550,7 +3428,7 @@ Draw two cards. You gain 2 life.</text>
         <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Wicked Wordsmith enters the battlefield, surveil 2.
+      <text>When Wicked Wordsmith enters, surveil 2.
 Delirium — As long as there are four or more card types among cards in your graveyard, Wicked Wordsmith gets +2/+0 and has menace.</text>
     </card>
     <card>
@@ -3718,7 +3596,7 @@ Whenever a token you control dies, you may pay 1 life. If you do, draw a card.
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
-Whenever an artifact enters the battlefield under your control, Foundry Assistant can attack this turn as though it didn’t have defender.</text>
+Whenever another artifact you control enters, Foundry Assistant gets +1/+0 and can attack this turn as though it didn’t have defender.</text>
     </card>
     <card>
       <name>Blueprints</name>
@@ -3732,25 +3610,8 @@ Whenever an artifact enters the battlefield under your control, Foundry Assistan
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-When Blueprints enters the battlefield, scry 1, then draw a card.
+When Blueprints enters, scry 1, then draw a card.
 2U, {T}, Sacrifice Blueprints: Target creature can’t be blocked this turn. Draw a card.</text>
-    </card>
-    <card>
-      <name>Plan by Committee</name>
-      <set rarity="rare">MVX</set>
-      <prop>
-        <colors>WUR</colors>
-        <manacost>1URW</manacost>
-        <cmc>4</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Choose two —
-• Untap each nonland permanent you control. They gain indestructible until end of turn.
-• Destroy target artifact or enchantment. Target player creates a Treasure token.
-• You gain 4 life. Draw a card.
-• Search your library for an artifact card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Footlight Fiend</name>
@@ -3778,7 +3639,7 @@ When Blueprints enters the battlefield, scry 1, then draw a card.
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Delirium — When Enraged Essayist enters the battlefield, you may create a 2/1 blue Inkling creature token with flying. If you do, you lose 3 life unless there are four or more card types among cards in your graveyard.</text>
+      <text>Delirium — When Enraged Essayist enters, you may create a 2/1 blue Inkling creature token with flying. If you do, you lose 3 life unless there are four or more card types among cards in your graveyard.</text>
     </card>
     <card>
       <name>Tear Through</name>
@@ -3850,7 +3711,7 @@ When Parkland Flautist dies, you may return target Aura or Saga card from your g
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Distracted Apprentice enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.
+      <text>When Distracted Apprentice enters, create a 1/1 colorless Thopter artifact creature token with flying.
 Legacy 3W (You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)
 ---
 (Back): Thopter Workshop</text>
@@ -3881,7 +3742,7 @@ Legacy 3W (You may cast this transformed from your graveyard for its legacy cost
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Gastronomical Hubris enters the battlefield with up to three hunger counters on it.
+      <text>Gastronomical Hubris enters with up to three hunger counters on it.
 At the beginning of your upkeep, you lose X life and choose up to X, where X is the number of hunger counters on this —
 • Target creature gets -1/-1 until end of turn.
 • Create a 1/1 green Plant creature token.
@@ -3949,7 +3810,7 @@ Legacy 1BGU
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When Dramatis Personae enters the battlefield, repeat the following process four times. You may sacrifice a creature. If you do, each opponent sacrifices a creature. Otherwise, create a 1/1 black Vampire Actor creature token with lifelink. </text>
+When Dramatis Personae enters, repeat the following process four times. You may sacrifice a creature. If you do, each opponent sacrifices a creature. Otherwise, create a 1/1 black Vampire Actor creature token with lifelink. </text>
     </card>
     <card>
       <name>Chorus Machine</name>
@@ -3962,7 +3823,7 @@ When Dramatis Personae enters the battlefield, repeat the following process four
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a nontoken, nonland permanent enters the battlefield under your control, if it wasn’t cast from your hand, put a harmony counter on Chorus Machine.
+      <text>Whenever a nontoken, nonland permanent you control enters, if it wasn’t cast from your hand, put a harmony counter on Chorus Machine.
 {B}, {T}, Remove X harmony counters from Chorus Machine and sacrifice it: Draw X cards and you lose X life.</text>
     </card>
     <card>
@@ -4025,7 +3886,7 @@ Enchanted creature gets +3/+1 and can’t block.
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Whenever Belphegor enters the battlefield or attacks, draw two cards unless target opponent pays X life, where X is the number of card types among cards in your graveyard.</text>
+Whenever Belphegor enters or attacks, draw two cards unless target opponent pays X life, where X is the number of card types among cards in your graveyard.</text>
     </card>
     <card>
       <name>The Founding of the City</name>
@@ -4040,11 +3901,11 @@ Whenever Belphegor enters the battlefield or attacks, draw two cards unless targ
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
-When a creature next enters the battlefield under your control this turn, put a +1/+1 counter on it.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
 ​</text>
     </card>
     <card>
-      <name>Green-Thumbed Growth</name>
+      <name>Green Thumbed Growth</name>
       <set rarity="common">MVX</set>
       <prop>
         <colors>G</colors>
@@ -4055,7 +3916,7 @@ When a creature next enters the battlefield under your control this turn, put a 
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-Preparation — As long as you’ve gained life or created a token this turn, Green-Thumbed Growth has flashback {G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Preparation — As long as you’ve gained life or created a token this turn, Green Thumbed Growth has flashback {G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
       <name>Serenade</name>
@@ -4127,7 +3988,7 @@ Delirium — Then if there are four or more card types among cards in your grave
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Avian Augmenteers enters the battlefield, create a 3/3 colorless Vehicle artifact token with crew 2.
+When Avian Augmenteers enters, create a 3/3 colorless Vehicle artifact token with crew 2.
 Whenever an artifact enters the battlefield under your control, you may put your choice of a vigilance, trample, haste or menace counter on target artifact you control.</text>
     </card>
     <card>
@@ -4159,7 +4020,7 @@ Whenever an artifact enters the battlefield under your control, you may put your
         <pt>4/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Diviner of the Dessert enters the battlefield, create two Food tokens.
+      <text>When Diviner of the Dessert enters, create two Food tokens.
 At the beginning of each end step, each opponent loses X life unless they discard a card or sacrifice a nonland permanent, where X is the amount of life you’ve gained this turn.</text>
     </card>
     <card>
@@ -4167,13 +4028,13 @@ At the beginning of each end step, each opponent loses X life unless they discar
       <set rarity="rare">MVX</set>
       <prop>
         <colors>BR</colors>
-        <manacost>BR</manacost>
-        <cmc>2</cmc>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one —
+      <text>Choose two. You may choose the same mode more than once.
 • Lament deals 2 damage to any target.
 • Target opponent sacrifices an artifact or enchantment.
 • Return target creature card from your graveyard to your hand.</text>
@@ -4232,7 +4093,7 @@ You and other artifacts you control have hexproof.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Tidy Up enters the battlefield, if it was cast, exile each other artifact or enchantment with mana value X or less until Tidy Up leaves the battlefield.</text>
+      <text>When Tidy Up enters, if it was cast, exile each other artifact or enchantment with mana value X or less until Tidy Up leaves the battlefield.</text>
     </card>
     <card>
       <name>Witch of Forbidden Treats</name>
@@ -4246,7 +4107,7 @@ You and other artifacts you control have hexproof.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Preparation — When Witch of Forbidden Treats enters the battlefield, if you’ve gained life or created a token this turn, up to one target creature gets -3/-3 until end of turn.</text>
+      <text>Preparation — When Witch of Forbidden Treats enters, if you’ve gained life or created a token this turn, up to one target creature gets -3/-3 until end of turn.</text>
     </card>
     <card>
       <name>Velda, Opera Diva</name>
@@ -4276,7 +4137,7 @@ Whenever a creature you control exploits, put a +1/+1 counter on Velda and each 
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Roland, Second Fiddle enters the battlefield, target creature gains lifelink, trample, and haste until end of turn.
+      <text>When Roland, Second Fiddle enters, target creature gains lifelink, trample, and haste until end of turn.
 Legacy 2BR
 ---
 (Back): Roland, Stunning Soloist</text>
@@ -4293,76 +4154,11 @@ Legacy 2BR
         <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>Creatures you control that entered the battlefield this turn have lifelink, trample, and haste.
-[+1]: Exile the top card of your library. Until the end of your next turn, you may play it.
+      <text>Creatures you control that entered this turn have lifelink, trample, and haste.
+[+1]: Exile the top card of your library. You may play it until end of turn.
 [-X]: Exile target creature with mana value X or less.
 ---
 (Front): Roland, Second Fiddle</text>
-    </card>
-    <card>
-      <name>PROMO Swamp</name>
-      <set rarity="">MVX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>PROMO Mountain</name>
-      <set rarity="">MVX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>PROMO Plains</name>
-      <set rarity="">MVX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Plains </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>PROMO Forest</name>
-      <set rarity="">MVX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>PROMO Island</name>
-      <set rarity="">MVX</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Island </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
     </card>
     <card>
       <name>Stonework Behemoth</name>
@@ -4399,7 +4195,7 @@ Ward {2}</text>
       <set rarity="rare">MVX</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
+        <manacost>1WW</manacost>
         <cmc>3</cmc>
         <type>Artifact - Building </type>
         <maintype>Artifact</maintype>
@@ -4471,7 +4267,7 @@ Create a 4/4 colorless Construct artifact creature token. Activate only as a sor
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Preparation — This spell costs {2} less to cast if you’ve gained life or created a token this turn.
+      <text>Preparation — This spell costs {3} less to cast if you’ve gained life or created a token this turn.
 Creatures you control get +2/+2 and gain trample until end of turn.</text>
     </card>
     <card>
@@ -4527,7 +4323,7 @@ Delirium — If there are four or more card types among cards in your graveyard,
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-When Stage Fright enters the battlefield, exile target creature until Stage Fright leaves the battlefield. At the beginning of the next end step, sacrifice a creature or Stage Fright.</text>
+When Stage Fright enters, exile target creature until Stage Fright leaves the battlefield. At the beginning of the next end step, sacrifice a creature or Stage Fright.</text>
     </card>
     <card>
       <name>Dishearten</name>
@@ -4597,7 +4393,7 @@ Delirium — At the beginning of your upkeep, if there are four or more card typ
         <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Soup Serpent enters the battlefield with X +1/+1 counters and your choice of a vigilance, deathtouch or trample counter on it.
+      <text>Soup Serpent enters with X +1/+1 counters and your choice of a vigilance, deathtouch or trample counter on it.
 When Soup Serpent dies, create a Food token.
 You may cast Soup Serpent from your graveyard by sacrificing two tokens in addition to its other costs.</text>
     </card>
@@ -4658,7 +4454,7 @@ Regale — 2R: Return Phoenixsong from your graveyard to the battlefield. Activa
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Pompous Thespian enters the battlefield, each opponent loses 1 life and you gain 1 life.
+      <text>When Pompous Thespian enters, each opponent loses 1 life and you gain 1 life.
 2W, Exile Pompous Thespian from your graveyard: Exile target creature you control, then return it to the battlefield. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -4674,7 +4470,7 @@ Regale — 2R: Return Phoenixsong from your graveyard to the battlefield. Activa
       </prop>
       <tablerow>2</tablerow>
       <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
-When Profane Performer exploits a creature, destroy target creature. Its controller gains life equal to its mana value.</text>
+When Profane Performer exploits a creature, destroy target creature. Its controller gains life equal to its power.</text>
     </card>
     <card>
       <name>Frymaster&apos;s Pan</name>
@@ -4702,7 +4498,7 @@ When Profane Performer exploits a creature, destroy target creature. Its control
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever Ode to the Classics or another enchantment enters the battlefield under your control, exile the top card of your library. You may play it this turn.</text>
+      <text>Whenever Ode to the Classics or another enchantment you control enters, exile the top card of your library. You may play it this turn.</text>
     </card>
     <card>
       <name>Flute of Harmony</name>
@@ -4768,6 +4564,211 @@ Target creature can’t block this turn.
       <text>Spectral Scribe can’t be blocked by creatures with power 3 or less.
 Delirium — As long as there are four or more card types among cards in your graveyard, Spectral Scribe gets +1/+1 and has flying.</text>
     </card>
+    <card>
+      <name>Forgehammer</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+0.
+When Forgehammer enters, choose one —
+• Destroy up to one target artifact.
+• Create a Treasure token.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>The Grand Festival</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​</text>
+    </card>
+    <card>
+      <name>Swaying Smorgasbord</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Food Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a Food token. You may have it become an X/X creature in addition to its other types, where X is the amount of life you’ve gained this turn.</text>
+    </card>
+    <card>
+      <name>PROMO Swamp</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Plains</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Mountain</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Island</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>PROMO Forest</name>
+      <set rarity="">MVX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Jaunty Tune</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Discard a card.
+II, III — Draw a card.
+​</text>
+    </card>
+    <card>
+      <name>The Flourishing</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Mill five cards. Return any number of artifact and/or enchantment cards milled this way to your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
+    </card>
+    <card>
+      <name>Bite Down on Treats</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature you don’t control. If excess damage was dealt this way, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Dramatic Organ</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Dramatic Organ enters, up to two target creatures can’t block this turn.
+3R, Sacrifice Dramatic Organ: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Plan by Committee</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>2URW</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose three —
+• Permanents you control gain indestructible until end of turn.
+• Untap each nonland permanent you control.
+• Destroy target artifact or enchantment.
+• You gain 4 life. Draw a card.
+• Search your library for an artifact card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Vicious Animancer</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Whenever a creature you control exploits, it gains haste, lifelink and double strike until end of turn.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -4793,7 +4794,7 @@ BGW PREPARATION
      BG LIFEGAIN Feast on food with your creatures by paying off lifegain synergies.
      GW TOKENS Prepare your opponent a twenty-course meal of plants and pain!
 WBR EXPLOIT
-     WB ENTERS-THE-BATTLEFIELD Blink and reanimate your actors to give their ETBs an encore.
+     WB ENTERS Blink and reanimate your actors to give their enters triggers an encore.
      BR SACRIFICE The show must go on, even if it means sacrificing a few friends.</text>
       <token>1</token>
     </card>
@@ -4908,7 +4909,7 @@ WBR EXPLOIT
         <colors>U</colors>
         <type>Token Enchantment Creature - Illusion </type>
         <maintype>Creature</maintype>
-        <pt>*/*</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
