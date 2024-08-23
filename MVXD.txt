@@ -612,12 +612,12 @@
 	        }
 	    },
 	    {
-	        "name": "Tempt with Treats",
+	        "name": "Bite Down on Treats",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Tempt with Treats.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bite Down on Treats.png"
 	        }
 	    },
 	    {
@@ -2634,12 +2634,12 @@
 	        }
 	    },
 	    {
-	        "name": "Green-Thumbed Growth",
+	        "name": "Green Thumbed Growth",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Green-Thumbed Growth.png"
+	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Green Thumbed Growth.png"
 	        }
 	    },
 	    {
@@ -3293,7 +3293,7 @@
 		25 Jaunty Tune
 		25 Forgehammer
 		25 Spoil the Broth
-		25 Tempt with Treats
+		25 Bite Down on Treats
 		25 Inspired Reader
 		25 Librarian's Assistant
 		25 Cartographer's Eyes
@@ -3349,13 +3349,13 @@
 		25 Stage Double
 		25 Enraptured Watcher
 		25 Tavern Reveler
-		25 Green-Thumbed Growth
+		25 Green Thumbed Growth
 		25 Gustatorie Explorateur
 		25 Moment of Craving
 		25 Diligent Architect
 		25 Pompous Thespian
 	[LandSlot(1)]
-		30 Serene Museum
+		20 Serene Museum
 		30 Hushed Library
 		30 Charming Playhouse
 		30 Orator's Forum
