@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -151,7 +151,7 @@ When Skystone Seraph enters, scry 1 and you gain 1 life. If you control two or m
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Colossal Puppetry exploits a creature, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
     </card>
     <card>
@@ -771,7 +771,7 @@ When Fiendish Fromager enters, create a Food token. (It’s an artifact with “
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Motivation Sapper exploits a creature, target creature gets -2/-2 until end of turn.</text>
     </card>
     <card>
@@ -1513,21 +1513,6 @@ Equip {1}</text>
 When Worksite Visionary enters, you may search your library for a Building or basic Plains card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
-      <name>Bolstering Chefbot</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
-        <type>Artifact Creature - Druid </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Vigilance
-Preparation — Once on each of your turns, when you gain life or create a token, you may put a +1/+1 counter on target creature.</text>
-    </card>
-    <card>
       <name>Distracting Charcuterie</name>
       <set rarity="uncommon">MVX</set>
       <prop>
@@ -1755,7 +1740,7 @@ Whenever a creature you control attacks this turn, it gets +1/+1 and gains tramp
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Spirit of the Opera exploits a creature, return target non-Spirit creature card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -1835,20 +1820,6 @@ RW, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste un
       <tablerow>2</tablerow>
       <text>Whenever you cast a noncreature artifact spell, create an X/X colorless Construct artifact creature token, where X is that spell’s mana value.
 Artifact creatures you control have haste.</text>
-    </card>
-    <card>
-      <name>Kitty Connoisseur</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Cat </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Preparation — Once on each of your turns, when you gain life or create a token, you may put a +1/+1 counter on Kitty Connoisseur.</text>
     </card>
     <card>
       <name>Elven Glassblower</name>
@@ -1953,23 +1924,8 @@ Regale — {R}: Dragonsong gets +1/+0 until end of turn. (Activate only if you�
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 Whenever you sacrifice a nonland permanent, put a +1/+1 counter on Soliloquist.   </text>
-    </card>
-    <card>
-      <name>Cookie Snatcher</name>
-      <set rarity="common">MVX</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Lizard </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-Preparation — Whenever Cookie Snatcher deals combat damage to a player, put a +1/+1 counter on it if you’ve gained life or created a token this turn. (Lifelink works.)</text>
     </card>
     <card>
       <name>Avian Auteur</name>
@@ -1999,7 +1955,7 @@ Delirium — Avian Auteur gets +1/+0 as long as there are four or more card type
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Operahouse Headliner exploits a creature, you draw two cards and you lose 2 life.</text>
     </card>
     <card>
@@ -2013,7 +1969,7 @@ When Operahouse Headliner exploits a creature, you draw two cards and you lose 2
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Exploit (When that creature enters the battlefield, you may sacrifice a creature.)
+      <text>Exploit (When this permanent enters, you may sacrifice a creature.)
 When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
 Whenever a creature an opponent controls dies, you gain 1 life.</text>
     </card>
@@ -2672,7 +2628,7 @@ As long as there are three or more counters among artifacts you control, Concord
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
 When Stunning Soprano exploits a creature, it deals 2 damage to any target.</text>
     </card>
     <card>
@@ -2903,7 +2859,7 @@ Once each turn, when you gain life, each opponent loses 1 life and Petite Pâtis
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, trample
-When Partners in Rhyme enters, you may exile target instant, sorcery, or Saga card with mana value 3 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
+When Partners in Rhyme enters, you may exile target instant, sorcery, or Saga card with mana value 4 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
     </card>
     <card>
       <name>Extravagant Channeler</name>
@@ -2918,7 +2874,7 @@ When Partners in Rhyme enters, you may exile target instant, sorcery, or Saga ca
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Extravagant Channeler exploits a creature, discard a card, then draw two cards.</text>
     </card>
     <card>
@@ -3145,7 +3101,7 @@ Whenever Stained Glass Sentinel attacks, choose up to X, where X is the number o
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
 When Flamesweeper exploits a creature, exile target instant or sorcery card with mana value less than or equal to the exploited creature’s power from your graveyard. You may cast a copy of it without paying its mana cost.</text>
     </card>
     <card>
@@ -3263,7 +3219,7 @@ Whenever another enchantment you control enters, you may put a +1/+1 counter on 
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Balcony Chanteur exploits a creature, target creature you control gets +2/+2 and gains flying, vigilance, lifelink, and first strike until end of turn.</text>
     </card>
     <card>
@@ -4121,7 +4077,7 @@ You and other artifacts you control have hexproof.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
 Other creatures you control have exploit.
 Whenever a creature you control exploits, put a +1/+1 counter on Velda and each other creature that exploited. She gains flying and haste until end of turn.</text>
     </card>
@@ -4469,7 +4425,7 @@ Regale — 2R: Return Phoenixsong from your graveyard to the battlefield. Activa
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
 When Profane Performer exploits a creature, destroy target creature. Its controller gains life equal to its power.</text>
     </card>
     <card>
@@ -4689,8 +4645,8 @@ Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a F
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Discard a card.
-II, III — Draw a card.
+Discard a card.
+Draw a card.
 ​</text>
     </card>
     <card>
@@ -4705,7 +4661,7 @@ II, III — Draw a card.
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Mill five cards. Return any number of artifact and/or enchantment cards milled this way to your hand.
+Mill five cards. Put any number of artifact and/or enchantment cards from among the milled cards into your hand.
 Create a 1/1 blue Illusion enchantment creature token with flying.
 Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
     </card>
@@ -4766,8 +4722,52 @@ Put X +1/+1 counters on up to one target creature, where X is the number of othe
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+      <text>Exploit (When this creature enters, you may sacrifice a creature.)
 Whenever a creature you control exploits, it gains haste, lifelink and double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Cookie Snatcher</name>
+      <set rarity="common">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, put a +1/+1 counter on Cookie Snatcher.</text>
+    </card>
+    <card>
+      <name>Bolstering Chefbot</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Preparation — Once on each of your turns, when you gain life or create a token, up to one target creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Kitty Connoisseur</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Preparation — Once on each of your turns, when you gain life or create a token, you may put a +1/+1 counter on target creature.</text>
     </card>
 
     <!-->Tokens</-->
