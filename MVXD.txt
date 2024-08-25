@@ -614,8 +614,8 @@
 	    {
 	        "name": "Bite Down on Treats",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}",
-	        "type": "Instant",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Bite Down on Treats.png"
 	        }
