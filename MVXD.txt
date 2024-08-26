@@ -2447,7 +2447,7 @@
 	    {
 	        "name": "Plan by Committee",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}{R}{W}",
+	        "mana_cost": "{2}{U}{R}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Plan by Committee.png"
