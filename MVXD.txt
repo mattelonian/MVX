@@ -1757,7 +1757,7 @@
 	    {
 	        "name": "The Grand Festival",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{R}",
+	        "mana_cost": "{2}{U}{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/The Grand Festival.png"

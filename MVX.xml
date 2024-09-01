@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -1740,7 +1740,7 @@ Whenever a creature you control attacks this turn, it gets +1/+1 and gains tramp
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-Exploit (When this creature enters, you may sacrifice a creature.)
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
 When Spirit of the Opera exploits a creature, return target non-Spirit creature card from your graveyard to your hand.</text>
     </card>
     <card>
