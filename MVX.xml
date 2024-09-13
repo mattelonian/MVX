@@ -151,7 +151,7 @@ When Skystone Seraph enters, scry 1 and you gain 1 life. If you control two or m
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Exploit (When this creature enters, you may sacrifice a creature.)
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
 When Colossal Puppetry exploits a creature, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
     </card>
     <card>
@@ -1740,7 +1740,7 @@ Whenever a creature you control attacks this turn, it gets +1/+1 and gains tramp
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Spirit of the Opera exploits a creature, return target non-Spirit creature card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -4158,9 +4158,9 @@ Ward {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
-{T}: Target artifact creature you control gains indestructible until end of turn. Activate only as a sorcery.
+{T}: Target creature you control gains indestructible until end of turn. Activate only as a sorcery.
  Built 1+
-1W, {T}: Put a double strike counter on target artifact creature you control. Activate only as a sorcery.
+1W, {T}: Put a double strike counter on target creature you control. Activate only as a sorcery.
  Built 2+
 2W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
     </card>
@@ -4773,7 +4773,7 @@ Preparation — Once on each of your turns, when you gain life or create a token
     <!-->Tokens</-->
 
     <card>
-      <name>MVX DRAFT ARCHETYPES</name>
+      <name>MVX DRAFT ARCHETYPES MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -4799,7 +4799,7 @@ WBR EXPLOIT
       <token>1</token>
     </card>
     <card>
-      <name>Bard</name>
+      <name>Bard MVX</name>
       <set>MVX</set>
       <prop>
         <colors>R</colors>
@@ -4816,7 +4816,7 @@ WBR EXPLOIT
       <reverse-related count="2">Festival Revelry</reverse-related>
     </card>
     <card>
-      <name>Boar</name>
+      <name>Boar MVX</name>
       <set>MVX</set>
       <prop>
         <colors>G</colors>
@@ -4830,7 +4830,7 @@ WBR EXPLOIT
       <reverse-related>Free-Range Foraging</reverse-related>
     </card>
     <card>
-      <name>Dog</name>
+      <name>Dog MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -4844,7 +4844,7 @@ WBR EXPLOIT
       <reverse-related>Houndcrafter Savant</reverse-related>
     </card>
     <card>
-      <name>Elemental</name>
+      <name>Elemental MVX</name>
       <set>MVX</set>
       <prop>
         <colors>R</colors>
@@ -4858,7 +4858,7 @@ WBR EXPLOIT
       <reverse-related count="2">Waxcrafter</reverse-related>
     </card>
     <card>
-      <name>Food</name>
+      <name>Food MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -4884,7 +4884,7 @@ WBR EXPLOIT
       <reverse-related>Gastronomical Hubris</reverse-related>
     </card>
     <card>
-      <name>Gnome</name>
+      <name>Gnome MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -4903,7 +4903,7 @@ WBR EXPLOIT
       <reverse-related>Scrapsmelt Foundry</reverse-related>
     </card>
     <card>
-      <name>Illusion</name>
+      <name>Illusion MVX</name>
       <set>MVX</set>
       <prop>
         <colors>U</colors>
@@ -4917,7 +4917,7 @@ WBR EXPLOIT
       <reverse-related>The Flourishing</reverse-related>
     </card>
     <card>
-      <name>Inkling</name>
+      <name>Inkling MVX</name>
       <set>MVX</set>
       <prop>
         <colors>U</colors>
@@ -4935,7 +4935,7 @@ WBR EXPLOIT
       <reverse-related>Inkshape</reverse-related>
     </card>
     <card>
-      <name>Plant</name>
+      <name>Plant MVX</name>
       <set>MVX</set>
       <prop>
         <colors>G</colors>
@@ -4962,7 +4962,7 @@ WBR EXPLOIT
       <reverse-related>Gastronomical Hubris</reverse-related>
     </card>
     <card>
-      <name>Sculpture</name>
+      <name>Sculpture MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -4977,7 +4977,7 @@ WBR EXPLOIT
       <reverse-related>Skystone Sculptory</reverse-related>
     </card>
     <card>
-      <name>Thopter</name>
+      <name>Thopter MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -4994,7 +4994,7 @@ WBR EXPLOIT
       <reverse-related>Sunstreet Clocktower</reverse-related>
     </card>
     <card>
-      <name>Treasure</name>
+      <name>Treasure MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -5012,7 +5012,7 @@ WBR EXPLOIT
       <reverse-related>Scrapsmelt Foundry</reverse-related>
     </card>
     <card>
-      <name>Vampire Actor</name>
+      <name>Vampire Actor MVX</name>
       <set>MVX</set>
       <prop>
         <colors>B</colors>
@@ -5030,7 +5030,7 @@ WBR EXPLOIT
       <reverse-related>Dramatis Personae</reverse-related>
     </card>
     <card>
-      <name>Copy</name>
+      <name>Copy MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -5048,7 +5048,7 @@ WBR EXPLOIT
       <reverse-related>The Bardenmoot</reverse-related>
     </card>
     <card>
-      <name>Forest Plains</name>
+      <name>Forest Plains MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -5061,7 +5061,7 @@ WBR EXPLOIT
       <reverse-related>Sylvie, Garden Tender</reverse-related>
     </card>
     <card>
-      <name>Vehicle</name>
+      <name>Vehicle MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
@@ -5074,7 +5074,7 @@ WBR EXPLOIT
       <reverse-related>Avian Augmenteers</reverse-related>
     </card>
     <card>
-      <name>Bird</name>
+      <name>Bird MVX</name>
       <set>MVX</set>
       <prop>
         <colors>W</colors>
@@ -5088,7 +5088,7 @@ WBR EXPLOIT
       <reverse-related>Chicken Coop</reverse-related>
     </card>
     <card>
-      <name>Spirit Elemental</name>
+      <name>Spirit Elemental MVX</name>
       <set>MVX</set>
       <prop>
         <colors>R</colors>
@@ -5105,7 +5105,7 @@ This creature can’t block.</text>
       <reverse-related>Skilled Animancy</reverse-related>
     </card>
     <card>
-      <name>Construct</name>
+      <name>Construct MVX</name>
       <set>MVX</set>
       <prop>
         <colors></colors>
