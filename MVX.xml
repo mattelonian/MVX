@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -151,7 +151,7 @@ When Skystone Seraph enters, scry 1 and you gain 1 life. If you control two or m
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+Exploit (When this creature enters, you may sacrifice a creature.)
 When Colossal Puppetry exploits a creature, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
     </card>
     <card>
@@ -3157,7 +3157,7 @@ Whenever three or more creatures you control deal combat damage to a player, put
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
-{T}: Surveil 1. (Look at the top card of your library. You may mill it.)
+{T}: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
  Built 1+
 {U}, {T}: Draw a card, then discard a card.
  Built 2+
@@ -3945,7 +3945,7 @@ Delirium — Then if there are four or more card types among cards in your grave
       <tablerow>2</tablerow>
       <text>Flying
 When Avian Augmenteers enters, create a 3/3 colorless Vehicle artifact token with crew 2.
-Whenever an artifact enters the battlefield under your control, you may put your choice of a vigilance, trample, haste or menace counter on target artifact you control.</text>
+Whenever an artifact you control enters, put your choice of a vigilance, trample, haste or menace counter on up to one target artifact you control.</text>
     </card>
     <card>
       <name>Skilled Animancy</name>
@@ -4377,7 +4377,7 @@ Whenever First Chair Violinist exploits a creature, for each creature that died 
         <cmc>4</cmc>
         <type>Enchantment Creature - Phoenix Illusion </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -4536,22 +4536,6 @@ When Forgehammer enters, choose one —
 • Destroy up to one target artifact.
 • Create a Treasure token.
 Equip {3}</text>
-    </card>
-    <card>
-      <name>The Grand Festival</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>UR</colors>
-        <manacost>2UR</manacost>
-        <cmc>4</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-Create a tapped Treasure token.
-Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-​</text>
     </card>
     <card>
       <name>Swaying Smorgasbord</name>
@@ -4768,6 +4752,22 @@ Preparation — Once on each of your turns, when you gain life or create a token
       </prop>
       <tablerow>2</tablerow>
       <text>Preparation — Once on each of your turns, when you gain life or create a token, you may put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>The Grand Festival</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​</text>
     </card>
 
     <!-->Tokens</-->
