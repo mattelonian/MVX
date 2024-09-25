@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -3157,7 +3157,7 @@ Whenever three or more creatures you control deal combat damage to a player, put
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
-{T}: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+{T}: Surveil 1. (Look at the top card of your library. You may mill it.)
  Built 1+
 {U}, {T}: Draw a card, then discard a card.
  Built 2+
