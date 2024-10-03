@@ -3506,7 +3506,7 @@ Legacy 1WBG
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your end step, you may pay up to {X}, where X is the amount of life you’ve gained this turn. If you do, create that many 1/1 green Plant creature tokens.
-Whenever a token you control dies, you may pay 1 life. If you do, draw a card.
+Whenever a token you control dies, you may pay 2 life. If you do, draw a card.
 ---
 (Front): Antoine, Chef Extraordinaire</text>
     </card>
@@ -3945,7 +3945,7 @@ Delirium — Then if there are four or more card types among cards in your grave
       <tablerow>2</tablerow>
       <text>Flying
 When Avian Augmenteers enters, create a 3/3 colorless Vehicle artifact token with crew 2.
-Whenever an artifact you control enters, put your choice of a vigilance, trample, haste or menace counter on up to one target artifact you control.</text>
+Whenever an artifact you control enters, put your choice of a vigilance, menace, trample, or haste counter on up to one target artifact.</text>
     </card>
     <card>
       <name>Skilled Animancy</name>
