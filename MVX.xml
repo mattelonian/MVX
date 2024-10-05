@@ -4,7 +4,7 @@
     <set>
       <name>MVX</name>
       <longname>Merveaux edit</longname>
-      <settype></settype>
+      <settype>Custom</settype>
     </set>
   </sets>
   <cards>
@@ -231,22 +231,23 @@ If The Grand Revival would be put into exile this turn, instead exile it, then r
 Exile The Grand Revival, then return it to the battlefield.
 ---
 (Front): Marquis Vaasco de Moraes</text>
+      <related attach="transform">Marquis Vaasco de Moraes</related>
     </card>
     <card>
       <name>Pascal, Critics&apos; Favorite</name>
       <set rarity="mythic">MVX</set>
       <prop>
         <colors>WG</colors>
-        <manacost>1GW</manacost>
-        <cmc>3</cmc>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
         <type>Legendary Planeswalker - Pascal </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>[+1]: Put a +1/+1 counter on up to one target creature. If it’s a token, put an additional +1/+1 counter on it.
+      <text>[+2]: Put a +1/+1 counter on up to one target creature. If it’s a token, put an additional +1/+1 counter on it.
 [-1]: Create a 1/1 green Plant creature token and a Food token.
-[-4]: Creatures you control get +X/+X and trample until end of turn, where X is the number of tokens you control.</text>
+[-5]: Creatures you control get +X/+X and trample until end of turn, where X is the number of tokens you control.</text>
     </card>
     <card>
       <name>Lyon, Aged Inventor</name>
@@ -687,6 +688,7 @@ When Enchanted Quill enters, you may draw a card. If you do, discard a card.
 Equip {1}
 ---
 (Front): Prolific Novelist</text>
+      <related attach="transform">Prolific Novelist</related>
     </card>
     <card>
       <name>Atelier Artisan</name>
@@ -876,6 +878,7 @@ Legacy 3B (You may cast this transformed from your graveyard for its legacy cost
       <text>Menace
 ---
 (Front): Aspiring Performer</text>
+      <related attach="transform">Aspiring Performer</related>
     </card>
     <card>
       <name>Leading Lady</name>
@@ -1230,6 +1233,7 @@ Legacy 1W (You may cast this transformed from your graveyard for its legacy cost
 Equip {2}
 ---
 (Front): Keen Guardcog</text>
+      <related attach="transform">Keen Guardcog</related>
     </card>
     <card>
       <name>Merry Troubadour</name>
@@ -1454,6 +1458,7 @@ Legacy 2U (You may cast this transformed from your graveyard for its legacy cost
 {T}, Mill a card: Add {C}. 
 ---
 (Front): Skillful Landscapist</text>
+      <related attach="transform">Skillful Landscapist</related>
     </card>
     <card>
       <name>Civil Engineer</name>
@@ -1581,7 +1586,7 @@ Legacy 2G (You may cast this transformed from your graveyard for its legacy cost
       <name>Abundant Feast</name>
       <set rarity="common" splitterPath="/Abundant Feast.png" >MVX</set>
       <prop>
-        <colors></colors>
+        <colors>G</colors>
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Enchantment - Aura </type>
@@ -1592,6 +1597,7 @@ When Abundant Feast enters, create a 1/1 green Plant creature token and you gain
 Enchanted creature gets +1/+1.
 ---
 (Front): Gustatorie Tastemaker</text>
+      <related attach="transform">Gustatorie Tastemaker</related>
     </card>
     <card>
       <name>Greenpark Strummer</name>
@@ -1652,20 +1658,6 @@ Enchanted creature gets +1/+1.</text>
       <tablerow>2</tablerow>
       <text>Farmstead Butcher can’t be blocked by creatures with power 2 or less.
 2B: Farmstead Butcher gains lifelink until end of turn.</text>
-    </card>
-    <card>
-      <name>Secret Ingredients</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>WG</colors>
-        <manacost>GW</manacost>
-        <cmc>2</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Creature tokens you control get +1/+1 and have vigilance.
-1GW, Sacrifice a noncreature token: Creatures you control get +1/+1 and gain trample until end of turn. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Tavern Talesmith</name>
@@ -2033,6 +2025,7 @@ Legacy 4B (You may cast this transformed from your graveyard for its legacy cost
       <text>At the beginning of your end step, if a creature died this turn, create a 1/1 black Vampire Actor creature token with lifelink.
 ---
 (Front): Dour Chorister</text>
+      <related attach="transform">Dour Chorister</related>
     </card>
     <card>
       <name>Benevolent Florist</name>
@@ -2076,22 +2069,6 @@ Regale — 1G: Target creature you control gets +3/+3 and gains trample until en
       <tablerow>1</tablerow>
       <text>When Tend the Garden enters, create a 1/1 green Plant creature token.
 Tokens you control have “{T}: Add {G}.”</text>
-    </card>
-    <card>
-      <name>The Rejection of the Monarchy</name>
-      <set rarity="uncommon">MVX</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-The Rejection of the Monarchy deals 3 damage to any target.
-Exile the top card of your library. You may play it until the end of your next turn.
-Add RR.</text>
     </card>
     <card>
       <name>Gemcrafter</name>
@@ -2188,18 +2165,20 @@ Legacy GUR
       <name>The Long Chant</name>
       <set rarity="mythic" splitterPath="/The Long Chant.png" >MVX</set>
       <prop>
-        <colors>UR</colors>
+        <colors>URG</colors>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Legendary Enchantment - Saga </type>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-You may put a +1/+1 counter on target creature.
+Put a +1/+1 counter on up to one target creature.
 The Long Chant deals 1 damage to any target.
 Draw a card, then remove all lore counters from The Long Chant. (It’s not sacrificed.)
+​
 ---
 (Front): Brasio, Bardic Chronicler</text>
+      <related attach="transform">Brasio, Bardic Chronicler</related>
     </card>
     <card>
       <name>Stew Stirrer</name>
@@ -2223,7 +2202,7 @@ Legacy 2G (You may cast this transformed from your graveyard for its legacy cost
       <name>Family Recipe</name>
       <set rarity="uncommon" splitterPath="/Family Recipe.png" >MVX</set>
       <prop>
-        <colors></colors>
+        <colors>G</colors>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Enchantment</type>
@@ -2232,6 +2211,7 @@ Legacy 2G (You may cast this transformed from your graveyard for its legacy cost
       <text>Preparation — At the beginning of your end step, if you’ve gained life or created a token this turn, you may pay {2}. If you do, create a 1/1 green Plant creature token.
 ---
 (Front): Stew Stirrer</text>
+      <related attach="transform">Stew Stirrer</related>
     </card>
     <card>
       <name>Trash-eater Gnome</name>
@@ -2597,8 +2577,11 @@ Ward {4}
 Whenever you cast an artifact spell, untap each artifact you control.
  Built 4+
 Artifacts you control have indestructible.
+ Level 4
+​
 ---
 (Front): Constancia, City Builder</text>
+      <related attach="transform">Constancia, City Builder</related>
     </card>
     <card>
       <name>Concordia, Angel of Glass</name>
@@ -3499,7 +3482,7 @@ Legacy 1WBG
       <name>Antoine&apos;s Recipe</name>
       <set rarity="mythic" splitterPath="/Antoine's Recipe.png" >MVX</set>
       <prop>
-        <colors>WB</colors>
+        <colors>WBG</colors>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Legendary Artifact - Food </type>
@@ -3509,6 +3492,7 @@ Legacy 1WBG
 Whenever a token you control dies, you may pay 2 life. If you do, draw a card.
 ---
 (Front): Antoine, Chef Extraordinaire</text>
+      <related attach="transform">Antoine, Chef Extraordinaire</related>
     </card>
     <card>
       <name>Chromatic Lantern</name>
@@ -3686,6 +3670,7 @@ Legacy 3W (You may cast this transformed from your graveyard for its legacy cost
       <text>Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
 ---
 (Front): Distracted Apprentice</text>
+      <related attach="transform">Distracted Apprentice</related>
     </card>
     <card>
       <name>Gastronomical Hubris</name>
@@ -3742,7 +3727,7 @@ Legacy 1BGU
       <name>Night Upon the Cosmos</name>
       <set rarity="mythic" splitterPath="/Night Upon the Cosmos.png" >MVX</set>
       <prop>
-        <colors>UB</colors>
+        <colors>UBG</colors>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Legendary Enchantment Artifact</type>
@@ -3752,6 +3737,7 @@ Legacy 1BGU
 {T}: Draw a card, then discard a card.
 ---
 (Front): Nicola, Inspired Artist</text>
+      <related attach="transform">Nicola, Inspired Artist</related>
     </card>
     <card>
       <name>Dramatis Personae</name>
@@ -3828,6 +3814,7 @@ Legacy 2R (You may cast this transformed from your graveyard for its legacy cost
 Enchanted creature gets +3/+1 and can’t block.
 ---
 (Front): Tavern Reveler</text>
+      <related attach="transform">Tavern Reveler</related>
     </card>
     <card>
       <name>Belphegor, Infernal Publisher</name>
@@ -3881,8 +3868,8 @@ Preparation — As long as you’ve gained life or created a token this turn, Gr
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw a card for each enchantment you control.</text>
@@ -4115,6 +4102,7 @@ Legacy 2BR
 [-X]: Exile target creature with mana value X or less.
 ---
 (Front): Roland, Second Fiddle</text>
+      <related attach="transform">Roland, Second Fiddle</related>
     </card>
     <card>
       <name>Stonework Behemoth</name>
@@ -4125,7 +4113,7 @@ Legacy 2BR
         <cmc>7</cmc>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
-        <pt>6/6</pt>
+        <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each artifact and/or enchantment you control.
@@ -4151,18 +4139,18 @@ Ward {2}</text>
       <set rarity="rare">MVX</set>
       <prop>
         <colors>W</colors>
-        <manacost>1WW</manacost>
-        <cmc>3</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Artifact - Building </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
-{T}: Target creature you control gains indestructible until end of turn. Activate only as a sorcery.
+{T}: Create an artifact Equipment token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
  Built 1+
-1W, {T}: Put a double strike counter on target creature you control. Activate only as a sorcery.
- Built 2+
-2W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
+{W}, {T}: Create a tapped token that’s a copy of an artifact token you control. Activate only as a sorcery.
+ Built 3+
+3W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
     </card>
     <card>
       <name>Monument to Ascension</name>
@@ -4223,7 +4211,7 @@ Create a 4/4 colorless Construct artifact creature token. Activate only as a sor
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Preparation — This spell costs {3} less to cast if you’ve gained life or created a token this turn.
+      <text>Preparation — This spell costs {2} less to cast if you’ve gained life or created a token this turn.
 Creatures you control get +2/+2 and gain trample until end of turn.</text>
     </card>
     <card>
@@ -4444,7 +4432,7 @@ When Profane Performer exploits a creature, destroy target creature. Its control
 {T}, Remove an oil counter from Frymaster’s Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
     </card>
     <card>
-      <name>Ode to the Classics</name>
+      <name>Oft-Told Tales</name>
       <set rarity="rare">MVX</set>
       <prop>
         <colors>RG</colors>
@@ -4454,7 +4442,7 @@ When Profane Performer exploits a creature, destroy target creature. Its control
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever Ode to the Classics or another enchantment you control enters, exile the top card of your library. You may play it this turn.</text>
+      <text>Whenever Oft-Told Tales or another enchantment you control enters, exile the top card of your library. You may play it this turn.</text>
     </card>
     <card>
       <name>Flute of Harmony</name>
@@ -4504,6 +4492,7 @@ Target creature you control gets +3/+2 until end of turn.
 Target creature can’t block this turn.
 ---
 (Front): Impassioned Singer</text>
+      <related attach="transform">Impassioned Singer</related>
     </card>
     <card>
       <name>Spectral Scribe</name>
@@ -4768,6 +4757,36 @@ Preparation — Once on each of your turns, when you gain life or create a token
 Create a tapped Treasure token.
 Look at the top four cards of your library. You may reveal an instant, sorcery or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 ​</text>
+    </card>
+    <card>
+      <name>Secret Ingredients</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creature tokens you control get +1/+1 and have vigilance.
+1GW, Sacrifice a noncreature token: Creatures you control get +1/+1 and gain trample until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>The Rejection of the Monarchy</name>
+      <set rarity="uncommon">MVX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token.</text>
     </card>
 
     <!-->Tokens</-->
@@ -5069,7 +5088,7 @@ WBR EXPLOIT
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+      <text>Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
       <token>1</token>
       <reverse-related>Avian Augmenteers</reverse-related>
     </card>
