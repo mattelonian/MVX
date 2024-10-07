@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -2175,7 +2175,6 @@ Legacy GUR
 Put a +1/+1 counter on up to one target creature.
 The Long Chant deals 1 damage to any target.
 Draw a card, then remove all lore counters from The Long Chant. (It’s not sacrificed.)
-​
 ---
 (Front): Brasio, Bardic Chronicler</text>
       <related attach="transform">Brasio, Bardic Chronicler</related>
@@ -2439,7 +2438,7 @@ When Waxbreath Youngling enters, if it was cast, create a token that’s a copy 
  Built 1+
 {T}: Untap target artifact you control not named Castleway Crane.
  Built 3+
-Whenever you cast an artifact spell, you may draw a card.</text>
+Whenever you cast your first artifact spell each turn, you may draw a card.</text>
     </card>
     <card>
       <name>Mountain MVX</name>
@@ -2577,8 +2576,6 @@ Ward {4}
 Whenever you cast an artifact spell, untap each artifact you control.
  Built 4+
 Artifacts you control have indestructible.
- Level 4
-​
 ---
 (Front): Constancia, City Builder</text>
       <related attach="transform">Constancia, City Builder</related>
@@ -2724,7 +2721,7 @@ When you cast your next noncreature spell this turn, copy that spell. You may ch
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library and/or graveyard for a creature card with mana value 3 or less and put it onto the battlefield with a deathtouch counter and a  lifelink counter on it. If you search your library this way, shuffle.</text>
+      <text>Search your library and/or graveyard for a creature card with mana value 3 or less and put it onto the battlefield with a deathtouch counter and a lifelink counter on it. If you search your library this way, shuffle.</text>
     </card>
     <card>
       <name>Ambrosian Tower</name>
@@ -3766,7 +3763,7 @@ When Dramatis Personae enters, repeat the following process four times. You may 
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a nontoken, nonland permanent you control enters, if it wasn’t cast from your hand, put a harmony counter on Chorus Machine.
-{B}, {T}, Remove X harmony counters from Chorus Machine and sacrifice it: Draw X cards and you lose X life.</text>
+{B}, {T}, Remove X harmony counters from Chorus Machine and sacrifice it: You draw X cards and you lose X life.</text>
     </card>
     <card>
       <name>Enraptured Watcher</name>
@@ -3971,15 +3968,15 @@ At the beginning of each end step, each opponent loses X life unless they discar
       <set rarity="rare">MVX</set>
       <prop>
         <colors>BR</colors>
-        <manacost>2BR</manacost>
-        <cmc>4</cmc>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose two. You may choose the same mode more than once.
-• Lament deals 2 damage to any target.
-• Target opponent sacrifices an artifact or enchantment.
+• Lament deals 2 damage to target creature.
+• Target opponent sacrifices a noncreature, nonland permanent.
 • Return target creature card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -4148,7 +4145,7 @@ Ward {2}</text>
       <text>Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
 {T}: Create an artifact Equipment token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
  Built 1+
-{W}, {T}: Create a tapped token that’s a copy of an artifact token you control. Activate only as a sorcery.
+{W}, {T}: Create a tapped token that’s a copy of an artifact token you control.
  Built 3+
 3W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
     </card>
@@ -5137,6 +5134,20 @@ This creature can’t block.</text>
       <token>1</token>
       <reverse-related>Reprocessing Foundry</reverse-related>
       <reverse-related>Niels, Cogmaster</reverse-related>
+    </card>
+    <card>
+      <name>Chisel MVX</name>
+      <set>MVX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0.
+Equip {1}.</text>
+      <token>1</token>
+      <reverse-related>Skystone Sculptory</reverse-related>
     </card>
 
   </cards>
