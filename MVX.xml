@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -245,9 +245,10 @@ Exile The Grand Revival, then return it to the battlefield.
       <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>[+2]: Put a +1/+1 counter on up to one target creature. If it’s a token, put an additional +1/+1 counter on it.
-[-1]: Create a 1/1 green Plant creature token and a Food token.
-[-5]: Creatures you control get +X/+X and trample until end of turn, where X is the number of tokens you control.</text>
+      <text>[+2]: Put a +1/+1 counter on up to one target creature. If it’s a token, put an additional 
++1/+1 counter on it.
+[-1]: Create your choice of a 1/1 green Plant creature token or a Food token, then create both.
+[-5]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of tokens you control.</text>
     </card>
     <card>
       <name>Lyon, Aged Inventor</name>
@@ -3318,7 +3319,7 @@ Body of Literature gets +2/+2 for each card type among cards in your graveyard.<
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more creatures you control deal combat damage to a player, put a page counter on Writer’s Desk.
+      <text>Whenever a creature you control deals combat damage to a player, put a page counter on Writer’s Desk.
 {U}, {T}, Remove a page counter from Writer’s Desk: Draw a card.
 1B, {T}, Remove two page counters from Writer’s Desk: Search your library for a card, put it into your hand, then shuffle.</text>
     </card>
@@ -4110,10 +4111,10 @@ Legacy 2BR
         <cmc>7</cmc>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
-        <pt>5/5</pt>
+        <pt>6/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>This spell costs {1} less to cast for each artifact and/or enchantment you control.
+      <text>This spell costs {3} less to cast as long as you control three or more artifacts and/or enchantments.
 Ward {2}</text>
     </card>
     <card>
@@ -4130,24 +4131,6 @@ Ward {2}</text>
       <tablerow>2</tablerow>
       <text>Vigilance
 6U, {T}: Scry 3.</text>
-    </card>
-    <card>
-      <name>Skystone Sculptory</name>
-      <set rarity="rare">MVX</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Artifact - Building </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
-{T}: Create an artifact Equipment token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
- Built 1+
-{W}, {T}: Create a tapped token that’s a copy of an artifact token you control.
- Built 3+
-3W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
     </card>
     <card>
       <name>Monument to Ascension</name>
@@ -4784,6 +4767,24 @@ Look at the top four cards of your library. You may reveal an instant, sorcery o
 The Rejection of the Monarchy deals 3 damage to any target.
 Exile the top card of your library. You may play it until the end of your next turn.
 Create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Skystone Sculptory</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Building </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Create an artifact Equipment token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+3W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that’s a copy of an artifact token you control.</text>
     </card>
 
     <!-->Tokens</-->

@@ -149,7 +149,7 @@
 	    {
 	        "name": "Pascal, Critics' Favorite",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{G}{W}",
+	        "mana_cost": "{2}{G}{W}",
 	        "type": "Legendary Planeswalker — Pascal ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Pascal, Critics' Favorite.png"
@@ -2708,7 +2708,7 @@
 	    {
 	        "name": "Lament",
 	        "rarity": "rare",
-	        "mana_cost": "{B}{R}",
+	        "mana_cost": "{1}{B}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Lament.png"
@@ -3033,12 +3033,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ode to the Classics",
+	        "name": "Oft-Told Tales",
 	        "rarity": "rare",
 	        "mana_cost": "{R}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Ode to the Classics.png"
+	            "en": "https://github.com/mattelonian/MVX/blob/main/MVX-files/Oft-Told%20Tales.png?raw=true"
 	        }
 	    },
 	    {
