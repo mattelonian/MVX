@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -225,7 +225,7 @@ Legacy RWB
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Sacrifice a creature or The Grand Revival.
+Sacrifice a creature or Marquis Vaasco de Moraes.
 You gain 3 life.
 If The Grand Revival would be put into exile this turn, instead exile it, then return it to the battlefield. (Front face up.)
 Exile The Grand Revival, then return it to the battlefield.
@@ -1918,7 +1918,7 @@ Regale — {R}: Dragonsong gets +1/+0 until end of turn. (Activate only if you�
       <tablerow>2</tablerow>
       <text>Menace
 Exploit (When this creature enters, you may sacrifice a creature.)
-Whenever you sacrifice a nonland permanent, put a +1/+1 counter on Soliloquist.   </text>
+Whenever you sacrifice a creature, put a +1/+1 counter on Soliloquist.   </text>
     </card>
     <card>
       <name>Avian Auteur</name>
@@ -2173,7 +2173,7 @@ Legacy GUR
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-Put a +1/+1 counter on up to one target creature.
+You may put a +1/+1 counter on target creature.
 The Long Chant deals 1 damage to any target.
 Draw a card, then remove all lore counters from The Long Chant. (It’s not sacrificed.)
 ---
@@ -3917,22 +3917,6 @@ Preparation — At the beginning of your end step, if you gained life or created
 Delirium — Then if there are four or more card types among cards in your graveyard, that player loses 3 life unless they discard a card or sacrifice a creature.</text>
     </card>
     <card>
-      <name>Avian Augmenteers</name>
-      <set rarity="rare">MVX</set>
-      <prop>
-        <colors>WR</colors>
-        <manacost>1RW</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Bird Artificer </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-When Avian Augmenteers enters, create a 3/3 colorless Vehicle artifact token with crew 2.
-Whenever an artifact you control enters, put your choice of a vigilance, menace, trample, or haste counter on up to one target artifact.</text>
-    </card>
-    <card>
       <name>Skilled Animancy</name>
       <set rarity="rare">MVX</set>
       <prop>
@@ -4095,8 +4079,9 @@ Legacy 2BR
         <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>Creatures you control that entered this turn have lifelink, trample, and haste.
+      <text>Creatures you control that entered this turn have lifelink, trample and haste.
 [+1]: Exile the top card of your library. You may play it until end of turn.
+[-X]: Exile target creature with mana value X or less.
 [-X]: Exile target creature with mana value X or less.
 ---
 (Front): Roland, Second Fiddle</text>
@@ -4111,11 +4096,11 @@ Legacy 2BR
         <cmc>7</cmc>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
-        <pt>6/5</pt>
+        <pt>6/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {3} less to cast as long as you control three or more artifacts and/or enchantments.
-Ward {2}</text>
+Ward {3}</text>
     </card>
     <card>
       <name>Diligent Architect</name>
@@ -4786,6 +4771,22 @@ Create a Treasure token.</text>
  Built 3+
 {1}, {T}: Create a tapped token that’s a copy of an artifact token you control.</text>
     </card>
+    <card>
+      <name>Avian Augmenteers</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Avian Augmenteers enters, create a 3/3 colorless Vehicle artifact token with crew 2.
+Whenever an artifact you control enters, put your choice of a vigilance, menace, trample, or lifelink counter on up to one target Vehicle.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -5146,7 +5147,7 @@ This creature can’t block.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +1/+0.
-Equip {1}.</text>
+Equip {1}</text>
       <token>1</token>
       <reverse-related>Skystone Sculptory</reverse-related>
     </card>
