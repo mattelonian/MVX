@@ -64,7 +64,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+When Paper Familiars dies, surveil 1. (Look at the top card of your library. You may mill it.)</text>
     </card>
     <card>
       <name>Blase Cuisinier</name>
@@ -225,8 +225,8 @@ Legacy RWB
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Sacrifice a creature or Marquis Vaasco de Moraes.
-You gain 3 life.
+I — Sacrifice a creature or Marquis Vaasco de Moraes.
+II, III — You gain 3 life.
 If The Grand Revival would be put into exile this turn, instead exile it, then return it to the battlefield. (Front face up.)
 Exile The Grand Revival, then return it to the battlefield.
 ---
@@ -248,7 +248,7 @@ Exile The Grand Revival, then return it to the battlefield.
       <text>[+2]: Put a +1/+1 counter on up to one target creature. If it’s a token, put an additional 
 +1/+1 counter on it.
 [-1]: Create your choice of a 1/1 green Plant creature token or a Food token, then create both.
-[-5]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of tokens you control.</text>
+[-4]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of noncreature tokens you control.</text>
     </card>
     <card>
       <name>Lyon, Aged Inventor</name>
@@ -1701,9 +1701,9 @@ Regale — Flamethumper gets +2/+2. (You’re regaling if you’ve cast a noncre
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-Create a 1/1 red Bard creature token with prowess.
-Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
 ​</text>
     </card>
     <card>
@@ -2693,10 +2693,10 @@ Exile Hearthsong.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-Scry 3.
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Scry 3.
 Exile the top two cards of your library. You may play them until the end of your next turn.
-When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.</text>
+II, III — When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.</text>
     </card>
     <card>
       <name>Showstopper</name>
@@ -3214,10 +3214,10 @@ When Balcony Chanteur exploits a creature, target creature you control gets +2/+
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-If you cast La Chaconne de Soupir No.3, exile all creatures.
-Each player returns a card they own exiled with La Chaconne de Soupir No.3 to the battlefield under their control.
-Return a card exiled with La Chaconne de Soupir No.3 to the battlefield under your control.</text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — If you cast La Chaconne de Soupir No.3, exile all creatures.
+II — Each player returns a card they own exiled with La Chaconne de Soupir No.3 to the battlefield under their control.
+III — Return a card exiled with La Chaconne de Soupir No.3 to the battlefield under your control.</text>
     </card>
     <card>
       <name>Gustatorie Mixer</name>
@@ -3841,7 +3841,7 @@ Whenever Belphegor enters or attacks, draw two cards unless target opponent pays
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
 When a creature you control next enters this turn, put a +1/+1 counter on it.
 ​</text>
     </card>
@@ -4452,7 +4452,7 @@ Legacy 3R (You may cast this transformed from your graveyard for its legacy cost
         <type>Enchantment - Saga </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 Target creature you control gets +3/+2 until end of turn.
 Target creature can’t block this turn.
 ---
@@ -4583,8 +4583,8 @@ Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a F
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Discard a card.
-Draw a card.
+I, II — Discard a card.
+III — Draw a card.
 ​</text>
     </card>
     <card>
@@ -4599,9 +4599,9 @@ Draw a card.
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Mill five cards. Put any number of artifact and/or enchantment cards from among the milled cards into your hand.
+I — Mill five cards. Put any number of artifact and/or enchantment cards from among the milled cards into your hand.
 Create a 1/1 blue Illusion enchantment creature token with flying.
-Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
+II — Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
     </card>
     <card>
       <name>Bite Down on Treats</name>
@@ -4719,8 +4719,8 @@ Preparation — Once on each of your turns, when you gain life or create a token
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-Create a tapped Treasure token.
-Look at the top four cards of your library. You may reveal an instant, sorcery or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+I — Create a tapped Treasure token.
+II, III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 ​</text>
     </card>
     <card>
@@ -4749,8 +4749,8 @@ Look at the top four cards of your library. You may reveal an instant, sorcery o
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-The Rejection of the Monarchy deals 3 damage to any target.
-Exile the top card of your library. You may play it until the end of your next turn.
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
 Create a Treasure token.</text>
     </card>
     <card>
