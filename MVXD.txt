@@ -2855,7 +2855,7 @@
 	    {
 	        "name": "Skystone Sculptory",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Artifact — Building ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Skystone Sculptory.png"
