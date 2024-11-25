@@ -93,7 +93,7 @@ When Blasé Cuisinier enters, you gain 2 life.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Mechanical Racer has first strike as long as it’s attacking.</text>
+      <text>During your turn, Mechanical Racer has first strike.</text>
     </card>
     <card>
       <name>Bardic Historian</name>
@@ -136,7 +136,7 @@ When Blasé Cuisinier enters, you gain 2 life.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Skystone Seraph enters, scry 1 and you gain 1 life. If you control two or more artifacts, scry 3 and you gain 3 life instead.</text>
+When Skystone Seraph enters, you gain 1 life and scry 1. If you control two or more artifacts, you gain 3 life and scry 3 instead.</text>
     </card>
     <card>
       <name>Colossal Puppetry</name>
@@ -263,9 +263,9 @@ Exile The Grand Revival, then return it to the battlefield.
       </prop>
       <tablerow>1</tablerow>
       <text>[+2]: Create a 1/1 colorless Thopter artifact creature token with flying.
-[+1]: You gain 3 life. Draw a card.
-[-3]: Return target instant, sorcery or artifact card from your graveyard to your hand.
-[-7]: Search your hand and/or library for an instant, sorcery or artifact card. You may cast it without paying its mana cost. If you search your library this way, shuffle.</text>
+[+1]: You gain 3 life and draw a card.
+[-3]: Return target instant, sorcery, or artifact card from your graveyard to your hand.
+[-7]: Search your hand and/or library for an instant, sorcery, or artifact card. You may cast it without paying its mana cost. If you search your library this way, shuffle.</text>
     </card>
     <card>
       <name>PROMO Back-Alley Theatre</name>
@@ -818,7 +818,7 @@ Destroy target creature or planeswalker.</text>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets -2/-2.
-Delirium — At the beginning of the enchanted creature’s controller’s upkeep, they lose 1 life. If there are four or more card types among cards in your graveyard, they lose 2 life instead.</text>
+Delirium — At the beginning of the upkeep of enchanted creature’s controller, they lose 1 life. If there are four or more card types among cards in your graveyard, they lose 2 life instead.</text>
     </card>
     <card>
       <name>Casting Call</name>
@@ -964,7 +964,7 @@ Fiery Setpiece deals 4 damage to any nonplayer target.</text>
       <tablerow>3</tablerow>
       <text>Choose two —
 • Destroy target artifact or enchantment.
-• Exile up to two target cards from a graveyard.
+• Exile up to two target cards from a single graveyard.
 • Create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
     </card>
     <card>
@@ -1039,7 +1039,7 @@ When Gnomestack dies, create three 1/1 Gnome artifact creature tokens.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>{2}, {T}, Sacrifice Rancid Meal: You gain 3 life.
-{4}, {T}, Sacrifice Rancid Meal: It deals 3 damage to target creature or planeswalker.</text>
+{4}, {T}, Sacrifice Rancid Meal: It deals 3 damage to any nonplayer target.</text>
     </card>
     <card>
       <name>Prophetic Prism</name>
@@ -1082,7 +1082,7 @@ When Gnomestack dies, create three 1/1 Gnome artifact creature tokens.</text>
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Regale — {T}: Tap or untap target permanent not named Tragic Soloist. Activate only outside of combat. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+      <text>Regale — {T}: Tap or untap target permanent not named Tragic Soloist. You can’t activate this ability during combat. (Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
     </card>
     <card>
       <name>Fanciful Flier</name>
@@ -1351,7 +1351,7 @@ When Highbrow Critic enters, mill three cards.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {3}
-4U: Storybook Serpent can’t be blocked until end of turn.
+4U: Storybook Serpent can’t be blocked this turn.
 1U, Discard Storybook Serpent: Draw a card.</text>
     </card>
     <card>
@@ -1530,7 +1530,7 @@ When Worksite Visionary enters, you may search your library for a Building or ba
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-When Distracting Charcuterie enters, exile target creature or planeswalker until it leaves the battlefield.
+When Distracting Charcuterie enters, exile target creature or planeswalker until Distracting Charcuterie leaves the battlefield.
 {2}, {T}, Sacrifice Distracting Charcuterie: You gain 3 life.</text>
     </card>
     <card>
@@ -1544,7 +1544,7 @@ When Distracting Charcuterie enters, exile target creature or planeswalker until
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
+      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. (It retains abilities.)
 {T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
  Built 1+
 1W, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
@@ -1777,9 +1777,8 @@ At the beginning of your end step, discard your hand.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-
-Whenever another artifact you control enters, Ironflow Forge deals 1 damage to each opponent, then you may put a brick counter on this. (It retains abilities.)
+      <text> 
+Whenever another artifact you control enters, Ironflow Forge deals 1 damage to each opponent, then you may put a brick counter on it. (It retains abilities.)
  Built 2+
 RW, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
  Level 3
@@ -1840,7 +1839,7 @@ Artifact creatures you control have haste.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
+      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. (It retains abilities.)
 {R}, {T}: Target creature gains haste until end of turn.
  Built 1+
 {R}, {T}: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
@@ -1918,7 +1917,7 @@ Regale — {R}: Dragonsong gets +1/+0 until end of turn. (Activate only if you�
       <tablerow>2</tablerow>
       <text>Menace
 Exploit (When this creature enters, you may sacrifice a creature.)
-Whenever you sacrifice a creature, put a +1/+1 counter on Soliloquist.   </text>
+Whenever you sacrifice another creature, put a +1/+1 counter on Soliloquist.</text>
     </card>
     <card>
       <name>Avian Auteur</name>
@@ -1977,7 +1976,7 @@ Whenever a creature an opponent controls dies, you gain 1 life.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature card from your graveyard to the battlefield. If that creature entering the battlefield causes a triggered ability of a permanent you control to trigger this turn, that ability triggers an additional time.</text>
+      <text>Return target creature card from your graveyard to the battlefield. If that creature entering causes a triggered ability of a permanent you control to trigger this turn, that ability triggers an additional time.</text>
     </card>
     <card>
       <name>Garden Guardian</name>
@@ -2571,7 +2570,7 @@ Legacy 2URW
         <type>Legendary Artifact - Building </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your end step, draw a card, then you may put a brick counter on each Building you control.
+      <text>At the beginning of your end step, draw a card, then you may put a brick counter on each other Building you control.
 Ward {4}
  Built 2+
 Whenever you cast an artifact spell, untap each artifact you control.
@@ -2610,7 +2609,7 @@ As long as there are three or more counters among artifacts you control, Concord
       </prop>
       <tablerow>2</tablerow>
       <text>Exploit (When this creature enters, you may sacrifice a creature.)
-When Stunning Soprano exploits a creature, it deals 2 damage to any target.</text>
+When Stunning Soprano exploits a creature, Stunning Soprano deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Stormsinger</name>
@@ -2624,7 +2623,7 @@ When Stunning Soprano exploits a creature, it deals 2 damage to any target.</tex
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sagas you control have base power and toughness 4/4, have indestructible, flying, and haste, and are Dragon Illusion creatures in addition to their other types.</text>
+      <text>Sagas you control are 4/4 Dragon Illusion creatures in addition to their other types and have flying, indestructible, and haste.</text>
     </card>
     <card>
       <name>Arboreal Artist</name>
@@ -2666,7 +2665,7 @@ Take an extra turn after this one. Exile Preserve the Moment.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mill four cards. You may put an artifact, enchantment or land card from among the cards milled this way into your hand.</text>
+      <text>Mill four cards. You may put an artifact, enchantment, or land card from among the cards milled this way into your hand.</text>
     </card>
     <card>
       <name>Hearthsong</name>
@@ -2693,10 +2692,10 @@ Exile Hearthsong.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-Scry 3.
-Exile the top two cards of your library. You may play them until the end of your next turn.
-When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.</text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Scry 3.
+II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+III — When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.</text>
     </card>
     <card>
       <name>Showstopper</name>
@@ -2786,20 +2785,6 @@ Whenever Festival Puppeteer attacks, create a token that’s a copy of another t
 Whenever one or more cards you own leave exile, each opponent loses 1 life.</text>
     </card>
     <card>
-      <name>Show of Strength</name>
-      <set rarity="rare">MVX</set>
-      <prop>
-        <colors>RG</colors>
-        <manacost>2RG</manacost>
-        <cmc>4</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Target creature you control gets +3/+3 until end of turn. 
-You may have that creature fight up to one target creature you don’t control. When you do, repeat this process. (A defeated creature can’t continue to fight.)</text>
-    </card>
-    <card>
       <name>Bombastic Performance</name>
       <set rarity="uncommon">MVX</set>
       <prop>
@@ -2840,7 +2825,7 @@ Once each turn, when you gain life, each opponent loses 1 life and Petite Pâtis
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, trample
-When Partners in Rhyme enters, you may exile target instant, sorcery, or Saga card with mana value 4 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
+When Partners in Rhyme enters, you may exile target instant, sorcery, or Saga card with mana value 4 or less from your graveyard. Copy that card. You may cast the copy without paying its mana cost. (Copies of permanent spells enter as tokens.)</text>
     </card>
     <card>
       <name>Extravagant Channeler</name>
@@ -2901,7 +2886,7 @@ Enchanted creature doesn’t untap during its controller’s untap step.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>
-Whenever you cast an artifact or noncreature spell, you may put a brick counter on this.
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
 (It retains abilities.)
 3W, {T}: Tap target creature or artifact.
  Built 2+
@@ -2992,7 +2977,7 @@ Delirium — As long as there are four or more card types among cards in your gr
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Sparks of Invention deals 2 damage divided as you choose among any number of nonplayer targets. If you control two or more artifacts, Sparks of Invention deals 4 damage instead.</text>
+      <text>Sparks of Invention deals 2 damage divided as you choose among any number of nonplayer targets. If you controlled two or more artifacts as you cast this spell, Sparks of Invention deals 4 damage instead.</text>
     </card>
     <card>
       <name>Stew</name>
@@ -3067,8 +3052,8 @@ The first noncreature spell you cast each turn costs {1} less to cast.</text>
       <text>Flying, ward {1}
 Whenever Stained Glass Sentinel attacks, choose up to X, where X is the number of other artifacts you control —
 • Scry 2.
-• This gets +1/+1 until end of turn.
-• Untap this.</text>
+• This creature gets +1/+1 until end of turn.
+• Untap this creature.</text>
     </card>
     <card>
       <name>Flamesweeper</name>
@@ -3137,7 +3122,7 @@ Whenever three or more creatures you control deal combat damage to a player, put
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this. (It retains abilities.)
+      <text>Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. (It retains abilities.)
 {T}: Surveil 1. (Look at the top card of your library. You may mill it.)
  Built 1+
 {U}, {T}: Draw a card, then discard a card.
@@ -3171,7 +3156,7 @@ Regale — 1R: Deafening Duo deals 3 damage to each opponent. Activate only once
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, you may have Songcrafting become a 1/1 Illusion creature with flying in addition to its other types until end of turn.
-Whenever another enchantment you control enters, you may put a +1/+1 counter on Songcrafting.</text>
+Whenever another enchantment you control enters, put a +1/+1 counter on Songcrafting.</text>
     </card>
     <card>
       <name>Sauce Flinger</name>
@@ -3335,7 +3320,7 @@ Body of Literature gets +2/+2 for each card type among cards in your graveyard.<
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast Sate the Critics, sacrifice a creature or a Food.
-Draw two cards. You gain 2 life.</text>
+You gain 2 life and draw two cards.</text>
     </card>
     <card>
       <name>Redesign</name>
@@ -3348,10 +3333,10 @@ Draw two cards. You gain 2 life.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one. If you control two or more artifacts, you may choose two instead.
-• Counter up to one target spell.
+      <text>Choose one. If you control two or more artifacts as you cast this spell, you may choose two instead.
+• Counter target spell.
 • Target player draws three cards, then discards two cards.
-• Return up to one target nonland permanent to its owner’s hand.</text>
+• Return target nonland permanent to its owner’s hand.</text>
     </card>
     <card>
       <name>Wicked Wordsmith</name>
@@ -3424,7 +3409,7 @@ If you control an artifact and an enchantment, add WUBRG. This mana can’t be s
       </prop>
       <tablerow>3</tablerow>
       <text>If {U} was spent to cast this spell, scry 2.
-Exile the top two cards of your library. You may play them until the end of your next turn.</text>
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
     </card>
     <card>
       <name>Ironstreet Welders</name>
@@ -3439,7 +3424,7 @@ Exile the top two cards of your library. You may play them until the end of your
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Whenever Ironstreet Welders attacks, if you control two or more artifacts, Ironstreet Welders deals 2 damage to each opponent.</text>
+Whenever Ironstreet Welders attacks while you control two or more artifacts, it deals 2 damage to each opponent.</text>
     </card>
     <card>
       <name>Ingenuity</name>
@@ -3454,7 +3439,7 @@ Whenever Ironstreet Welders attacks, if you control two or more artifacts, Irons
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance, ward {3}
-Once during each of your turns, you may cast a multicolored spell you own from outside the game with mana value 5 or less if you haven’t cast a spell with that name this game.
+Once during each of your turns, you may cast a multicolored spell you own from outside the game with mana value 5 or less if you haven’t cast a spell with the same name as that spell this game.
 {3}, {T}: Add WUBRG.</text>
     </card>
     <card>
@@ -3620,7 +3605,7 @@ When Constructed Whelp dies, draw a card.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
-You may pay {R}. If you do, create a token that’s a copy of that creature except it has haste. Sacrifice it at the beginning of the next end step.</text>
+You may pay {R}. If you do, create a token that’s a copy of that creature, except it has haste. Sacrifice that token at the beginning of the next end step.</text>
     </card>
     <card>
       <name>Parkland Flautist</name>
@@ -3976,7 +3961,7 @@ At the beginning of each end step, each opponent loses X life unless they discar
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of combat on your turn, if you control two or more other artifacts, Parts Picker gains first strike until end of turn.</text>
+      <text>Whenever Parts Picker attacks while you control two or more other artifacts, it gains first strike until end of turn.</text>
     </card>
     <card>
       <name>Moment of Craving</name>
@@ -4004,7 +3989,7 @@ At the beginning of each end step, each opponent loses X life unless they discar
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Vigilance, trample, reach
+Vigilance, reach, trample
 You and other artifacts you control have hexproof.</text>
     </card>
     <card>
@@ -4079,8 +4064,8 @@ Legacy 2BR
         <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>Creatures you control that entered this turn have lifelink, trample and haste.
-[+1]: Exile the top card of your library. You may play it until end of turn.
+      <text>Creatures you control that entered this turn have lifelink, trample, and haste.
+[+1]: Exile the top card of your library. You may play it this turn.
 [-X]: Exile target creature with mana value X or less.
 [-X]: Exile target creature with mana value X or less.
 ---
@@ -4304,7 +4289,7 @@ Delirium — At the beginning of your upkeep, if there are four or more card typ
       <tablerow>2</tablerow>
       <text>Soup Serpent enters with X +1/+1 counters and your choice of a vigilance, deathtouch or trample counter on it.
 When Soup Serpent dies, create a Food token.
-You may cast Soup Serpent from your graveyard by sacrificing two tokens in addition to its other costs.</text>
+You may cast Soup Serpent from your graveyard by sacrificing two tokens in addition to paying its other costs.</text>
     </card>
     <card>
       <name>First Chair Violinist</name>
@@ -4364,7 +4349,7 @@ Regale — 2R: Return Phoenixsong from your graveyard to the battlefield. Activa
       </prop>
       <tablerow>2</tablerow>
       <text>When Pompous Thespian enters, each opponent loses 1 life and you gain 1 life.
-2W, Exile Pompous Thespian from your graveyard: Exile target creature you control, then return it to the battlefield. Activate only as a sorcery.</text>
+2W, Exile Pompous Thespian from your graveyard: Exile target creature you control, then return it to the battlefield under its owner’s control. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Profane Performer</name>
@@ -4583,8 +4568,8 @@ Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a F
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Discard a card.
-Draw a card.
+I, II — Discard a card.
+III — Draw a card.
 ​</text>
     </card>
     <card>
@@ -4599,9 +4584,9 @@ Draw a card.
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Mill five cards. Put any number of artifact and/or enchantment cards from among the milled cards into your hand.
-Create a 1/1 blue Illusion enchantment creature token with flying.
-Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Create a 1/1 blue Illusion enchantment creature token with flying.
+III — Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
     </card>
     <card>
       <name>Bite Down on Treats</name>
@@ -4642,10 +4627,10 @@ Put X +1/+1 counters on up to one target creature, where X is the number of othe
       </prop>
       <tablerow>3</tablerow>
       <text>Choose three —
-• Permanents you control gain indestructible until end of turn.
+• Permanents target player controls gain indestructible until end of turn.
 • Untap each nonland permanent you control.
 • Destroy target artifact or enchantment.
-• You gain 4 life. Draw a card.
+• Target player gains 4 life and draws a card.
 • Search your library for an artifact card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
@@ -4661,7 +4646,7 @@ Put X +1/+1 counters on up to one target creature, where X is the number of othe
       </prop>
       <tablerow>2</tablerow>
       <text>Exploit (When this creature enters, you may sacrifice a creature.)
-Whenever a creature you control exploits, it gains haste, lifelink and double strike until end of turn.</text>
+Whenever a creature you control exploits, it gains double strike, lifelink and haste until end of turn.</text>
     </card>
     <card>
       <name>Cookie Snatcher</name>
@@ -4719,8 +4704,8 @@ Preparation — Once on each of your turns, when you gain life or create a token
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-Create a tapped Treasure token.
-Look at the top four cards of your library. You may reveal an instant, sorcery or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 ​</text>
     </card>
     <card>
@@ -4765,7 +4750,7 @@ Create a Treasure token.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
-{1}, {T}: Create an artifact Equipment token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
  Built 1+
 3W, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
  Built 3+
@@ -4786,6 +4771,19 @@ Create a Treasure token.</text>
       <text>Flying
 When Avian Augmenteers enters, create a 3/3 colorless Vehicle artifact token with crew 2.
 Whenever an artifact you control enters, put your choice of a vigilance, menace, trample, or lifelink counter on up to one target Vehicle.</text>
+    </card>
+    <card>
+      <name>Show of Strength</name>
+      <set rarity="rare">MVX</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature you control gets +3/+3 and gains “Whenever this creature fights, it fights up to one target creature you don’t control.” Then it fights up to one target creature you don’t control.</text>
     </card>
 
     <!-->Tokens</-->
