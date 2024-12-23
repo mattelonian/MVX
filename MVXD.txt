@@ -1055,7 +1055,7 @@
 	    {
 	        "name": "Secret Ingredients",
 	        "rarity": "uncommon",
-	        "mana_cost": "{G}{W}",
+	        "mana_cost": "{1}{G}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Secret Ingredients.png"
