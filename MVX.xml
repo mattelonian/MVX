@@ -1777,7 +1777,8 @@ At the beginning of your end step, discard your hand.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text> 
+      <text>
+
 Whenever another artifact you control enters, Ironflow Forge deals 1 damage to each opponent, then you may put a brick counter on it. (It retains abilities.)
  Built 2+
 RW, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
@@ -1961,7 +1962,7 @@ When Operahouse Headliner exploits a creature, you draw two cards and you lose 2
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Exploit (When this permanent enters, you may sacrifice a creature.)
+      <text>Exploit (When that creature enters, you may sacrifice a creature.)
 When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
 Whenever a creature an opponent controls dies, you gain 1 life.</text>
     </card>
@@ -2692,10 +2693,10 @@ Exile Hearthsong.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Scry 3.
-II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
-III — When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.</text>
+      <text>
+Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.</text>
     </card>
     <card>
       <name>Showstopper</name>
@@ -3051,9 +3052,9 @@ The first noncreature spell you cast each turn costs {1} less to cast.</text>
       <tablerow>2</tablerow>
       <text>Flying, ward {1}
 Whenever Stained Glass Sentinel attacks, choose up to X, where X is the number of other artifacts you control —
-• Scry 2.
-• This creature gets +1/+1 until end of turn.
-• Untap this creature.</text>
+• Stained Glass Sentinel gets +1/+1 until end of turn.
+• Untap Stained Glass Sentinel.
+• Scry 2.</text>
     </card>
     <card>
       <name>Flamesweeper</name>
@@ -3472,7 +3473,7 @@ Legacy 1WBG
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your end step, you may pay up to {X}, where X is the amount of life you’ve gained this turn. If you do, create that many 1/1 green Plant creature tokens.
-Whenever a token you control dies, you may pay 2 life. If you do, draw a card.
+Whenever a token you control is put into a graveyard from the battlefield, you may pay 2 life. If you do, draw a card.
 ---
 (Front): Antoine, Chef Extraordinaire</text>
       <related attach="transform">Antoine, Chef Extraordinaire</related>
@@ -3721,21 +3722,6 @@ Legacy 1BGU
 ---
 (Front): Nicola, Inspired Artist</text>
       <related attach="transform">Nicola, Inspired Artist</related>
-    </card>
-    <card>
-      <name>Dramatis Personae</name>
-      <set rarity="mythic">MVX</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>4BB</manacost>
-        <cmc>6</cmc>
-        <type>Creature - Avatar </type>
-        <maintype>Creature</maintype>
-        <pt>5/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace
-When Dramatis Personae enters, repeat the following process four times. You may sacrifice a creature. If you do, each opponent sacrifices a creature. Otherwise, create a 1/1 black Vampire Actor creature token with lifelink. </text>
     </card>
     <card>
       <name>Chorus Machine</name>
@@ -4568,8 +4554,8 @@ Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a F
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Discard a card.
-III — Draw a card.
+Discard a card.
+Draw a card.
 ​</text>
     </card>
     <card>
@@ -4584,9 +4570,9 @@ III — Draw a card.
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
-II — Create a 1/1 blue Illusion enchantment creature token with flying.
-III — Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.</text>
     </card>
     <card>
       <name>Bite Down on Treats</name>
@@ -4676,7 +4662,7 @@ Preparation — At the beginning of your end step, if you’ve gained life or cr
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Preparation — Once on each of your turns, when you gain life or create a token, up to one target creature gets +2/+2 until end of turn.</text>
+Preparation — Once on each of your turns, when you gain life or create a token, other creatures you control get +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Kitty Connoisseur</name>
@@ -4690,7 +4676,7 @@ Preparation — Once on each of your turns, when you gain life or create a token
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Preparation — Once on each of your turns, when you gain life or create a token, you may put a +1/+1 counter on target creature.</text>
+      <text>Preparation — Once on each of your turns, when you gain life or create a token, put a +1/+1 counter on Kitty Connoisseur.</text>
     </card>
     <card>
       <name>The Grand Festival</name>
@@ -4704,8 +4690,8 @@ Preparation — Once on each of your turns, when you gain life or create a token
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-I, II — Create a tapped Treasure token.
-III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 ​</text>
     </card>
     <card>
@@ -4784,6 +4770,21 @@ Whenever an artifact you control enters, put your choice of a vigilance, menace,
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target creature you control gets +3/+3 and gains “Whenever this creature fights, it fights up to one target creature you don’t control.” Then it fights up to one target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Dramatis Personae</name>
+      <set rarity="mythic">MVX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Dramatis Personae enters, you may create a 1/1 black Vampire Actor creature token with lifelink. If you don’t, each player sacrifices a creature. Then repeat this process three more times.</text>
     </card>
 
     <!-->Tokens</-->
