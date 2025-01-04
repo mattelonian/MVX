@@ -3355,7 +3355,7 @@
 		25 Diligent Architect
 		25 Pompous Thespian
 	[LandSlot(1)]
-		20 Serene Museum
+		30 Serene Museum
 		30 Hushed Library
 		30 Charming Playhouse
 		30 Orator's Forum
