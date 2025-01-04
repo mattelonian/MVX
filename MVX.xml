@@ -1962,7 +1962,7 @@ When Operahouse Headliner exploits a creature, you draw two cards and you lose 2
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Exploit (When that creature enters, you may sacrifice a creature.)
+      <text>Exploit (When this permanent enters, you may sacrifice a creature.)
 When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
 Whenever a creature an opponent controls dies, you gain 1 life.</text>
     </card>
@@ -2571,7 +2571,7 @@ Legacy 2URW
         <type>Legendary Artifact - Building </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your end step, draw a card, then you may put a brick counter on each other Building you control.
+      <text>At the beginning of your end step, draw a card, then you may put a brick counter on each Building you control.
 Ward {4}
  Built 2+
 Whenever you cast an artifact spell, untap each artifact you control.
