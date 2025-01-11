@@ -2398,14 +2398,14 @@
 	            "en": "Antoine, Chef Extraordinaire"
 	        },
 	        "back": {
-	            "name": "Antoine's Recipe",
+	            "name": "Antoine's Cookware",
 	            "printed_names": {
-	                "en": "Antoine's Recipe"
+	                "en": "Antoine's Cookware"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Antoine's Recipe.png"
+	                "en": "https://raw.githubusercontent.com/mattelonian/MVX/main/MVX-files/Antoine's Cookware.png"
 	            },
-	            "type": "Legendary Artifact — Food "
+	            "type": "Legendary Artifact "
 	        }
 	    },
 	    {
